@@ -1,0 +1,33 @@
+name: Update ECMWF cloud forecast
+
+on:
+  schedule:
+    - cron: "20 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install forecast generator
+        run: pip install -r requirements.txt
+      - name: Download ECMWF and generate forecast frames
+        run: >-
+          python generate_cloud_frames.py --output .
+          --public-base-url https://lovemonlin.github.io/iceland-aurora-cloud
+      - name: Publish updated forecast files
+        run: |
+          touch .nojekyll
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add manifest.json tcc-*.png .nojekyll
+          git diff --cached --quiet || git commit -m "Update ECMWF cloud forecast"
+          git push
