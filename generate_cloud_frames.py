@@ -15,7 +15,7 @@ from PIL import Image
 LAT_MIN, LAT_MAX = 63.40, 66.54
 LON_MIN, LON_MAX = -24.54, -13.50
 STEPS = range(0, 25, 3)
-RUN_HOURS = (18, 12, 6, 0)
+RUNS = ((18, "scda"), (12, "oper"), (6, "scda"), (0, "oper"))
 
 
 def parse_args() -> argparse.Namespace:
@@ -32,14 +32,14 @@ def retrieve_latest_run(target: Path) -> tuple[str, int]:
     last_error: Exception | None = None
     for day_offset in range(2):
         run_date = (today - timedelta(days=day_offset)).isoformat()
-        for run_hour in RUN_HOURS:
+        for run_hour, stream in RUNS:
             try:
-                client.retrieve(date=run_date, time=run_hour, stream="oper", type="fc", param="tcc", step=list(STEPS), target=str(target))
+                client.retrieve(date=run_date, time=run_hour, stream=stream, type="fc", param="tcc", step=list(STEPS), target=str(target))
                 return run_date, run_hour
             except Exception as error:
                 last_error = error
                 target.unlink(missing_ok=True)
-                print(f"ECMWF run {run_date} {run_hour:02d}Z unavailable: {error}")
+                print(f"ECMWF run {run_date} {run_hour:02d}Z ({stream}) unavailable: {error}")
     raise RuntimeError("No ECMWF IFS cloud-cover run was available") from last_error
 
 
