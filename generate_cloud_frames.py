@@ -7,8 +7,8 @@ import json
 from datetime import UTC, timedelta
 from pathlib import Path
 
-import cfgrib
 import numpy as np
+import xarray as xr
 from ecmwf.opendata import Client
 from PIL import Image
 
@@ -50,7 +50,7 @@ def main() -> None:
     args.output.mkdir(parents=True, exist_ok=True)
     grib = args.output / "ifs-tcc.grib2"
     run_at = retrieve_latest_run(grib)
-    dataset = cfgrib.open_dataset(str(grib), backend_kwargs={"indexpath": ""})
+    dataset = xr.open_dataset(str(grib), engine="cfgrib", backend_kwargs={"indexpath": ""})
     dataset = dataset.assign_coords(longitude=dataset.longitude % 360).sortby("longitude")
     iceland = dataset.sel(latitude=slice(LAT_MAX, LAT_MIN), longitude=slice(360 + LON_MIN, 360 + LON_MAX))
     base_url = args.public_base_url.rstrip("/")
