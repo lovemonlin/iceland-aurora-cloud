@@ -1,0 +1,44 @@
+{
+  "model": "ECMWF IFS Open Data (0.25 degree)",
+  "run_at": "2026-07-31T00:00:00Z",
+  "source_url": "https://www.ecmwf.int/en/forecasts/datasets/open-data",
+  "attribution": "European Centre for Medium-Range Weather Forecasts (ECMWF), CC BY 4.0. Modified by Iceland Aurora.",
+  "frames": [
+    {
+      "valid_at": "2026-07-31T00:00:00Z",
+      "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-00h.png"
+    },
+    {
+      "valid_at": "2026-07-31T03:00:00Z",
+      "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-03h.png"
+    },
+    {
+      "valid_at": "2026-07-31T06:00:00Z",
+      "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-06h.png"
+    },
+    {
+      "valid_at": "2026-07-31T09:00:00Z",
+      "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-09h.png"
+    },
+    {
+      "valid_at": "2026-07-31T12:00:00Z",
+      "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-12h.png"
+    },
+    {
+      "valid_at": "2026-07-31T15:00:00Z",
+      "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-15h.png"
+    },
+    {
+      "valid_at": "2026-07-31T18:00:00Z",
+      "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-18h.png"
+    },
+    {
+      "valid_at": "2026-07-31T21:00:00Z",
+      "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-21h.png"
+    },
+    {
+      "valid_at": "2026-08-01T00:00:00Z",
+      "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-24h.png"
+    }
+  ]
+}
