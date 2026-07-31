@@ -3,3 +3,4 @@ eccodes==2.44.0
 ecmwf-opendata==0.3.24
 numpy==2.3.2
 Pillow==11.3.0
+xarray==2025.7.1
