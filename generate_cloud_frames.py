@@ -14,7 +14,9 @@ from PIL import Image
 
 LAT_MIN, LAT_MAX = 63.40, 66.54
 LON_MIN, LON_MAX = -24.54, -13.50
-STEPS = range(0, 25, 3)
+# Generate enough model lead time to cover the next 24 hours even though an
+# operational run becomes available several hours after its initialization.
+STEPS = range(0, 49, 3)
 
 
 def parse_args() -> argparse.Namespace:
