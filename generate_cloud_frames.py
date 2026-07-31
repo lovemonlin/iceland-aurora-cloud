@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import argparse
 import json
-from datetime import UTC, datetime, timedelta
+from datetime import UTC, timedelta
 from pathlib import Path
 
 import cfgrib
@@ -15,7 +15,6 @@ from PIL import Image
 LAT_MIN, LAT_MAX = 63.40, 66.54
 LON_MIN, LON_MAX = -24.54, -13.50
 STEPS = range(0, 25, 3)
-RUNS = ((18, "scda"), (12, "oper"), (6, "scda"), (0, "oper"))
 
 
 def parse_args() -> argparse.Namespace:
@@ -25,22 +24,17 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
-def retrieve_latest_run(target: Path) -> tuple[str, int]:
-    """Fetch the newest available IFS run, falling back safely to older runs."""
+def retrieve_latest_run(target: Path):
+    """Fetch the newest complete IFS run selected by the official client."""
     client = Client(source="ecmwf")
-    today = datetime.now(UTC).date()
-    last_error: Exception | None = None
-    for day_offset in range(2):
-        run_date = (today - timedelta(days=day_offset)).isoformat()
-        for run_hour, stream in RUNS:
-            try:
-                client.retrieve(date=run_date, time=run_hour, stream=stream, type="fc", param="tcc", step=list(STEPS), target=str(target))
-                return run_date, run_hour
-            except Exception as error:
-                last_error = error
-                target.unlink(missing_ok=True)
-                print(f"ECMWF run {run_date} {run_hour:02d}Z ({stream}) unavailable: {error}")
-    raise RuntimeError("No ECMWF IFS cloud-cover run was available") from last_error
+    result = client.retrieve(
+        type="fc",
+        param="tcc",
+        step=list(STEPS),
+        target=str(target),
+    )
+    run_at = result.datetime
+    return run_at if run_at.tzinfo is not None else run_at.replace(tzinfo=UTC)
 
 
 def cloud_rgba(cloud_fraction: np.ndarray) -> Image.Image:
@@ -55,12 +49,11 @@ def main() -> None:
     args = parse_args()
     args.output.mkdir(parents=True, exist_ok=True)
     grib = args.output / "ifs-tcc.grib2"
-    run_date, run_hour = retrieve_latest_run(grib)
+    run_at = retrieve_latest_run(grib)
     dataset = cfgrib.open_dataset(str(grib), backend_kwargs={"indexpath": ""})
     dataset = dataset.assign_coords(longitude=dataset.longitude % 360).sortby("longitude")
     iceland = dataset.sel(latitude=slice(LAT_MAX, LAT_MIN), longitude=slice(360 + LON_MIN, 360 + LON_MAX))
     base_url = args.public_base_url.rstrip("/")
-    run_at = datetime.fromisoformat(f"{run_date}T{run_hour:02d}:00:00+00:00")
     frames = []
     for step in STEPS:
         image_name = f"tcc-{step:02d}h.png"
