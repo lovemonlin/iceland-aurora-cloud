@@ -1,0 +1,37 @@
+name: Update IRCA road information
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-road-info
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install road data converter
+        run: pip install pyproj==3.7.2
+      - name: Download IRCA DATEX and generate app data
+        run: >-
+          python generate_road_data.py --output .
+          --public-base-url https://lovemonlin.github.io/iceland-aurora-cloud
+      - name: Publish updated road files
+        run: |
+          touch .nojekyll
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add road-manifest.json road-conditions.geojson road-incidents.geojson .nojekyll
+          git diff --cached --quiet || git commit -m "Update IRCA road information"
+          git push
