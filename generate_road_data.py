@@ -17,6 +17,8 @@ SOURCES = {
     "locations": "https://datex.vegagerdin.is/predefinedlocationspublication3_1/PredefinedLocationsPublicationService/pullsnapshotdata",
     "conditions": "https://datex.vegagerdin.is/situationpublication3_1/RoadConditionService/pullsnapshotdata",
     "incidents": "https://datex.vegagerdin.is/situationpublication3_1/SituationService/pullsnapshotdata",
+    "sites": "https://datex.vegagerdin.is/measurementsitetablepublication3_1/MeasurementSiteTablePublicationService/pullsnapshotdata",
+    "measurements": "https://datex.vegagerdin.is/measureddatapublication3_1/MeasureDataService/pullsnapshotdata",
 }
 ATTRIBUTION = "Based on information provided by the Icelandic Road and Coastal Administration (IRCA)."
 TRANSFORM = Transformer.from_crs("EPSG:3057", "EPSG:4326", always_xy=True)
@@ -31,8 +33,11 @@ def descendants(element: ET.Element, name: str) -> Iterable[ET.Element]:
 
 
 def first_text(element: ET.Element, name: str) -> str:
-    child = next(descendants(element, name), None)
-    return (child.text or "").strip() if child is not None else ""
+    for child in descendants(element, name):
+        value = (child.text or "").strip()
+        if value:
+            return value
+    return ""
 
 
 def translated_values(element: ET.Element) -> dict[str, str]:
@@ -52,7 +57,7 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser()
     parser.add_argument("--output", type=Path, required=True)
     parser.add_argument("--public-base-url", required=True)
-    parser.add_argument("--source-dir", type=Path, help="Use local locations.xml, conditions.xml and incidents.xml")
+    parser.add_argument("--source-dir", type=Path, help="Use local DATEX XML snapshot files for repeatable publishing")
     return parser.parse_args()
 
 
@@ -60,7 +65,12 @@ def load_sources(source_dir: Path | None) -> dict[str, ET.Element]:
     roots: dict[str, ET.Element] = {}
     for name, url in SOURCES.items():
         if source_dir:
-            roots[name] = ET.parse(source_dir / f"{name}.xml").getroot()
+            path = source_dir / f"{name}.xml"
+            # The first captured IRCA sample was named measured.xml. Keep that
+            # spelling accepted so local verification remains straightforward.
+            if name == "measurements" and not path.exists():
+                path = source_dir / "measured.xml"
+            roots[name] = ET.parse(path).getroot()
             continue
         request = urllib.request.Request(url, headers={"User-Agent": "IcelandAuroraRoadPublisher/1.0"})
         with urllib.request.urlopen(request, timeout=60) as response:
@@ -237,6 +247,121 @@ def incident_geojson(root: ET.Element) -> dict:
     return {"type": "FeatureCollection", "features": features}
 
 
+def number_text(element: ET.Element, name: str) -> str:
+    """Return a compact numeric DATEX value, or an empty string when absent."""
+    value = first_text(element, name)
+    if not value:
+        return ""
+    try:
+        return f"{float(value):.1f}".rstrip("0").rstrip(".")
+    except ValueError:
+        return value
+
+
+def has_descendant(element: ET.Element, name: str) -> bool:
+    return next(descendants(element, name), None) is not None
+
+
+def station_records(root: ET.Element) -> dict[str, dict]:
+    records: dict[str, dict] = {}
+    for site in descendants(root, "measurementSite"):
+        site_id = site.attrib.get("id", "")
+        display = next(descendants(site, "coordinatesForDisplay"), None)
+        if not site_id or display is None:
+            continue
+        try:
+            latitude = float(first_text(display, "latitude"))
+            longitude = float(first_text(display, "longitude"))
+        except ValueError:
+            continue
+        names = translated_values(next(descendants(site, "measurementSiteName"), site))
+        records[site_id] = {
+            "name": names.get("en") or names.get("is") or next(iter(names.values()), site_id),
+            "latitude": round(latitude, 6),
+            "longitude": round(longitude, 6),
+        }
+    return records
+
+
+def measurement_records(root: ET.Element) -> dict[str, dict]:
+    records: dict[str, dict] = {}
+    for measurement in descendants(root, "siteMeasurements"):
+        reference = next(descendants(measurement, "measurementSiteReference"), None)
+        site_id = reference.attrib.get("id", "") if reference is not None else ""
+        if not site_id:
+            continue
+        values: dict[str, str] = {"updated_at": first_text(measurement, "timeValue")}
+        for quantity in descendants(measurement, "physicalQuantity"):
+            # Each physicalQuantity has one value type. The tests are based on
+            # element names rather than index values, which IRCA can change.
+            if has_descendant(quantity, "airTemperature"):
+                values["temperature"] = number_text(quantity, "temperature")
+            elif has_descendant(quantity, "roadSurfaceTemperature"):
+                values["road_temperature"] = number_text(quantity, "temperature")
+            elif has_descendant(quantity, "windDirectionBearing"):
+                values["wind_direction"] = number_text(quantity, "directionBearing")
+            elif has_descendant(quantity, "maximumWindSpeed"):
+                values["wind_gust"] = number_text(quantity, "windSpeed")
+            elif has_descendant(quantity, "windSpeed"):
+                values["wind_speed"] = number_text(quantity, "windSpeed")
+            elif has_descendant(quantity, "relativeHumidity"):
+                values["humidity"] = number_text(quantity, "percentage")
+            elif has_descendant(quantity, "vehicleFlowPer10Minute"):
+                values["traffic_recent"] = number_text(next(descendants(quantity, "vehicleFlowPer10Minute")), "vehicleFlowRate")
+            elif has_descendant(quantity, "vehicleFlowPerDay"):
+                values["traffic_today"] = number_text(next(descendants(quantity, "vehicleFlowPerDay")), "vehicleFlowRate")
+        records[site_id] = values
+    return records
+
+
+def wind_arrow(direction: str) -> str:
+    try:
+        value = (float(direction) + 180) % 360  # show where the wind is blowing to
+    except ValueError:
+        return ""
+    arrows = ["↓", "↙", "←", "↖", "↑", "↗", "→", "↘"]
+    return arrows[int((value + 22.5) // 45) % 8]
+
+
+def station_geojson(sites: dict[str, dict], measurements: dict[str, dict]) -> dict:
+    features = []
+    for site_id, site in sites.items():
+        measured = measurements.get(site_id)
+        if not measured:
+            continue
+        temperature = measured.get("temperature", "")
+        wind_speed = measured.get("wind_speed", "")
+        recent = measured.get("traffic_recent", "")
+        today = measured.get("traffic_today", "")
+        label_lines = []
+        if temperature:
+            label_lines.append(f"{temperature}°")
+        if wind_speed:
+            label_lines.append(f"{wind_arrow(measured.get('wind_direction', ''))} {wind_speed} m/s".strip())
+        if recent or today:
+            label_lines.append(f"🚗 {recent or '—'} / {today or '—'}")
+        features.append({
+            "type": "Feature",
+            "properties": {
+                "id": site_id,
+                "name": site["name"],
+                "temperature": temperature,
+                "road_temperature": measured.get("road_temperature", ""),
+                "wind_speed": wind_speed,
+                "wind_gust": measured.get("wind_gust", ""),
+                "wind_direction": measured.get("wind_direction", ""),
+                "humidity": measured.get("humidity", ""),
+                "traffic_recent": recent,
+                "traffic_today": today,
+                "updated_at": measured.get("updated_at", ""),
+                "map_label": "\n".join(label_lines),
+                "has_traffic": bool(recent or today),
+            },
+            "geometry": {"type": "Point", "coordinates": [site["longitude"], site["latitude"]]},
+        })
+    return {"type": "FeatureCollection", "features": features}
+
+
 def write_json(path: Path, value: dict) -> None:
     path.write_text(json.dumps(value, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
 
@@ -249,22 +374,28 @@ def main() -> None:
     conditions = condition_records(roots["conditions"])
     roads = road_geojson(locations, conditions)
     incidents = incident_geojson(roots["incidents"])
+    stations = station_geojson(station_records(roots["sites"]), measurement_records(roots["measurements"]))
     write_json(args.output / "road-conditions.geojson", roads)
     write_json(args.output / "road-incidents.geojson", incidents)
+    write_json(args.output / "road-stations.geojson", stations)
     base_url = args.public_base_url.rstrip("/")
     write_json(args.output / "road-manifest.json", {
-        "schema_version": 1,
+        "schema_version": 2,
         "generated_at": datetime.now(UTC).isoformat().replace("+00:00", "Z"),
         "road_data_at": publication_time(roots["conditions"]),
         "incident_data_at": publication_time(roots["incidents"]),
+        "measurement_data_at": publication_time(roots["measurements"]),
         "road_count": len(roads["features"]),
         "incident_count": len(incidents["features"]),
+        "station_count": len(stations["features"]),
+        "traffic_station_count": sum(item["properties"]["has_traffic"] for item in stations["features"]),
         "roads_url": f"{base_url}/road-conditions.geojson",
         "incidents_url": f"{base_url}/road-incidents.geojson",
+        "stations_url": f"{base_url}/road-stations.geojson",
         "attribution": ATTRIBUTION,
         "source_url": "https://umferdin.is/en",
     })
-    print(f"Published {len(roads['features'])} road features and {len(incidents['features'])} incidents")
+    print(f"Published {len(roads['features'])} roads, {len(incidents['features'])} incidents and {len(stations['features'])} measurement stations")
 
 
 if __name__ == "__main__":
