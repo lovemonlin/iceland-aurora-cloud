@@ -1,0 +1,9 @@
+{
+  "id":"landmark-svortuloft-lighthouse", "status":"published", "primary_type":"landmark", "category":"coastal_landmark", "subcategory":"lighthouse", "region":"snaefellsnes",
+  "latitude":64.8638666795082, "longitude":-24.038452068239607, "name_zh":"斯沃圖洛夫特黑崖燈塔", "name_en":"Svörtuloft Lighthouse",
+  "summary_zh":"如果你要蒐集冰島「四大極點」的話，這就是極西角燈塔，開過來的路，有些不好開，路小且顛，但這裡觀看的視野不錯，如果行程有限，又想觀海的話，這個點不錯。",
+  "summary_en":"If you're aiming to visit Iceland's four extreme points, this westernmost lighthouse is a great choice. The road to get there can be narrow and rough, but the views are excellent, making it a worthwhile stop for sea-side scenery even on a tight itinerary.",
+  "google_maps_url":"https://maps.app.goo.gl/iYhsRgvqifPyPLbC7", "photo_album_url":"https://photos.app.goo.gl/vW73k1SAjM5ST9HX9", "detailed_info_url":"https://app.notion.com/p/Svo-rtuloft-Lighthouse-28036b386fd980659aa2f2dff5ab1d1b?v=31a36b386fd98002b758000c3b03ae9f&source=copy_link",
+  "facilities":["parking","viewpoint"], "parking":"free", "toilet":"none", "recommended_stay_minutes":30, "recommendation":2, "last_verified":"2026-08-04",
+  "search_keywords":["斯沃圖洛夫特", "黑崖燈塔", "Svörtuloft", "Lighthouse", "Skálasnagaviti", "斯奈山半島", "橘色燈塔"]
+}
