@@ -9,4 +9,8 @@ The repository also publishes compact road-condition and incident GeoJSON genera
 official DATEX II 3.1 snapshot services. The road workflow runs every five minutes and preserves
 the official English description for the app.
 
+It also contains the published travel-place catalogue used by the app. The first static pilot is
+Thingvellir National Park. Future releases will generate the catalogue from the owner's Notion
+database through a manually triggered publisher; the mobile app never receives Notion credentials.
+
 Attribution: Based on information provided by the Icelandic Road and Coastal Administration (IRCA).

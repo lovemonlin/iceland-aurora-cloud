@@ -1,0 +1,20 @@
+{
+  "places": [
+    {
+      "id": "attraction-thingvellir-national-park",
+      "status": "published",
+      "primary_type": "attraction",
+      "category": "nature",
+      "subcategory": "national_park",
+      "region": "southwest",
+      "latitude": 64.28716619305706,
+      "longitude": -21.055686115495565,
+      "name_zh": "辛格維爾國家公園",
+      "name_en": "Thingvellir National Park",
+      "summary_zh": "冰島第一座國家公園，以歐亞與北美板塊交界的大裂縫、歷史意義與便利的金圈位置聞名。",
+      "summary_en": "Iceland's first national park, known for its dramatic rift valley, historic importance, and convenient Golden Circle location.",
+      "search_keywords": ["辛格維爾", "辛格維爾國家公園", "Thingvellir", "Þingvellir", "Golden Circle"],
+      "detail_url": "https://lovemonlin.github.io/iceland-aurora-cloud/places/attraction-thingvellir-national-park.json"
+    }
+  ]
+}
