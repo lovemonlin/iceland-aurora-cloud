@@ -1,6 +1,22 @@
 {
   "places": [
     {
+      "id": "attraction-raudasandur",
+      "status": "published",
+      "primary_type": "attraction",
+      "category": "nature",
+      "subcategory": "beach",
+      "region": "westfjords",
+      "latitude": 65.47598552057391,
+      "longitude": -24.002219037779287,
+      "name_zh": "紅沙灘",
+      "name_en": "Raudisandur",
+      "summary_zh": "紅沙灘，在陽光下看起來，反射出淡淡的紅光而名，一般旅遊建議是 9 月後關閉，但實際上你要找找入口處，遠處停好車再走進來。\n\n而不同入口處，看到的紅沙灘也不一樣，這裡的廁所不確定，所以先列「無廁所」。",
+      "summary_en": "The Red Sand Beach reflects a subtle red glow in sunlight. Although it’s generally advised to close after September, you’ll need to locate the entrance yourself—park in the free parking area a short distance away and walk in. Different entrances offer slightly different views of the beach. Restroom facilities are uncertain, so treat it as having no toilets. Allocate about 60 minutes for the visit.",
+      "search_keywords": ["紅沙灘", "raudasandur"],
+      "detail_url": "https://lovemonlin.github.io/iceland-aurora-cloud/places/attraction-raudasandur.json"
+    },
+    {
       "id": "landmark-stephan-g-stephansson-memorial",
       "status": "published",
       "primary_type": "landmark",
@@ -91,8 +107,8 @@
       "longitude": -21.055686115495565,
       "name_zh": "辛格維爾國家公園",
       "name_en": "Thingvellir National Park",
-      "summary_zh": "冰島第一座國家公園，以歐亞與北美板塊交界的大裂縫、歷史意義與便利的金圈位置聞名。",
-      "summary_en": "Iceland's first national park, known for its dramatic rift valley, historic importance, and convenient Golden Circle location.",
+      "summary_zh": "這裡有許多停車場，建議一開始往「P1」停車場，這裡有休息中心，觀景台也在這裡，大裂縫也在這裡，繳費後，一天內可以往不同停車場前進，不同停車場，都是圍繞在這個公園。",
+      "summary_en": "There are several parking lots here. It’s best to start at the P1 parking lot—this is where you’ll find the visitor center, the viewpoints, and the main fissure. Once you’ve paid the parking fee, you can drive to different parking lots within the park during the same day; they’re all located around the park.",
       "search_keywords": ["辛格維爾", "辛格維爾國家公園", "Thingvellir", "Þingvellir", "Golden Circle"],
       "detail_url": "https://lovemonlin.github.io/iceland-aurora-cloud/places/attraction-thingvellir-national-park.json"
     }
