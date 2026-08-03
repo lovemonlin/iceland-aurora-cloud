@@ -15,6 +15,7 @@
   "travel_tips_en": "There are several parking lots here. It is best to start at P1, where you will find the visitor centre, viewpoints, and the main fissure. Once you have paid, you can use different parking lots around the park on the same day.",
   "google_maps_url": "https://maps.app.goo.gl/HEXfjXKsKdNXHvVV8",
   "photo_album_url": "https://photos.app.goo.gl/RuVBBjqDBnqgQFiK8",
+  "detailed_info_url": "https://app.notion.com/p/Thingvellir-27836b386fd980c3ba6edab594457e55?v=27736b386fd980dbb232000cbcaa9626&source=copy_link",
   "facilities": ["viewpoint", "parking", "toilet", "food"],
   "parking": "paid",
   "toilet": "free",
