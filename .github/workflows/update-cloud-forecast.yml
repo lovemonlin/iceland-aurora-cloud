@@ -20,9 +20,20 @@ jobs:
       - name: Install forecast generator
         run: pip install -r requirements.txt
       - name: Download ECMWF and generate forecast frames
-        run: >-
-          python generate_cloud_frames.py --output .
-          --public-base-url https://lovemonlin.github.io/iceland-aurora-cloud
+        run: |
+          for attempt in 1 2 3; do
+            if python generate_cloud_frames.py --output . --public-base-url https://lovemonlin.github.io/iceland-aurora-cloud; then
+              exit 0
+            fi
+
+            if [ "$attempt" -eq 3 ]; then
+              echo "ECMWF forecast generation failed after 3 attempts."
+              exit 1
+            fi
+
+            echo "Attempt $attempt failed; retrying in 30 seconds."
+            sleep 30
+          done
       - name: Publish updated forecast files
         run: |
           touch .nojekyll
