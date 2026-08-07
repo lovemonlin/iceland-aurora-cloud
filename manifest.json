@@ -1,75 +1,75 @@
 {
   "model": "ECMWF IFS Open Data (0.25 degree)",
-  "run_at": "2026-08-07T00:00:00Z",
+  "run_at": "2026-08-07T12:00:00Z",
   "source_url": "https://www.ecmwf.int/en/forecasts/datasets/open-data",
   "attribution": "European Centre for Medium-Range Weather Forecasts (ECMWF), CC BY 4.0. Modified by Iceland Aurora.",
   "frames": [
     {
-      "valid_at": "2026-08-07T00:00:00Z",
+      "valid_at": "2026-08-07T12:00:00Z",
       "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-00h.png"
     },
     {
-      "valid_at": "2026-08-07T03:00:00Z",
+      "valid_at": "2026-08-07T15:00:00Z",
       "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-03h.png"
     },
     {
-      "valid_at": "2026-08-07T06:00:00Z",
+      "valid_at": "2026-08-07T18:00:00Z",
       "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-06h.png"
     },
     {
-      "valid_at": "2026-08-07T09:00:00Z",
+      "valid_at": "2026-08-07T21:00:00Z",
       "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-09h.png"
     },
     {
-      "valid_at": "2026-08-07T12:00:00Z",
+      "valid_at": "2026-08-08T00:00:00Z",
       "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-12h.png"
     },
     {
-      "valid_at": "2026-08-07T15:00:00Z",
+      "valid_at": "2026-08-08T03:00:00Z",
       "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-15h.png"
     },
     {
-      "valid_at": "2026-08-07T18:00:00Z",
+      "valid_at": "2026-08-08T06:00:00Z",
       "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-18h.png"
     },
     {
-      "valid_at": "2026-08-07T21:00:00Z",
+      "valid_at": "2026-08-08T09:00:00Z",
       "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-21h.png"
     },
     {
-      "valid_at": "2026-08-08T00:00:00Z",
+      "valid_at": "2026-08-08T12:00:00Z",
       "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-24h.png"
     },
     {
-      "valid_at": "2026-08-08T03:00:00Z",
+      "valid_at": "2026-08-08T15:00:00Z",
       "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-27h.png"
     },
     {
-      "valid_at": "2026-08-08T06:00:00Z",
+      "valid_at": "2026-08-08T18:00:00Z",
       "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-30h.png"
     },
     {
-      "valid_at": "2026-08-08T09:00:00Z",
+      "valid_at": "2026-08-08T21:00:00Z",
       "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-33h.png"
     },
     {
-      "valid_at": "2026-08-08T12:00:00Z",
+      "valid_at": "2026-08-09T00:00:00Z",
       "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-36h.png"
     },
     {
-      "valid_at": "2026-08-08T15:00:00Z",
+      "valid_at": "2026-08-09T03:00:00Z",
       "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-39h.png"
     },
     {
-      "valid_at": "2026-08-08T18:00:00Z",
+      "valid_at": "2026-08-09T06:00:00Z",
       "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-42h.png"
     },
     {
-      "valid_at": "2026-08-08T21:00:00Z",
+      "valid_at": "2026-08-09T09:00:00Z",
       "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-45h.png"
     },
     {
-      "valid_at": "2026-08-09T00:00:00Z",
+      "valid_at": "2026-08-09T12:00:00Z",
       "image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/tcc-48h.png"
     }
   ]
