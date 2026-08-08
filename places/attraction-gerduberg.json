@@ -1,0 +1,42 @@
+{
+  "id": "attraction-gerduberg",
+  "status": "published",
+  "primary_type": "attraction",
+  "category": "nature",
+  "subcategory": "basalt_columns",
+  "region": "snaefellsnes",
+  "latitude": 64.85784215672341,
+  "longitude": -22.36737165899886,
+  "name_zh": "蓋爾杜貝格斷崖",
+  "name_en": "Gerduberg Cliffs",
+  "summary_zh": "蓋爾杜貝格是一道排列整齊的柱狀玄武岩壁，可從附近停車處短程步行觀賞, 這是一片玄武岩的岩壁，蠻寬廣的，視野非常漂亮，經過時不彷來一趟",
+  "summary_en": "Free parking is available nearby, but there are no restroom facilities. The site features well‑aligned basalt column walls that can be admired on a short walk from the parking area. Allocate about 30 minutes to explore the cliffs and enjoy the panoramic views.",
+  "google_maps_url": "https://maps.app.goo.gl/PB451Ev3KK5hLKWb6",
+  "photo_album_url": "https://photos.app.goo.gl/WDzCNU7K5LozNjfMA",
+  "detailed_info_url": "https://app.notion.com/p/Ger-uberg-Cliffs-28036b386fd98025b1b1d63b8eece0b9?v=31a36b386fd98002b758000c3b03ae9f&source=copy_link",
+  "facilities": [
+    "parking"
+  ],
+  "parking": "free",
+  "toilet": "none",
+  "recommended_stay_minutes": 30,
+  "recommendation": 2,
+  "last_verified": "2026-08-07",
+  "search_keywords": [
+    "蓋爾杜貝格斷崖",
+    "蓋爾杜貝格玄武岩壁",
+    "Gerðuberg",
+    "Gerduberg",
+    "Cliffs",
+    "Basalt",
+    "玄武岩柱",
+    "柱狀玄武岩",
+    "Columns",
+    "Columnar",
+    "玄武岩斷崖",
+    "Hnappadalur",
+    "Snæfellsnes",
+    "斯奈山半島",
+    "西冰島"
+  ]
+}
