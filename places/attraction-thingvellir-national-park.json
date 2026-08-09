@@ -13,6 +13,13 @@
   "summary_en": "There are several parking lots here. It’s best to start at the P1 parking lot—this is where you’ll find the visitor center, the viewpoints, and the main fissure. Once you’ve paid the parking fee, you can drive to different parking lots within the park during the same day; they’re all located around the park.",
   "google_maps_url": "https://maps.app.goo.gl/HEXfjXKsKdNXHvVV8",
   "photo_album_url": "https://photos.app.goo.gl/RuVBBjqDBnqgQFiK8",
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-thingvellir-national-park/cover.webp?v=20260810-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-thingvellir-national-park/gallery-01.webp?v=20260810-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-thingvellir-national-park/gallery-02.webp?v=20260810-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-thingvellir-national-park/gallery-03.webp?v=20260810-01"
+  ],
+  "photographer": "賀禎禎",
   "detailed_info_url": "https://app.notion.com/p/Thingvellir-27836b386fd980c3ba6edab594457e55?v=27736b386fd980dbb232000cbcaa9626&source=copy_link",
   "facilities": [
     "viewpoint",

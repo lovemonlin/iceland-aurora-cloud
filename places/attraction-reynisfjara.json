@@ -13,6 +13,13 @@
   "summary_en": "Parking is expensive here; a single payment allows a full day of parking, so be aware of the fee and the duration. Expect to spend about 60 minutes at the beach. The black sand is unique and smooth. There is a sea‑cave nearby with great views, but be careful of tide and waves as the area can be dangerous.",
   "google_maps_url": "https://maps.app.goo.gl/fuvzdewTXKDQrw367",
   "photo_album_url": "https://photos.app.goo.gl/k6YTRYFsvBcggAG47",
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-reynisfjara/cover.webp?v=20260810-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-reynisfjara/gallery-01.webp?v=20260810-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-reynisfjara/gallery-02.webp?v=20260810-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-reynisfjara/gallery-03.webp?v=20260810-01"
+  ],
+  "photographer": "賀禎禎",
   "detailed_info_url": "https://app.notion.com/p/Reynisfjara-27b36b386fd980bb9a62deb5bb23b5f1?source=copy_link",
   "facilities": [
     "parking",
