@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import argparse
 import json
-from datetime import UTC, timedelta
+from datetime import UTC, datetime, timedelta
 from pathlib import Path
 
 import numpy as np
@@ -66,6 +66,7 @@ def main() -> None:
     manifest = {
         "model": "ECMWF IFS Open Data (0.25 degree)",
         "run_at": run_at.isoformat().replace("+00:00", "Z"),
+        "generated_at": datetime.now(UTC).isoformat().replace("+00:00", "Z"),
         "source_url": "https://www.ecmwf.int/en/forecasts/datasets/open-data",
         "attribution": "European Centre for Medium-Range Weather Forecasts (ECMWF), CC BY 4.0. Modified by Iceland Aurora.",
         "frames": frames,
