@@ -23,6 +23,8 @@ jobs:
           cache: pip
       - name: Install road data converter
         run: pip install pyproj==3.7.2
+      - name: Test road data converter
+        run: python -m unittest -v test_generate_road_data.py
       - name: Download IRCA DATEX and generate app data
         run: >-
           python generate_road_data.py --output .

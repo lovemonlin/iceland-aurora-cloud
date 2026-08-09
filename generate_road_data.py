@@ -283,6 +283,41 @@ def station_records(root: ET.Element) -> dict[str, dict]:
     return records
 
 
+def station_records_from_geojson(path: Path) -> dict[str, dict]:
+    """Reuse stable station names and coordinates when IRCA omits its site table.
+
+    IRCA's measured-data feed can remain current while the separate measurement
+    site table temporarily contains no ``measurementSite`` entries. Coordinates
+    change rarely, so the last successfully published GeoJSON is a safer source
+    of station metadata than replacing the live layer with an empty collection.
+    """
+    if not path.is_file():
+        return {}
+    try:
+        collection = json.loads(path.read_text(encoding="utf-8-sig"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+    records: dict[str, dict] = {}
+    for feature in collection.get("features", []):
+        properties = feature.get("properties") or {}
+        geometry = feature.get("geometry") or {}
+        coordinates = geometry.get("coordinates") or []
+        site_id = str(properties.get("id") or "")
+        if geometry.get("type") != "Point" or not site_id or len(coordinates) < 2:
+            continue
+        try:
+            longitude = float(coordinates[0])
+            latitude = float(coordinates[1])
+        except (TypeError, ValueError):
+            continue
+        records[site_id] = {
+            "name": str(properties.get("name") or site_id),
+            "latitude": round(latitude, 6),
+            "longitude": round(longitude, 6),
+        }
+    return records
+
+
 def measurement_records(root: ET.Element) -> dict[str, dict]:
     records: dict[str, dict] = {}
     for measurement in descendants(root, "siteMeasurements"):
@@ -374,7 +409,17 @@ def main() -> None:
     conditions = condition_records(roots["conditions"])
     roads = road_geojson(locations, conditions)
     incidents = incident_geojson(roots["incidents"])
-    stations = station_geojson(station_records(roots["sites"]), measurement_records(roots["measurements"]))
+    sites = station_records(roots["sites"])
+    if not sites:
+        sites = station_records_from_geojson(args.output / "road-stations.geojson")
+    measurements = measurement_records(roots["measurements"])
+    if not sites:
+        raise RuntimeError("IRCA returned no measurement-site metadata and no previous station GeoJSON is available")
+    if not measurements:
+        raise RuntimeError("IRCA returned no road weather or traffic measurements")
+    stations = station_geojson(sites, measurements)
+    if not stations["features"]:
+        raise RuntimeError("IRCA measurement IDs do not match the available station metadata")
     write_json(args.output / "road-conditions.geojson", roads)
     write_json(args.output / "road-incidents.geojson", incidents)
     write_json(args.output / "road-stations.geojson", stations)
