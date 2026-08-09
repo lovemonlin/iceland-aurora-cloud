@@ -6,6 +6,7 @@ $Root = $PSScriptRoot
 $ManifestPath = Join-Path $Root 'places-manifest.json'
 $IndexPath = Join-Path $Root 'places-index.json'
 $DetailsDirectory = Join-Path $Root 'places'
+$ImagesDirectory = Join-Path $Root 'images\places'
 
 $manifest = Get-Content -LiteralPath $ManifestPath -Raw -Encoding UTF8 | ConvertFrom-Json
 $index = Get-Content -LiteralPath $IndexPath -Raw -Encoding UTF8 | ConvertFrom-Json
@@ -44,6 +45,34 @@ foreach ($place in $index.places) {
     }
     if ($detail.recommendation -ne $place.recommendation) {
         throw "Recommendation mismatch for $($place.id): index=$($place.recommendation), detail=$($detail.recommendation)"
+    }
+
+    $coverUrl = [string]$detail.cover_image_url
+    $galleryUrls = @($detail.gallery_image_urls | Where-Object { -not [string]::IsNullOrWhiteSpace($_) })
+    if (-not [string]::IsNullOrWhiteSpace($coverUrl)) {
+        if ($coverUrl -notmatch '^https://') {
+            throw "Cover image URL must use HTTPS: $($place.id)"
+        }
+        $placeImageDirectory = Join-Path $ImagesDirectory $place.id
+        $coverPath = Join-Path $placeImageDirectory 'cover.webp'
+        if (-not (Test-Path -LiteralPath $coverPath -PathType Leaf)) {
+            throw "Missing cover image: $coverPath"
+        }
+        if ($galleryUrls.Count -gt 3) {
+            throw "A place may have at most three gallery images: $($place.id)"
+        }
+        for ($galleryIndex = 0; $galleryIndex -lt $galleryUrls.Count; $galleryIndex++) {
+            if ([string]$galleryUrls[$galleryIndex] -notmatch '^https://') {
+                throw "Gallery image URL must use HTTPS: $($place.id)"
+            }
+            $galleryName = 'gallery-{0:D2}.webp' -f ($galleryIndex + 1)
+            $galleryPath = Join-Path $placeImageDirectory $galleryName
+            if (-not (Test-Path -LiteralPath $galleryPath -PathType Leaf)) {
+                throw "Missing gallery image: $galleryPath"
+            }
+        }
+    } elseif ($galleryUrls.Count -gt 0) {
+        throw "Gallery images require a cover image: $($place.id)"
     }
 }
 
