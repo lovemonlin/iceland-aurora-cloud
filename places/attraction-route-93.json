@@ -51,5 +51,12 @@
     "East",
     "Iceland",
     "Austurland"
-  ]
+  ],
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-route-93/cover.webp?v=20260810-02",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-route-93/gallery-01.webp?v=20260810-02",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-route-93/gallery-02.webp?v=20260810-02",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-route-93/gallery-03.webp?v=20260810-02"
+  ],
+  "photographer": "賀禎禎"
 }

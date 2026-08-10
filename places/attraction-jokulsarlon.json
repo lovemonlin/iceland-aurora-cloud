@@ -52,5 +52,12 @@
     "一號公路",
     "Ring",
     "Road"
-  ]
+  ],
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-jokulsarlon/cover.webp?v=20260810-02",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-jokulsarlon/gallery-01.webp?v=20260810-02",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-jokulsarlon/gallery-02.webp?v=20260810-02",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-jokulsarlon/gallery-03.webp?v=20260810-02"
+  ],
+  "photographer": "賀禎禎"
 }
