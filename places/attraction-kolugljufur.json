@@ -48,5 +48,12 @@
     "北冰島",
     "North",
     "Iceland"
-  ]
+  ],
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-kolugljufur/cover.webp?v=20260810-04",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-kolugljufur/gallery-01.webp?v=20260810-04",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-kolugljufur/gallery-02.webp?v=20260810-04",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-kolugljufur/gallery-03.webp?v=20260810-04"
+  ],
+  "photographer": "賀禎禎"
 }

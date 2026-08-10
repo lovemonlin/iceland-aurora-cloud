@@ -45,5 +45,12 @@
     "西峽灣",
     "Westfjords",
     "Vestfirðir"
-  ]
+  ],
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-dynjandi/cover.webp?v=20260810-04",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-dynjandi/gallery-01.webp?v=20260810-04",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-dynjandi/gallery-02.webp?v=20260810-04",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-dynjandi/gallery-03.webp?v=20260810-04"
+  ],
+  "photographer": "賀禎禎"
 }

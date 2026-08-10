@@ -53,5 +53,12 @@
     "Ring",
     "Road",
     "西北"
-  ]
+  ],
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-blonduoskirkja-church/cover.webp?v=20260810-04",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-blonduoskirkja-church/gallery-01.webp?v=20260810-04",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-blonduoskirkja-church/gallery-02.webp?v=20260810-04",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-blonduoskirkja-church/gallery-03.webp?v=20260810-04"
+  ],
+  "photographer": "賀禎禎"
 }
