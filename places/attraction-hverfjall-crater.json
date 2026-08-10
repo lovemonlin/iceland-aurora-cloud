@@ -1,0 +1,31 @@
+{
+  "id": "attraction-hverfjall-crater",
+  "status": "published",
+  "primary_type": "attraction",
+  "category": "nature",
+  "subcategory": "crater_lake",
+  "region": "northeast",
+  "latitude": 65.60900944190368,
+  "longitude": -16.86934923560505,
+  "name_zh": "惠爾山",
+  "name_en": "Hverfjall",
+  "summary_zh": "這也許是你這輩子，第一次登頂的火山，從停車場慢步走上去，約 20-25 分鐘，登頂後若要繞行一圈，約 40 分鐘，如果冬天來，一定要帶冰爪，建議是保留至少 60 分鐘，旅程才不會太趕。",
+  "summary_en": "This may be the first volcano summit of your life: park in the paid lot, then walk up for about 20‑25 minutes to the crater. A full loop around the summit takes roughly 40 minutes. In winter, bring crampons. Allow at least 60 minutes total so the hike isn’t rushed.",
+  "google_maps_url": "https://maps.app.goo.gl/9N4ofHUNKKVJZNYL8",
+  "photo_album_url": "https://photos.app.goo.gl/jXxD7ahLnMRMDkiz8",
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-hverfjall-crater/cover.webp?v=20260810-03",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-hverfjall-crater/gallery-01.webp?v=20260810-03",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-hverfjall-crater/gallery-02.webp?v=20260810-03",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-hverfjall-crater/gallery-03.webp?v=20260810-03"
+  ],
+  "photographer": "賀禎禎",
+  "detailed_info_url": "https://app.notion.com/p/Hverfjall-28036b386fd980419877f7c3e507f3f8?v=31a36b386fd980488dd3000cb7b802e9&source=copy_link",
+  "facilities": ["parking", "toilet"],
+  "parking": "paid",
+  "toilet": "free",
+  "recommended_stay_minutes": 90,
+  "recommendation": 3,
+  "last_verified": "2026-08-06",
+  "search_keywords": ["惠爾山", "惠爾火山口", "Hverfjall", "Hverfell", "Crater", "火山口", "爆炸火山口", "火山口步道", "火山健行", "米湖", "Mývatn", "Myvatn", "Lake", "Dimmuborgir", "黑暗城堡", "Diamond", "Circle", "鑽石圈", "火山地形", "東北"]
+}

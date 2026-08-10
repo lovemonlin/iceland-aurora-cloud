@@ -1,0 +1,31 @@
+{
+  "id": "attraction-skutustadagigar-pseudocraters",
+  "status": "published",
+  "primary_type": "attraction",
+  "category": "nature",
+  "subcategory": "crater_lake",
+  "region": "northeast",
+  "latitude": 65.57096061069089,
+  "longitude": -17.034060568006524,
+  "name_zh": "偽火山口",
+  "name_en": "Skutustadagigar",
+  "summary_zh": "這個看起來是火山，實際上並不是，大大小小地面上隆起的假火山，從停車場開始步行約 1 小時，可以欣賞完整個「假火山群」的景觀。\n\n加油站就在入口對面旅館前方，而該旅館有餐廳可以入內享用，非住客也能進入。",
+  "summary_en": "This site appears as a volcano but is actually a series of false volcanic cones; from the parking lot, walk about an hour to see the entire “false volcano group” landscape. A gas station is located opposite the entrance in front of a hotel, which also has a restaurant open to non‑guests.",
+  "google_maps_url": "https://maps.app.goo.gl/twedRMakcacSQfcz9",
+  "photo_album_url": "https://photos.app.goo.gl/2piFFKojydcY4h3d7",
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-skutustadagigar-pseudocraters/cover.webp?v=20260810-03",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-skutustadagigar-pseudocraters/gallery-01.webp?v=20260810-03",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-skutustadagigar-pseudocraters/gallery-02.webp?v=20260810-03",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-skutustadagigar-pseudocraters/gallery-03.webp?v=20260810-03"
+  ],
+  "photographer": "賀禎禎",
+  "detailed_info_url": "https://app.notion.com/p/Sku-tusta-agi-gar-28036b386fd980b2ad23e44bfaf8e186?v=31a36b386fd980488dd3000cb7b802e9&source=copy_link",
+  "facilities": ["parking", "viewpoint", "fuel"],
+  "parking": "free",
+  "toilet": "none",
+  "recommended_stay_minutes": 60,
+  "recommendation": 3,
+  "last_verified": "2026-08-06",
+  "search_keywords": ["偽火山口", "斯庫圖斯塔迪爾偽火山口", "Skútustaðagígar", "Skutustadagigar", "Skútustaðir", "Pseudocraters", "Skutustadir", "假火山口", "偽火山口群", "蒸氣爆炸火山口", "米湖", "Mývatn", "Myvatn", "Lake", "Gígur", "Visitor", "Centre", "Gigur", "Center", "賞鳥", "Bird", "Watching", "鑽石圈", "Diamond", "Circle", "一號公路", "Ring", "Road", "東北"]
+}

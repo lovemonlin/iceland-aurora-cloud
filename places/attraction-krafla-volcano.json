@@ -1,0 +1,31 @@
+{
+  "id": "attraction-krafla-volcano",
+  "status": "published",
+  "primary_type": "attraction",
+  "category": "nature",
+  "subcategory": "crater_lake",
+  "region": "northeast",
+  "latitude": 65.71741039774598,
+  "longitude": -16.753304188477287,
+  "name_zh": "克拉夫拉火山",
+  "name_en": "Krafla",
+  "summary_zh": "穿過克拉夫拉地熱發電廠，再往前開，你就會看到，這裡有點爬坡，秋冬季若飄雪，這裡就會封路\n\n如果惠兒山你沒有力氣爬，這個克拉夫拉火山，我就蠻推薦的，完整的火山口景觀，非常漂亮，車到景到.",
+  "summary_en": "Drive past the Krafla geothermal power plant and continue forward; you’ll soon see the site, which involves a slight uphill stretch that can be closed during autumn and winter when snow falls. If you’re not up for a strenuous climb like Huier Mountain, Krafla Volcano is highly recommended for its complete crater view—very beautiful and easily reachable by car. Parking is free, but there are no restroom facilities; a 30‑minute visit is sufficient.",
+  "google_maps_url": "https://maps.app.goo.gl/aV6B1AjAqx8mL1eq7",
+  "photo_album_url": "https://photos.app.goo.gl/X2jWM5psGpSDKe7S9",
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-krafla-volcano/cover.webp?v=20260810-03",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-krafla-volcano/gallery-01.webp?v=20260810-03",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-krafla-volcano/gallery-02.webp?v=20260810-03",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-krafla-volcano/gallery-03.webp?v=20260810-03"
+  ],
+  "photographer": "賀禎禎",
+  "detailed_info_url": "https://app.notion.com/p/Krafla-28036b386fd980dbb230ff3e22f78cd8?v=31a36b386fd980488dd3000cb7b802e9&source=copy_link",
+  "facilities": ["parking"],
+  "parking": "free",
+  "toilet": "none",
+  "recommended_stay_minutes": 30,
+  "recommendation": 3,
+  "last_verified": "2026-08-08",
+  "search_keywords": ["克拉夫拉火山", "克拉夫拉火山區", "Krafla", "Volcano", "Caldera", "Volcanic", "System", "活火山", "破火山口", "Víti", "Viti", "維蒂火山口", "Leirhnjúkur", "Leirhnjukur", "雷爾赫紐克熔岩原", "Lava", "Fields", "Fires", "Mývatn", "Myvatn", "米湖", "863號公路", "Road", "863", "Diamond", "Circle", "鑽石圈", "東北"]
+}
