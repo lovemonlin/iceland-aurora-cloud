@@ -13,6 +13,13 @@
   "summary_en": "This cave is located next to Vik town and can be reached by a 10‑minute drive. Parking is available for a fee. From inside the cave, the view resembles Master Yoda from Star Wars. Plan to spend about 30 minutes exploring.",
   "google_maps_url": "https://maps.app.goo.gl/YXNGkPnLVgZCKGXw7",
   "photo_album_url": "https://photos.app.goo.gl/xqsobdkzs7orN9KF7",
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-yoda-cave/cover.webp?v=20260812-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-yoda-cave/gallery-01.webp?v=20260812-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-yoda-cave/gallery-02.webp?v=20260812-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-yoda-cave/gallery-03.webp?v=20260812-01"
+  ],
+  "photographer": "賀禎禎",
   "detailed_info_url": "https://app.notion.com/p/Yoda-Cave-27b36b386fd9800a9560e007c84888d4?v=31a36b386fd980c7bd01000c719db7f2&source=copy_link",
   "facilities": [
     "parking"

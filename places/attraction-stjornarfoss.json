@@ -13,6 +13,12 @@
   "summary_en": "Stjörnaarfoss is a small, easily accessible waterfall near Kirkjubæjarklaustur. Park in the free parking lot on the right side of the road, cross the street, and walk about three minutes to reach the falls, which are conveniently located right by the roadside.",
   "google_maps_url": "https://maps.app.goo.gl/tHRvWAH6dstG6mFc7",
   "photo_album_url": "https://photos.app.goo.gl/gmfzNEVAq1YuYima8",
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-stjornarfoss/cover.webp?v=20260812-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-stjornarfoss/gallery-01.webp?v=20260812-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-stjornarfoss/gallery-02.webp?v=20260812-01"
+  ],
+  "photographer": "賀禎禎",
   "detailed_info_url": "https://app.notion.com/p/Stjo-rnarfoss-27b36b386fd980a09612ed62b1aed8ef?v=31a36b386fd980c7bd01000c719db7f2&source=copy_link",
   "facilities": [
     "parking"

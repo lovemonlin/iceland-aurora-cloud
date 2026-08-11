@@ -13,6 +13,12 @@
   "summary_en": "This low‑key waterfall is easy to miss, but there’s a convenient free parking lot right next to it; it’s only a two‑minute walk to the falls. The waterfall is short and you’ll need to crouch to see it, but its multiple tiers are charming and make for a nice mini‑waterfall experience. Expect to spend about 30 minutes here.",
   "google_maps_url": "https://maps.app.goo.gl/sDft7gdpd5mwA9YS6",
   "photo_album_url": "https://photos.app.goo.gl/to39UMSgW4TtC1nT7",
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-fossalar/cover.webp?v=20260812-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-fossalar/gallery-01.webp?v=20260812-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-fossalar/gallery-02.webp?v=20260812-01"
+  ],
+  "photographer": "賀禎禎",
   "detailed_info_url": "https://app.notion.com/p/Fossa-lar-Waterfall-27c36b386fd98072b91ff59765ac655f?v=31a36b386fd980c7bd01000c719db7f2&source=copy_link",
   "facilities": [
     "parking"

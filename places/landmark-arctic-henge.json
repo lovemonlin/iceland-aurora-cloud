@@ -13,6 +13,13 @@
   "summary_en": "This site marks Iceland's northernmost point among the four extreme poles, featuring a distinctive stone circle that makes for stunning aurora photography, though its remote location means it's not highly recommended unless you have ample travel time. The Arctic stone circle blends Norse mythology, astronomy, and Icelandic seasonal light, functioning like a large sundial.",
   "google_maps_url": "https://maps.app.goo.gl/gtHkZWjkUmAoWHtC8",
   "photo_album_url": "https://photos.app.goo.gl/YT8kkhAMfnyoeB1W9",
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-arctic-henge/cover.webp?v=20260812-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-arctic-henge/gallery-01.webp?v=20260812-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-arctic-henge/gallery-02.webp?v=20260812-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-arctic-henge/gallery-03.webp?v=20260812-01"
+  ],
+  "photographer": "賀禎禎",
   "detailed_info_url": "https://app.notion.com/p/Arctic-henge-28036b386fd9800e899fd7bffa20487b?v=31a36b386fd980488dd3000cb7b802e9&source=copy_link",
   "facilities": [
     "parking",
