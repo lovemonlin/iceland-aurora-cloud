@@ -44,5 +44,12 @@
     "西冰島",
     "West",
     "Iceland"
-  ]
+  ],
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-selvallafoss/cover.webp?v=20260811-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-selvallafoss/gallery-01.webp?v=20260811-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-selvallafoss/gallery-02.webp?v=20260811-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-selvallafoss/gallery-03.webp?v=20260811-01"
+  ],
+  "photographer": "賀禎禎"
 }

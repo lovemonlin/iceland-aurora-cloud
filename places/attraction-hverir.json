@@ -56,5 +56,12 @@
     "北冰島",
     "North",
     "Iceland"
-  ]
+  ],
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-hverir/cover.webp?v=20260811-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-hverir/gallery-01.webp?v=20260811-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-hverir/gallery-02.webp?v=20260811-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-hverir/gallery-03.webp?v=20260811-01"
+  ],
+  "photographer": "賀禎禎"
 }

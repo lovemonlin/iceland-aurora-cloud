@@ -54,5 +54,12 @@
     "箭頭山",
     "攝影景點",
     "極光拍攝"
-  ]
+  ],
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-kirkjufell/cover.webp?v=20260811-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-kirkjufell/gallery-01.webp?v=20260811-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-kirkjufell/gallery-02.webp?v=20260811-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-kirkjufell/gallery-03.webp?v=20260811-01"
+  ],
+  "photographer": "賀禎禎"
 }
