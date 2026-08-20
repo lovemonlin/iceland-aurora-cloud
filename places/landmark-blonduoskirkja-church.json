@@ -21,7 +21,7 @@
     "food"
   ],
   "parking": "free",
-  "toilet": "",
+  "toilet": "none",
   "recommended_stay_minutes": 30,
   "recommendation": 3,
   "last_verified": "2026-08-07",
