@@ -1,0 +1,47 @@
+{
+  "id": "attraction-olkelda",
+  "status": "published",
+  "primary_type": "attraction",
+  "category": "nature",
+  "subcategory": "mineral_spring",
+  "region": "snaefellsnes",
+  "latitude": 64.8368033043971,
+  "longitude": -22.97659073578402,
+  "name_zh": "天然礦泉",
+  "name_en": "Olkelda",
+  "summary_zh": "Ölkelda 農場附近，以天然含碳酸的礦泉水聞名，水中鐵質含量高，因此泉水流經的地面會呈現明顯紅褐色。\n\n你可以用沾些礦泉水嚐看看，會有非常重的鐵銹的味道，聽說喝了能強身健體，但我不建議真的喝下去。",
+  "summary_en": "The Olkelda spring near the farm is known for its naturally carbonated mineral water with high iron content, giving the surrounding ground a distinct reddish-brown color. You can taste a small amount of the water, which has a strong metallic, rusty flavor; it is said to be invigorating, but drinking it is not recommended. Parking is available for free nearby. There are no restroom facilities, so plan accordingly. A 30‑minute visit is suggested.",
+  "google_maps_url": "https://maps.app.goo.gl/EJDNWNuh1WzP4mMZ8",
+  "photo_album_url": "",
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-olkelda/cover.webp?v=20260821-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-olkelda/gallery-01.webp?v=20260821-01"
+  ],
+  "photographer": "賀禎禎",
+  "detailed_info_url": "https://app.notion.com/p/lkelda-3ba36b386fd980f48a1fc1134faa1cf1?v=31a36b386fd98002b758000c3b03ae9f&source=copy_link",
+  "facilities": [
+    "parking"
+  ],
+  "parking": "free",
+  "toilet": "none",
+  "recommended_stay_minutes": 30,
+  "recommendation": 1,
+  "last_verified": "2026-08-20",
+  "search_keywords": [
+    "Ölkelda",
+    "Olkelda",
+    "Ölkelda Mineral Spring",
+    "Olkelda Mineral Spring",
+    "Ölkelduvatn Mineral Spring",
+    "天然礦泉 Ölkelda",
+    "Ölkelda 天然礦泉",
+    "冰島天然礦泉",
+    "mineral spring Iceland",
+    "carbonated spring Iceland",
+    "Staðarstaður",
+    "Stadarstadur",
+    "Snæfellsnes",
+    "Snaefellsnes",
+    "West Iceland mineral spring"
+  ]
+}

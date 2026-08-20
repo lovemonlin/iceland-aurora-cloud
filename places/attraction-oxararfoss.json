@@ -1,0 +1,36 @@
+{
+  "id": "attraction-oxararfoss",
+  "status": "published",
+  "primary_type": "attraction",
+  "category": "nature",
+  "subcategory": "waterfall",
+  "region": "southwest",
+  "latitude": 64.26585511237394,
+  "longitude": -21.117316370666526,
+  "name_zh": "奧克薩瀑布",
+  "name_en": "Oxararfoss",
+  "summary_zh": "奧克薩瀑布位於辛格維爾國家公園的 Almannagjá 裂谷內，這裡是辛格維爾國家公園裡面的瀑布，位於 P2 停車場，下來後步行約 10 分鐘就能看得到，你可以從 P1 主要停車場步行過來，或是開車繞過來。\n\n停車費用，同一天只要繳交一次就好，就可以在不同停車場自由停車，有繳費亭可以付費。",
+  "summary_en": "Oxararfoss is located within the Almannagjá fissure in Thingvellir National Park. It can be reached from the P2 parking lot, about a 10‑minute walk away, or by walking from the main P1 parking area or driving directly to the site. Parking fees are paid once per day, allowing free movement between paid lots, with payment machines available. The site offers a parking lot, free restroom, and a viewing platform. Plan to spend around 30 minutes here.",
+  "google_maps_url": "https://maps.app.goo.gl/7J2hyb7bsQ5rHeBs8",
+  "photo_album_url": "https://photos.app.goo.gl/anQUNh9T9db3vngF9",
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-oxararfoss/cover.webp?v=20260821-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-oxararfoss/gallery-01.webp?v=20260821-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-oxararfoss/gallery-02.webp?v=20260821-01"
+  ],
+  "photographer": "賀禎禎",
+  "detailed_info_url": "https://app.notion.com/p/O-xara-rfoss-27836b386fd98093a936c2b074d6c6c1?v=2d536b386fd980a09d5e000ce135dcac&source=copy_link",
+  "facilities": [
+    "parking",
+    "viewpoint",
+    "toilet"
+  ],
+  "parking": "paid",
+  "toilet": "free",
+  "recommended_stay_minutes": 30,
+  "recommendation": 3,
+  "last_verified": "2026-08-05",
+  "search_keywords": [
+    "奧克薩瀑布 歐克薩瀑布 Öxarárfoss Oxararfoss Öxaráfoss Oxarafoss Öxará Oxara River 瀑布 Waterfall 辛格維爾 Thingvellir Þingvellir National Park 辛格維爾國家公園 Almannagjá Almannagja 阿爾曼裂谷 黃金圈 Golden Circle 板塊裂谷 西南 冰島瀑布"
+  ]
+}

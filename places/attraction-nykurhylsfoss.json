@@ -1,0 +1,51 @@
+{
+  "id": "attraction-nykurhylsfoss",
+  "status": "published",
+  "primary_type": "attraction",
+  "category": "nature",
+  "subcategory": "waterfall",
+  "region": "eastfjords",
+  "latitude": 64.76519604825906,
+  "longitude": -14.48454780665474,
+  "name_zh": "尼庫希爾瀑布",
+  "name_en": "Nykurhylsfoss",
+  "summary_zh": "這是東峽灣，開車會經過的小瀑布，有觀景台，路邊停車，如果想停車下來走走，可以開來這裡稍作休息。",
+  "summary_en": "This small waterfall in East Fjord can be reached by car, with a free parking spot right by the roadside and a viewing platform. There are no restroom facilities. A short walk from the parking area leads to the waterfall, making it a nice spot to stop for a brief 30‑minute break.",
+  "google_maps_url": "https://maps.app.goo.gl/H3oDNbxRDqBQeWw47",
+  "photo_album_url": "",
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-nykurhylsfoss/cover.webp?v=20260821-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-nykurhylsfoss/gallery-01.webp?v=20260821-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-nykurhylsfoss/gallery-02.webp?v=20260821-01"
+  ],
+  "photographer": "賀禎禎",
+  "detailed_info_url": "https://app.notion.com/p/Nykurhylsfoss-3bf36b386fd980ed9c3bd251f59ea1b9?v=31a36b386fd980fdad65000c3ae2c3ee&source=copy_link",
+  "facilities": [
+    "viewpoint",
+    "parking"
+  ],
+  "parking": "free",
+  "toilet": "none",
+  "recommended_stay_minutes": 30,
+  "recommendation": 1,
+  "last_verified": "2026-08-20",
+  "search_keywords": [
+    "Nykurhylsfoss",
+    "Nykurhylsfoss waterfall",
+    "Sveinsstekksfoss",
+    "Sveinstekksfoss",
+    "Fossárfoss",
+    "Fossarfoss",
+    "Fossá",
+    "Fossa",
+    "尼庫希爾瀑布",
+    "斯維因斯泰克瀑布",
+    "Fossá 河瀑布",
+    "Djúpivogur",
+    "Berufjörður",
+    "Eastfjords waterfall",
+    "East Iceland waterfall",
+    "冰島東峽灣瀑布",
+    "一號環島公路瀑布"
+  ]
+}

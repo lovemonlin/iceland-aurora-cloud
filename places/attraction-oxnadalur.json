@@ -1,0 +1,51 @@
+{
+  "id": "attraction-oxnadalur",
+  "status": "published",
+  "primary_type": "attraction",
+  "category": "nature",
+  "subcategory": "valley",
+  "region": "northwest",
+  "latitude": 65.57661177589044,
+  "longitude": -18.509962825798095,
+  "name_zh": "厄赫斯納谷地",
+  "name_en": "Oxnadalur",
+  "summary_zh": "這段路是我認為，冰島本島中，除了西峽灣外 「最美的一段公路」，只要你是環島旅行，你一定都會經過的公路段。\n\n從阿克雷里向西，或是準備抵達阿克雷里，這段路是在山谷段裡面，這裡景觀真的，美到讓你會愛上冰島，而我也是因為這段路，才對環島旅行通行有體會。\n\n一路上沒有停車場，但有一些可臨停的位置，請小心留意勿任何違規停車。",
+  "summary_en": "This stretch of road is arguably the most beautiful section of Iceland’s mainland, aside from the Westfjords, and a must‑see for anyone doing the Ring Road. Traveling west from Akureyri—or approaching Akureyri from the west—you’ll drive through a stunning valley with scenery so striking you’ll fall in love with Iceland. The area has no formal parking lot, but there are a few pull‑over spots where you can stop temporarily; be careful to avoid illegal parking. Facilities: free parking (in the designated pull‑over spots) and no restrooms. Recommended visit time: about 30 minutes.",
+  "google_maps_url": "https://maps.app.goo.gl/ukAtJbTxKQWMrYhh7",
+  "photo_album_url": "",
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-oxnadalur/cover.webp?v=20260821-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-oxnadalur/gallery-01.webp?v=20260821-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-oxnadalur/gallery-02.webp?v=20260821-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-oxnadalur/gallery-03.webp?v=20260821-01"
+  ],
+  "photographer": "賀禎禎",
+  "detailed_info_url": "https://app.notion.com/p/Oxnadalur-3bd36b386fd980689afacfc537aab446?v=31a36b386fd9802e85e0000c4cde6ad8&source=copy_link",
+  "facilities": [
+    "parking"
+  ],
+  "parking": "free",
+  "toilet": "none",
+  "recommended_stay_minutes": 30,
+  "recommendation": 3,
+  "last_verified": "2026-08-20",
+  "search_keywords": [
+    "Öxnadalur",
+    "Oxnadalur",
+    "Öxnadalur valley",
+    "Oxnadalur valley",
+    "厄克斯納達勒山谷",
+    "Öxnadalur 山谷",
+    "冰島山谷",
+    "Hraun Öxnadalur",
+    "Hraunsvatn",
+    "Hraundrangi",
+    "Öxnadalsheiði",
+    "Oxnadalsheidi",
+    "Akureyri",
+    "Hörgársveit",
+    "Northeast Iceland",
+    "North Iceland valley",
+    "Route 1 Iceland"
+  ]
+}

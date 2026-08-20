@@ -1,0 +1,49 @@
+{
+  "id": "landmark-olafsvikurkirkja",
+  "status": "published",
+  "primary_type": "landmark",
+  "category": "cultural_landscape",
+  "subcategory": "church",
+  "region": "snaefellsnes",
+  "latitude": 64.89550512171579,
+  "longitude": -23.71248171976834,
+  "name_zh": "奧拉夫斯維克教堂",
+  "name_en": "olafsvikurkirkja",
+  "summary_zh": "現代幾何造型教堂，以尖銳三角形屋頂與獨立鐘塔為特色，非常明顯，前方有個彩虹步道非常漂亮。",
+  "summary_en": "A modern geometric church distinguished by its sharp triangular roof and standalone bell tower, with a striking rainbow walkway in front that is especially beautiful. Parking is free on site. No restroom facilities are available. Recommended visit time is about 30 minutes.",
+  "google_maps_url": "https://maps.app.goo.gl/doCxdQBTPM9XmoML8",
+  "photo_album_url": "",
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-olafsvikurkirkja/cover.webp?v=20260821-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-olafsvikurkirkja/gallery-01.webp?v=20260821-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-olafsvikurkirkja/gallery-02.webp?v=20260821-01"
+  ],
+  "photographer": "賀禎禎",
+  "detailed_info_url": "https://app.notion.com/p/lafsv-kurkirkja-3ba36b386fd980aab8c5ca10c0e86484?v=31a36b386fd98002b758000c3b03ae9f&source=copy_link",
+  "facilities": [
+    "parking"
+  ],
+  "parking": "free",
+  "toilet": "none",
+  "recommended_stay_minutes": 30,
+  "recommendation": 1,
+  "last_verified": "2026-08-20",
+  "search_keywords": [
+    "Ólafsvíkurkirkja",
+    "Olafsvikurkirkja",
+    "Ólafsvík Church",
+    "Olafsvik Church",
+    "奧拉夫斯維克教堂",
+    "Ólafsvík 教堂",
+    "Olafsvik church Iceland",
+    "Snæfellsnes church",
+    "Snaefellsnes church",
+    "Ólafsvík",
+    "Olafsvik",
+    "Snæfellsbær",
+    "Snaefellsbaer",
+    "Iceland church",
+    "冰島教堂",
+    "斯奈山半島教堂"
+  ]
+}

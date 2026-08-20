@@ -1,0 +1,52 @@
+{
+  "id": "landmark-n1-vegamot",
+  "status": "published",
+  "primary_type": "landmark",
+  "category": "cultural_landscape",
+  "subcategory": "unique_landmark",
+  "region": "snaefellsnes",
+  "latitude": 64.84890728091443,
+  "longitude": -22.651120269810598,
+  "name_zh": "最美 N1 加油站",
+  "name_en": "n1 gas-station",
+  "summary_zh": "這加油站本身造型特別，同時透過巧妙的構圖，可以拍到非常獨特的照片，我認為這是全冰島最美的 N1 加油店風景。\n\n旁邊是斯奈山半島旅客中心，裡面有廁所，可休息。",
+  "summary_en": "This uniquely designed N1 gas station, located on the Snæfellsnes Peninsula, offers a striking structure that makes for exceptional photos, making it one of Iceland's most beautiful N1 stations. Nearby is the Snæfellsnes Peninsula Visitor Center, which provides restrooms and a place to rest. Parking is free, and the restroom at the station is paid. Plan to spend about 30 minutes here.",
+  "google_maps_url": "https://maps.app.goo.gl/1PgV1Po8Lig9esaq7",
+  "photo_album_url": "",
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-n1-vegamot/cover.webp?v=20260821-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-n1-vegamot/gallery-01.webp?v=20260821-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-n1-vegamot/gallery-02.webp?v=20260821-01"
+  ],
+  "photographer": "賀禎禎",
+  "detailed_info_url": "https://app.notion.com/p/N1-3ba36b386fd980aba0e5dc0083b1c1df?v=31a36b386fd98002b758000c3b03ae9f&source=copy_link",
+  "facilities": [
+    "parking",
+    "toilet",
+    "gas_station"
+  ],
+  "parking": "free",
+  "toilet": "paid",
+  "recommended_stay_minutes": 30,
+  "recommendation": 2,
+  "last_verified": "2026-08-20",
+  "search_keywords": [
+    "N1 Vegamót",
+    "N1 Vegamot",
+    "Vegamót N1",
+    "Vegamot N1",
+    "N1 gas station Snæfellsnes",
+    "N1 gas station Snaefellsnes",
+    "最美 N1 加油站",
+    "冰島最美加油站",
+    "斯奈山半島加油站",
+    "冰島 N1 加油站",
+    "Vegamót",
+    "Vegamot",
+    "Snæfellsnesvegur",
+    "Snaefellsnesvegur",
+    "Snæfellsnes",
+    "Snaefellsnes",
+    "West Iceland gas station"
+  ]
+}

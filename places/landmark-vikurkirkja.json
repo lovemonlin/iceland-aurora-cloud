@@ -1,0 +1,51 @@
+{
+  "id": "landmark-vikurkirkja",
+  "status": "published",
+  "primary_type": "landmark",
+  "category": "cultural_landscape",
+  "subcategory": "church",
+  "region": "southwest",
+  "latitude": 63.4210531536086,
+  "longitude": -18.999548601604214,
+  "name_zh": "維克教堂",
+  "name_en": "Vík i Myrdal Church",
+  "summary_zh": "冰島非常知名的紅頂教堂，網路上常看到的就是這個教堂。\n\n可以開車到教堂旁，最多人停車在這裡，再步行上一階到上方的墓園，視野最好，可以眺黑沙灘。",
+  "summary_en": "The iconic red‑roofed Vík í Mýrdal Church is free to visit, but there are no restroom facilities. You can drive right up to the church and park for free in the nearby lot, which is where most visitors leave their cars. From the parking area, walk up one level to the cemetery behind the church for the best panoramic views, including the black sand beach. A 30‑minute stop is sufficient to explore the site and enjoy the scenery.",
+  "google_maps_url": "https://maps.app.goo.gl/Lt2Fr6gvB4B1y2Y37",
+  "photo_album_url": "",
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-vikurkirkja/cover.webp?v=20260821-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-vikurkirkja/gallery-01.webp?v=20260821-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-vikurkirkja/gallery-02.webp?v=20260821-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-vikurkirkja/gallery-03.webp?v=20260821-01"
+  ],
+  "photographer": "賀禎禎",
+  "detailed_info_url": "https://app.notion.com/p/V-k-M-rdal-Church-3ba36b386fd9805fad2be949b9d422a2?v=2d536b386fd980a09d5e000ce135dcac&source=copy_link",
+  "facilities": [
+    "parking",
+    "viewpoint"
+  ],
+  "parking": "free",
+  "toilet": "none",
+  "recommended_stay_minutes": 30,
+  "recommendation": 3,
+  "last_verified": "2026-08-20",
+  "search_keywords": [
+    "Víkurkirkja",
+    "Vikurkirkja",
+    "Vík Church",
+    "Vik Church",
+    "Vík í Mýrdal Church",
+    "Vik i Myrdal Church",
+    "維克教堂",
+    "維克鎮教堂",
+    "Vík í Mýrdal",
+    "Vik i Myrdal",
+    "冰島教堂",
+    "Iceland church",
+    "South Iceland church",
+    "Reynisfjara",
+    "Reynisdrangar",
+    "Dyrhólaey"
+  ]
+}

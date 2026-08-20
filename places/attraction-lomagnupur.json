@@ -1,0 +1,53 @@
+{
+  "id": "attraction-lomagnupur",
+  "status": "published",
+  "primary_type": "attraction",
+  "category": "nature",
+  "subcategory": "mountain",
+  "region": "southeast",
+  "latitude": 63.9599243276971,
+  "longitude": -17.46008127439119,
+  "name_zh": "洛馬格努普爾山景觀點",
+  "name_en": "Lomagnupur",
+  "summary_zh": "這顆像是帽子的大岩石，在南岸開車是很常看見的，這裡也是一個景點，若是有下雨的話，可以找到不錯的倒影拍攝的地方。\n\n不用刻意前來，有經過的話，可以在這裡稍作停留、休息。",
+  "summary_en": "This large, hat‑shaped rock is a common sight when driving along the south coast and serves as a scenic spot. If it’s raining, you can find a good location for reflective photography. No need to make a special detour; if you’re passing by, you can stop here briefly to rest. Free parking is available, but there are no restroom facilities, and a 30‑minute visit is sufficient.",
+  "google_maps_url": "https://maps.app.goo.gl/a6dn3qaQ3FDwuuhB8",
+  "photo_album_url": "",
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-lomagnupur/cover.webp?v=20260821-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-lomagnupur/gallery-01.webp?v=20260821-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-lomagnupur/gallery-02.webp?v=20260821-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-lomagnupur/gallery-03.webp?v=20260821-01"
+  ],
+  "photographer": "賀禎禎",
+  "detailed_info_url": "https://app.notion.com/p/L-magn-pur-Scenic-Spot-3bd36b386fd980718f0dd4590b159d66?v=2d536b386fd980a09d5e000ce135dcac&source=copy_link",
+  "facilities": [
+    "parking",
+    "viewpoint"
+  ],
+  "parking": "free",
+  "toilet": "none",
+  "recommended_stay_minutes": 30,
+  "recommendation": 1,
+  "last_verified": "2026-08-20",
+  "search_keywords": [
+    "Lómagnúpur",
+    "Lomagnupur",
+    "Lómagnúpur Scenic Spot",
+    "Lomagnupur Scenic Spot",
+    "Lómagnúpur mountain",
+    "Lomagnupur mountain",
+    "洛馬格努普爾山",
+    "洛馬格努普爾山景觀點",
+    "冰島山岳",
+    "冰島東南部山景",
+    "Skeiðarársandur",
+    "Skeidararsandur",
+    "Núpsstaður",
+    "Nupsstadur",
+    "Kirkjubæjarklaustur",
+    "Skaftafell",
+    "Route 1 Iceland",
+    "Southeast Iceland mountain"
+  ]
+}

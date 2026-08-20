@@ -1,0 +1,53 @@
+{
+  "id": "attraction-barnafoss",
+  "status": "published",
+  "primary_type": "attraction",
+  "category": "nature",
+  "subcategory": "waterfall",
+  "region": "northwest",
+  "latitude": 64.70197254537825,
+  "longitude": -20.97176400664342,
+  "name_zh": "小孩瀑布",
+  "name_en": "Barnafoss",
+  "summary_zh": "曾經有小孩跌入此瀑布失縱，因而命名。\n\n旁邊是「赫倫瀑布群 Hraunfossar」，可以步行過來約 3 分鐘，可以把兩個瀑布規畫在一起。",
+  "summary_en": "Barnafoss (Little Children’s Waterfall) is named after a tragic incident where a child fell into the falls. It’s located about a 3‑minute walk from the nearby Hraunfossar waterfall, so you can easily visit both sites together. Parking is available nearby for a fee, and there are viewing platforms but no restroom facilities. Allow roughly 30 minutes to explore the falls and take photos.",
+  "google_maps_url": "https://maps.app.goo.gl/LMZ9yJvieBXPkSuh7",
+  "photo_album_url": "",
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-barnafoss/cover.webp?v=20260821-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-barnafoss/gallery-01.webp?v=20260821-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-barnafoss/gallery-02.webp?v=20260821-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-barnafoss/gallery-03.webp?v=20260821-01"
+  ],
+  "photographer": "賀禎禎",
+  "detailed_info_url": "https://app.notion.com/p/Barnafoss-3ba36b386fd98020a0bae2e9f12b0289?v=31a36b386fd9802e85e0000c4cde6ad8&source=copy_link",
+  "facilities": [
+    "parking",
+    "viewpoint"
+  ],
+  "parking": "paid",
+  "toilet": "none",
+  "recommended_stay_minutes": 30,
+  "recommendation": 2,
+  "last_verified": "2026-08-20",
+  "search_keywords": [
+    "Barnafoss",
+    "Barnafossar",
+    "Bjarnafoss",
+    "Barnafoss waterfall",
+    "Barnafoss Iceland",
+    "巴納瀑布",
+    "巴納佛斯瀑布",
+    "兒童瀑布",
+    "冰島瀑布",
+    "Hraunfossar",
+    "Hraunfossar Barnafoss",
+    "Hvítá",
+    "Hvita river",
+    "Borgarfjörður",
+    "Borgarfjordur",
+    "West Iceland waterfall",
+    "冰島西部瀑布",
+    "Reykholt"
+  ]
+}

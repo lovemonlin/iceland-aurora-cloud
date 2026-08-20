@@ -1,0 +1,48 @@
+{
+  "id": "landmark-monument-to-thorbjorn-arnoddsson",
+  "status": "published",
+  "primary_type": "landmark",
+  "category": "cultural_history",
+  "subcategory": "memorial",
+  "region": "eastfjords",
+  "latitude": 65.23091476801096,
+  "longitude": -14.079020944156564,
+  "name_zh": "索爾比約恩・阿諾德松紀念碑",
+  "name_en": "Monument to Thorbjorn Arnoddsson",
+  "summary_zh": "這個紀念碑旁邊有個觀景台，可以看到冒險王小鎮，非常漂亮的峽灣景觀，不多人知道，但非常值得一來。\n\n觀景台的景觀，是我覺得整個冰島最棒的視野之一，天氣若好，你會看到非常漂亮的冰島峽灣景色。\n\n從停車場停好車，步行約 5-10 分鐘可以抵達。",
+  "summary_en": "The monument has a nearby viewpoint where you can see the Adventure King town and beautiful fjord scenery; it's not well known but well worth a visit. From the free parking lot, walk about 5–10 minutes to reach the site. There is a parking area and a viewpoint, but no restroom facilities. Allow around 60 minutes for the visit.",
+  "google_maps_url": "https://maps.app.goo.gl/L9U1SZRCvMEb8faW6",
+  "photo_album_url": "https://photos.app.goo.gl/8wwrvxjF9JPzGVug8",
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-monument-to-thorbjorn-arnoddsson/cover.webp?v=20260821-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-monument-to-thorbjorn-arnoddsson/gallery-01.webp?v=20260821-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-monument-to-thorbjorn-arnoddsson/gallery-02.webp?v=20260821-01"
+  ],
+  "photographer": "賀禎禎",
+  "detailed_info_url": "https://app.notion.com/p/Monument-to-orbj-rn-Arnoddsson-33836b386fd9801089d0d451c3aac4c3?v=31a36b386fd980fdad65000c3ae2c3ee&source=copy_link",
+  "facilities": [
+    "parking",
+    "viewpoint"
+  ],
+  "parking": "free",
+  "toilet": "none",
+  "recommended_stay_minutes": 60,
+  "recommendation": 3,
+  "last_verified": "2026-08-20",
+  "search_keywords": [
+    "Monument to Þorbjörn Arnoddsson",
+    "Monument to Thorbjorn Arnoddsson",
+    "Þorbjörn Arnoddsson",
+    "Thorbjorn Arnoddsson",
+    "索爾比約恩阿諾德松紀念碑",
+    "Þorbjörn Arnoddsson 紀念碑",
+    "Seyðisfjörður",
+    "Seydisfjordur",
+    "Fjarðarheiði",
+    "Fjardarheidi",
+    "Route 93",
+    "Eastfjords monument",
+    "East Iceland monument",
+    "冰島東峽灣紀念碑"
+  ]
+}

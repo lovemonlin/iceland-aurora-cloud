@@ -1,0 +1,44 @@
+{
+  "id": "attraction-hamrafoss",
+  "status": "published",
+  "primary_type": "attraction",
+  "category": "nature",
+  "subcategory": "waterfall",
+  "region": "southeast",
+  "latitude": 63.85531302995811,
+  "longitude": -17.869739661077997,
+  "name_zh": "哈姆拉瀑布",
+  "name_en": "Hamrafoss",
+  "summary_zh": "這瀑布很有趣，非常亮處流洩下來，遠遠的就能看到它。\n\n但是，這瀑布位置在「私人土地」內，觀光客是不能開車進去，在門口就有立下警告牌，切勿擅自闖入。\n\n想看的朋友，只能遠遠停車，步行至近處看。",
+  "summary_en": "The waterfall is interesting, with bright water cascading down and visible from a distance. However, it is located on private land, so tourists cannot drive up to it; a warning sign at the entrance prohibits unauthorized entry. Visitors should park elsewhere and walk to view the falls from a distance.",
+  "google_maps_url": "https://maps.app.goo.gl/vxzMeurNV11WHhdT8",
+  "photo_album_url": "",
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-hamrafoss/cover.webp?v=20260821-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-hamrafoss/gallery-01.webp?v=20260821-01"
+  ],
+  "photographer": "賀禎禎",
+  "detailed_info_url": "https://app.notion.com/p/Hamrafoss-3c136b386fd9802f8576d5835641b892?v=31a36b386fd980c7bd01000c719db7f2&source=copy_link",
+  "facilities": [
+    "parking"
+  ],
+  "parking": "free",
+  "toilet": "none",
+  "recommended_stay_minutes": 30,
+  "recommendation": 1,
+  "last_verified": "2026-08-20",
+  "search_keywords": [
+    "Hamrafoss",
+    "Foss á Síðu",
+    "Foss a Sidu",
+    "Hamrafoss waterfall",
+    "哈姆拉瀑布",
+    "福斯阿西杜瀑布",
+    "Kirkjubæjarklaustur",
+    "Skaftárhreppur",
+    "Dverghamrar",
+    "冰島東南部瀑布",
+    "一號環島公路瀑布",
+    "南岸瀑布"
+  ]
+}

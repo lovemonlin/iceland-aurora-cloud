@@ -1,0 +1,48 @@
+{
+  "id": "landmark-akureyrarkirkja",
+  "status": "published",
+  "primary_type": "landmark",
+  "category": "cultural_landscape",
+  "subcategory": "church",
+  "region": "northwest",
+  "latitude": 65.67999380604233,
+  "longitude": -18.090030048087236,
+  "name_zh": "阿克雷里大教堂",
+  "name_en": "Akureyri Church",
+  "summary_zh": "阿克雷利最知名的教標，全市任何角落都能看得到，長年在維修，直至 2026.02 再次前往終於完工了。\n\n前面的 Hafnarstræti 這條大街，就是阿克雷利主要的消費大待，你可以停在 Hof Cultural and Conference Centre，沿著 Hafnarstræti  這條街走過來。",
+  "summary_en": "Akureyri's most famous landmark, visible from all corners of the city, has been under long‑term renovation and will be fully completed by February 2026. When visiting, park at the Hof Cultural and Conference Centre on Hafnarstræti and walk along this main shopping street to reach the church.",
+  "google_maps_url": "https://maps.app.goo.gl/gVitMhFhNicKMXUd9",
+  "photo_album_url": "",
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-akureyrarkirkja/cover.webp?v=20260821-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-akureyrarkirkja/gallery-01.webp?v=20260821-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-akureyrarkirkja/gallery-02.webp?v=20260821-01"
+  ],
+  "photographer": "賀禎禎",
+  "detailed_info_url": "https://app.notion.com/p/Akureyrarkirkja-3bd36b386fd9808580a9c6d27ee8df19?v=31a36b386fd9802e85e0000c4cde6ad8&source=copy_link",
+  "facilities": [
+    "viewpoint"
+  ],
+  "parking": "free",
+  "toilet": "none",
+  "recommended_stay_minutes": 30,
+  "recommendation": 3,
+  "last_verified": "2026-08-20",
+  "search_keywords": [
+    "Akureyrarkirkja",
+    "Akureyri Church",
+    "Akureyri church",
+    "Akureyrarkirkja church",
+    "阿克雷里教堂",
+    "阿庫雷里教堂",
+    "Akureyri 地標",
+    "Akureyri landmark",
+    "Lutheran church Iceland",
+    "Guðjón Samúelsson",
+    "Gudjon Samuelsson",
+    "Akureyri",
+    "North Iceland church",
+    "Northeast Iceland church",
+    "冰島北部教堂"
+  ]
+}

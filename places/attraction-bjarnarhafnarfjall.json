@@ -1,0 +1,51 @@
+{
+  "id": "attraction-bjarnarhafnarfjall",
+  "status": "published",
+  "primary_type": "attraction",
+  "category": "nature",
+  "subcategory": "mountain",
+  "region": "snaefellsnes",
+  "latitude": 64.96511504971738,
+  "longitude": -23.02143969699601,
+  "name_zh": "比亞納港山最美彎道",
+  "name_en": "Bjarnarhafnarfjall",
+  "summary_zh": "這裡是我認為，全冰島最美的一段山路一。\n\n由於這是一個「路段」，而不是一個專門景點，所以只能以明顯的地標 「Bjarnarhafnarfjall」為主。\n\n從 54 公路往前開，下坡後眼前會看到一座橋，先別上橋，在前面旁邊的路邊停車場，停好車，你就會看到這影像。\n\n確切的 GPS 座標如下：\n\n64°57'53.1\"N 23°01'18.0\"W",
+  "summary_en": "This stretch is, in my opinion, the most beautiful mountain road in all of Iceland. Since it is a road segment rather than a dedicated site, use the prominent landmark “Bjarnarhafnarfjall” as the reference point. Drive north from Route 54; after a downhill section you’ll see a bridge. Do not cross the bridge—park in the roadside parking lot just before it. From the parking area you’ll have a clear view of the road. The exact GPS coordinates are 64°57'53.1\"N 23°01'18.0\"W. No restroom facilities are available, and parking is free. Recommended stay: about 30 minutes.",
+  "google_maps_url": "https://maps.app.goo.gl/Gbhp7d7Tjx4pErwg6",
+  "photo_album_url": "",
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-bjarnarhafnarfjall/cover.webp?v=20260821-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-bjarnarhafnarfjall/gallery-01.webp?v=20260821-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-bjarnarhafnarfjall/gallery-02.webp?v=20260821-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-bjarnarhafnarfjall/gallery-03.webp?v=20260821-01"
+  ],
+  "photographer": "賀禎禎",
+  "detailed_info_url": "https://app.notion.com/p/Bjarnarhafnarfjall-3ba36b386fd980babd11fe9798d81fbb?v=31a36b386fd98002b758000c3b03ae9f&source=copy_link",
+  "facilities": [
+    "parking"
+  ],
+  "parking": "free",
+  "toilet": "none",
+  "recommended_stay_minutes": 30,
+  "recommendation": 3,
+  "last_verified": "2026-08-20",
+  "search_keywords": [
+    "Bjarnarhafnarfjall",
+    "Bjarnarhafnarfjall mountain",
+    "Bjarnarhofn mountain",
+    "Bjarnarhöfn",
+    "Bjarnarhofn",
+    "比亞納港山",
+    "比亞納哈芬山",
+    "冰島山岳",
+    "Snæfellsnes mountain",
+    "Snaefellsnes mountain",
+    "Berserkjahraun",
+    "Hraunsfjörður",
+    "Hraunsfjordur",
+    "Stykkishólmur",
+    "Stykkisholmur",
+    "Grundarfjörður",
+    "Grundarfjordur"
+  ]
+}

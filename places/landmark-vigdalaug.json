@@ -1,0 +1,51 @@
+{
+  "id": "landmark-vigdalaug",
+  "status": "published",
+  "primary_type": "landmark",
+  "category": "cultural_landscape",
+  "subcategory": "historic_site",
+  "region": "southwest",
+  "latitude": 64.2203381797065,
+  "longitude": -20.691134425366393,
+  "name_zh": "聖泉",
+  "name_en": "Vigdalaug",
+  "summary_zh": "池水約 35–40°C，石砌、橢圓形，深約 60 公分，傳說 1550 年冰島最後一位天主教主教 Jón Arason 與兩名兒子遭處決後，遺體曾在此清洗。現在這裡主要屬歷史景點，不是一般可下水泡湯的溫泉。\n\n而前方是勒伊加湖，天況許可，也可以來這裡拍攝極光。",
+  "summary_en": "The pool water is about 35–40 °C, stone‑built and oval, roughly 60 cm deep. According to legend, after the 1550 execution of Iceland’s last Catholic bishop Jón Arason and his two sons, their bodies were washed here. Today the site is mainly a historical landmark and not a regular bathing hot spring. Nearby is Lake Leirvogsvatn; if weather permits, you can also photograph the aurora from this spot. Parking is free, and there is a viewpoint. No restroom facilities are available. Recommended visit time is around 30 minutes.",
+  "google_maps_url": "https://maps.app.goo.gl/BD3xf5nVA7dA7eeN6",
+  "photo_album_url": "",
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-vigdalaug/cover.webp?v=20260821-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-vigdalaug/gallery-01.webp?v=20260821-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-vigdalaug/gallery-02.webp?v=20260821-01"
+  ],
+  "photographer": "賀禎禎",
+  "detailed_info_url": "https://app.notion.com/p/V-g-alaug-3bf36b386fd980bca632d9fb2fd2ac87?v=2d536b386fd980a09d5e000ce135dcac&source=copy_link",
+  "facilities": [
+    "parking",
+    "viewpoint"
+  ],
+  "parking": "free",
+  "toilet": "none",
+  "recommended_stay_minutes": 30,
+  "recommendation": 1,
+  "last_verified": "2026-08-20",
+  "search_keywords": [
+    "Vígðalaug",
+    "Vigdalaug",
+    "Vígðalaug Laugarvatn",
+    "Vigdalaug Laugarvatn",
+    "Blessed Pool Iceland",
+    "聖泉 Vígðalaug",
+    "維格達勞格聖泉",
+    "冰島聖泉",
+    "冰島歷史遺跡",
+    "historic pool Iceland",
+    "baptism pool Iceland",
+    "Laugarvatn",
+    "Laugarvatn Fontana",
+    "Líkasteinar",
+    "Likasteinar",
+    "Bláskógabyggð",
+    "Golden Circle historic site"
+  ]
+}
