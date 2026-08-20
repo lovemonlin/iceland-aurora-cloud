@@ -23,7 +23,7 @@
   "facilities": [
     "parking",
     "toilet",
-    "gas_station"
+    "fuel"
   ],
   "parking": "free",
   "toilet": "paid",
