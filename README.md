@@ -13,6 +13,24 @@ It also contains the published travel-place catalogue used by the app. The first
 Thingvellir National Park. Future releases will generate the catalogue from the owner's Notion
 database through a manually triggered publisher; the mobile app never receives Notion credentials.
 
+## Chrome announcement publishing
+
+`generate_chrome_announcement.py` reads the separate Notion database named `Chrome 插件公告` and
+publishes `chrome-config.json`. The GitHub Actions workflow runs every ten minutes and can also be
+started manually. Configure the repository secret `NOTION_API_KEY`, then share the Notion database
+with that same Notion integration.
+
+Only rows with status `啟用中` or `排程中` can be published. Date-only values are interpreted as a
+full calendar day in Asia/Taipei. Publishing fails safely if more than one announcement is active,
+required text is missing, button text and URL are incomplete, or the URL is not HTTPS.
+
+Local validation requires no third-party packages:
+
+```powershell
+python -m unittest -v test_generate_chrome_announcement.py
+python generate_chrome_announcement.py --output chrome-config.json
+```
+
 Attribution: Based on information provided by the Icelandic Road and Coastal Administration (IRCA).
 
 ## Local ECMWF backup and health check

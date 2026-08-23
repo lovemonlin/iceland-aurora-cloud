@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "announcement": {
+    "enabled": true,
+    "title": "Notion 公告測試",
+    "message": "這是測試 Notion 資料庫公告系統",
+    "buttonText": "點我去看公告",
+    "url": "https://chatgpt.com/c/6a8a6493-13cc-83e8-b908-5f19d6bef68d",
+    "startsAt": "2026-08-23T00:00:00+08:00",
+    "endsAt": "2026-08-24T23:59:59+08:00"
+  }
+}
