@@ -31,6 +31,9 @@ REGION_LABELS = {
     "westfjords": "西峽灣",
     "snaefellsnes": "斯奈山半島",
 }
+GOOGLE_MAPS_ALIASES = {
+    "attraction-skogafoss": ["史可加瀑布", "斯科加爾瀑布"],
+}
 
 
 def load_json(path):
@@ -130,7 +133,7 @@ def generate(root):
             raise ValueError(f"Google Maps 網址不正確：{place['id']}")
 
         aliases = []
-        candidates = keyword_values(place) + derived_name_aliases(place)
+        candidates = keyword_values(place) + derived_name_aliases(place) + GOOGLE_MAPS_ALIASES.get(place["id"], [])
         for candidate in candidates:
             key = normalize(candidate)
             has_non_ascii = any(ord(character) > 127 for character in candidate)

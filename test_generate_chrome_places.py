@@ -15,7 +15,7 @@ class ChromePlaceGeneratorTest(unittest.TestCase):
                 json.dumps({"place_count": 2, "generated_at": "2026-08-23T00:00:00Z"}), encoding="utf-8"
             )
             places = [
-                self.place("one", "蓋錫爾間歇泉", "Geysir", ["Geysir", "Strokkur", "Waterfall"]),
+                self.place("attraction-skogafoss", "蓋錫爾間歇泉", "Geysir", ["Geysir", "Strokkur", "Waterfall"]),
                 self.place("two", "測試瀑布", "Test Waterfall", ["Test", "Waterfall"]),
             ]
             (root / "places-index.json").write_text(json.dumps({"places": places}), encoding="utf-8")
@@ -26,6 +26,7 @@ class ChromePlaceGeneratorTest(unittest.TestCase):
 
             self.assertEqual(2, len(result["places"]))
             self.assertIn("Strokkur", result["places"][0]["aliases"])
+            self.assertIn("史可加瀑布", result["places"][0]["aliases"])
             self.assertIn("蓋錫爾", result["places"][0]["aliases"])
             self.assertNotIn("Waterfall", result["places"][0]["aliases"])
             self.assertEqual(["付費停車", "免費廁所", "觀景台"], result["places"][0]["facilities"])
