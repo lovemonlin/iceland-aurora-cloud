@@ -22,6 +22,12 @@ FACILITY_LABELS = {
     "fuel": "加油",
     "convenience_store": "超商",
 }
+FACILITY_LABELS_EN = {
+    "viewpoint": "Viewpoint",
+    "food": "Food",
+    "fuel": "Fuel",
+    "convenience_store": "Convenience store",
+}
 REGION_LABELS = {
     "southwest": "西南冰島",
     "southeast": "東南冰島",
@@ -30,6 +36,15 @@ REGION_LABELS = {
     "northwest": "西北冰島",
     "westfjords": "西峽灣",
     "snaefellsnes": "斯奈山半島",
+}
+REGION_LABELS_EN = {
+    "southwest": "Southwest Iceland",
+    "southeast": "Southeast Iceland",
+    "eastfjords": "Eastfjords",
+    "northeast": "Northeast Iceland",
+    "northwest": "Northwest Iceland",
+    "westfjords": "Westfjords",
+    "snaefellsnes": "Snæfellsnes Peninsula",
 }
 GOOGLE_MAPS_ALIASES = {
     "attraction-skogafoss": ["史可加瀑布", "斯科加爾瀑布"],
@@ -82,14 +97,17 @@ def short_summary(value, limit=110):
     return shortened[:limit - 1].rstrip("，,；;：: ") + "…"
 
 
-def facility_labels(place):
+def facility_labels(place, english=False):
     facilities = set(place.get("facilities") or [])
     labels = []
+    parking_labels = {"free": "Free parking", "paid": "Paid parking"} if english else {"free": "免費停車", "paid": "付費停車"}
+    toilet_labels = {"free": "Free restroom", "paid": "Paid restroom", "none": "No restroom"} if english else {"free": "免費廁所", "paid": "付費廁所", "none": "無廁所"}
     if "parking" in facilities or place.get("parking"):
-        labels.append({"free": "免費停車", "paid": "付費停車"}.get(place.get("parking"), "停車"))
+        labels.append(parking_labels.get(place.get("parking"), "Parking" if english else "停車"))
     if "toilet" in facilities or place.get("toilet"):
-        labels.append({"free": "免費廁所", "paid": "付費廁所", "none": "無廁所"}.get(place.get("toilet"), "廁所"))
-    labels.extend(FACILITY_LABELS[item] for item in FACILITY_LABELS if item in facilities)
+        labels.append(toilet_labels.get(place.get("toilet"), "Restroom" if english else "廁所"))
+    facility_labels_by_type = FACILITY_LABELS_EN if english else FACILITY_LABELS
+    labels.extend(facility_labels_by_type[item] for item in facility_labels_by_type if item in facilities)
     return labels
 
 
@@ -161,11 +179,14 @@ def generate(root):
             "matchRadiusMeters": 800,
             "coverImageUrl": cover,
             "shortSummary": short_summary(place["summary_zh"]),
+            "shortSummaryEn": short_summary(place["summary_en"]),
             "rating": rating,
             "lastVerified": last_verified,
             "regionLabel": REGION_LABELS[region],
+            "regionLabelEn": REGION_LABELS_EN[region],
             "recommendedStayMinutes": stay_minutes,
             "facilities": facility_labels(place),
+            "facilitiesEn": facility_labels(place, english=True),
             "googleMapsUrl": place["google_maps_url"],
             "appUrl": None,
         })

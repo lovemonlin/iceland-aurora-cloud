@@ -30,10 +30,13 @@ class ChromePlaceGeneratorTest(unittest.TestCase):
             self.assertIn("蓋錫爾", result["places"][0]["aliases"])
             self.assertNotIn("Waterfall", result["places"][0]["aliases"])
             self.assertEqual(["付費停車", "免費廁所", "觀景台"], result["places"][0]["facilities"])
+            self.assertEqual(["Paid parking", "Free restroom", "Viewpoint"], result["places"][0]["facilitiesEn"])
             self.assertEqual("2026-08-03", result["places"][0]["lastVerified"])
             self.assertEqual("西南冰島", result["places"][0]["regionLabel"])
+            self.assertEqual("Southwest Iceland", result["places"][0]["regionLabelEn"])
             self.assertEqual(60, result["places"][0]["recommendedStayMinutes"])
             self.assertLessEqual(len(result["places"][0]["shortSummary"]), 110)
+            self.assertLessEqual(len(result["places"][0]["shortSummaryEn"]), 110)
 
     @staticmethod
     def place(place_id, name_zh, name_en, keywords):
@@ -43,6 +46,7 @@ class ChromePlaceGeneratorTest(unittest.TestCase):
             "name_zh": name_zh,
             "name_en": name_en,
             "summary_zh": "這是一段很長的測試摘要。" * 20,
+            "summary_en": "This is a long English test summary. " * 20,
             "google_maps_url": "https://maps.example/place",
             "cover_image_url": None,
             "facilities": ["parking", "toilet", "viewpoint"],
