@@ -24,7 +24,7 @@ jobs:
         run: python -m unittest -v test_generate_chrome_announcement.py
       - name: Generate announcement config from Notion
         env:
-          NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+          CHROME_ANNOUNCEMENT_NOTION_TOKEN: ${{ secrets.CHROME_ANNOUNCEMENT_NOTION_TOKEN }}
         run: python generate_chrome_announcement.py --output chrome-config.json
       - name: Publish updated announcement config
         run: |

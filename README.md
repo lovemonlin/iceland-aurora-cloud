@@ -17,7 +17,7 @@ database through a manually triggered publisher; the mobile app never receives N
 
 `generate_chrome_announcement.py` reads the separate Notion database named `Chrome 插件公告` and
 publishes `chrome-config.json`. The GitHub Actions workflow runs every ten minutes and can also be
-started manually. Configure the repository secret `NOTION_API_KEY`, then share the Notion database
+started manually. Configure the repository secret `CHROME_ANNOUNCEMENT_NOTION_TOKEN`, then share the Notion database
 with that same Notion integration.
 
 Only rows with status `啟用中` or `排程中` can be published. Date-only values are interpreted as a

@@ -165,9 +165,9 @@ def main() -> int:
     parser.add_argument("--output", type=Path, default=Path("chrome-config.json"))
     args = parser.parse_args()
 
-    token = os.environ.get("NOTION_API_KEY") or os.environ.get("NOTION_TOKEN")
+    token = os.environ.get("CHROME_ANNOUNCEMENT_NOTION_TOKEN")
     if not token:
-        print("缺少 NOTION_API_KEY（本機亦可使用 NOTION_TOKEN）。", file=sys.stderr)
+        print("缺少 CHROME_ANNOUNCEMENT_NOTION_TOKEN。", file=sys.stderr)
         return 2
 
     try:
