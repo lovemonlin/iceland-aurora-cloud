@@ -22,6 +22,15 @@ FACILITY_LABELS = {
     "fuel": "加油",
     "convenience_store": "超商",
 }
+REGION_LABELS = {
+    "southwest": "西南冰島",
+    "southeast": "東南冰島",
+    "eastfjords": "東峽灣",
+    "northeast": "東北冰島",
+    "northwest": "西北冰島",
+    "westfjords": "西峽灣",
+    "snaefellsnes": "斯奈山半島",
+}
 
 
 def load_json(path):
@@ -103,10 +112,16 @@ def generate(root):
         longitude = place.get("longitude")
         rating = place.get("recommendation")
         last_verified = place.get("last_verified")
+        region = place.get("region")
+        stay_minutes = place.get("recommended_stay_minutes")
         if not (isinstance(latitude, (int, float)) and isinstance(longitude, (int, float))):
             raise ValueError(f"缺少座標：{place['id']}")
         if not (1 <= rating <= 3):
             raise ValueError(f"推薦星等不正確：{place['id']}")
+        if region not in REGION_LABELS:
+            raise ValueError(f"地區不正確：{place['id']}")
+        if stay_minutes is not None and (not isinstance(stay_minutes, int) or stay_minutes <= 0):
+            raise ValueError(f"建議停留時間不正確：{place['id']}")
         try:
             date.fromisoformat(last_verified)
         except (TypeError, ValueError) as error:
@@ -145,6 +160,8 @@ def generate(root):
             "shortSummary": short_summary(place["summary_zh"]),
             "rating": rating,
             "lastVerified": last_verified,
+            "regionLabel": REGION_LABELS[region],
+            "recommendedStayMinutes": stay_minutes,
             "facilities": facility_labels(place),
             "googleMapsUrl": place["google_maps_url"],
             "appUrl": None,
