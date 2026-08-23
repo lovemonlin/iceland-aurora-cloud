@@ -4,6 +4,7 @@ import json
 import re
 import unicodedata
 from collections import Counter
+from datetime import date
 from pathlib import Path
 
 
@@ -101,10 +102,15 @@ def generate(root):
         latitude = place.get("latitude")
         longitude = place.get("longitude")
         rating = place.get("recommendation")
+        last_verified = place.get("last_verified")
         if not (isinstance(latitude, (int, float)) and isinstance(longitude, (int, float))):
             raise ValueError(f"缺少座標：{place['id']}")
         if not (1 <= rating <= 3):
             raise ValueError(f"推薦星等不正確：{place['id']}")
+        try:
+            date.fromisoformat(last_verified)
+        except (TypeError, ValueError) as error:
+            raise ValueError(f"最後確認日期不正確：{place['id']}") from error
         if not str(place.get("google_maps_url", "")).startswith("https://"):
             raise ValueError(f"Google Maps 網址不正確：{place['id']}")
 
@@ -138,6 +144,7 @@ def generate(root):
             "coverImageUrl": cover,
             "shortSummary": short_summary(place["summary_zh"]),
             "rating": rating,
+            "lastVerified": last_verified,
             "facilities": facility_labels(place),
             "googleMapsUrl": place["google_maps_url"],
             "appUrl": None,

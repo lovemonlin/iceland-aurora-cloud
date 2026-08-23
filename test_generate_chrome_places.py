@@ -29,6 +29,7 @@ class ChromePlaceGeneratorTest(unittest.TestCase):
             self.assertIn("蓋錫爾", result["places"][0]["aliases"])
             self.assertNotIn("Waterfall", result["places"][0]["aliases"])
             self.assertEqual(["付費停車", "免費廁所", "觀景台"], result["places"][0]["facilities"])
+            self.assertEqual("2026-08-03", result["places"][0]["lastVerified"])
             self.assertLessEqual(len(result["places"][0]["shortSummary"]), 110)
 
     @staticmethod
@@ -45,6 +46,7 @@ class ChromePlaceGeneratorTest(unittest.TestCase):
             "parking": "paid",
             "toilet": "free",
             "recommendation": 3,
+            "last_verified": "2026-08-03",
             "latitude": 64.3,
             "longitude": -20.3,
             "search_keywords": keywords,
