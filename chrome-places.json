@@ -1,0 +1,2897 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-20T16:18:29Z",
+  "places": [
+    {
+      "id": "attraction-aldeyjarfoss-waterfall",
+      "nameZh": "新娘婚紗瀑布",
+      "nameEn": "Aldeyjarfoss",
+      "aliases": [
+        "阿爾黛雅瀑布",
+        "Bárðardalur",
+        "Bardardalur",
+        "Sprengisandur",
+        "842號公路",
+        "Sprengisandsleið",
+        "新娘婚紗"
+      ],
+      "latitude": 65.36652614125495,
+      "longitude": -17.336254252773166,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-aldeyjarfoss-waterfall/cover.webp?v=20260810-03",
+      "shortSummary": "這個瀑布，季節限定，一但北邊下雪，這瀑布就無法進來，且前面是 3 位數的路，一小段 F 路，路小，冬天常封路，山區有段訊號不好，所以能來的機會不多。 如果能來，這瀑布非常值得一來，瀑布拍起來就像新娘婚紗一樣的美。",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "免費廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/fQXD7KZdfF4F8JqS8",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-barnafoss",
+      "nameZh": "小孩瀑布",
+      "nameEn": "Barnafoss",
+      "aliases": [
+        "Barnafossar",
+        "Barnafoss waterfall",
+        "Barnafoss Iceland",
+        "巴納瀑布",
+        "巴納佛斯瀑布",
+        "Hraunfossar Barnafoss",
+        "Hvita river",
+        "West Iceland waterfall",
+        "冰島西部瀑布"
+      ],
+      "latitude": 64.70197254537825,
+      "longitude": -20.97176400664342,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-barnafoss/cover.webp?v=20260821-01",
+      "shortSummary": "曾經有小孩跌入此瀑布失縱，因而命名。 旁邊是「赫倫瀑布群 Hraunfossar」，可以步行過來約 3 分鐘，可以把兩個瀑布規畫在一起。",
+      "rating": 2,
+      "facilities": [
+        "付費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/LMZ9yJvieBXPkSuh7",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-bjarnarfoss",
+      "nameZh": "比亞尼熊瀑布",
+      "nameEn": "Bjarnarfoss",
+      "aliases": [
+        "比亞納瀑布",
+        "熊瀑布",
+        "Mælifell",
+        "Maelifell",
+        "Búðir",
+        "Budir",
+        "布迪爾",
+        "Búðakirkja",
+        "Budakirkja",
+        "黑教堂",
+        "54號公路",
+        "比亞尼熊"
+      ],
+      "latitude": 64.84927837917012,
+      "longitude": -23.393947958791344,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "位於黑教堂旁邊的高山瀑布，這是一個位於高處的瀑布，近看還不錯，如果腳力不錯的話，可以走到上方，位於瀑布底下看非常壯觀",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/UnaDLT9wU2PPmsnk8",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-bjarnarhafnarfjall",
+      "nameZh": "比亞納港山最美彎道",
+      "nameEn": "Bjarnarhafnarfjall",
+      "aliases": [
+        "Bjarnarhafnarfjall mountain",
+        "Bjarnarhofn mountain",
+        "Bjarnarhöfn",
+        "比亞納港山",
+        "比亞納哈芬山",
+        "Snæfellsnes mountain",
+        "Snaefellsnes mountain",
+        "Hraunsfjörður",
+        "Hraunsfjordur"
+      ],
+      "latitude": 64.96511504971738,
+      "longitude": -23.02143969699601,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-bjarnarhafnarfjall/cover.webp?v=20260821-01",
+      "shortSummary": "這裡是我認為，全冰島最美的一段山路一。 由於這是一個「路段」，而不是一個專門景點，所以只能以明顯的地標 「Bjarnarhafnarfjall」為主。",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/Gbhp7d7Tjx4pErwg6",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-bruarfoss",
+      "nameZh": "藍色秘境瀑布",
+      "nameEn": "Bruarfoss",
+      "aliases": [
+        "布魯阿瀑布",
+        "藍瀑布",
+        "Brúará",
+        "藍色瀑布",
+        "冰島藍色瀑布",
+        "勞加爾湖",
+        "Efstidalur",
+        "37號公路",
+        "藍色秘境"
+      ],
+      "latitude": 64.26439810190578,
+      "longitude": -20.515199527456996,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-bruarfoss/cover.webp?v=20260809-02",
+      "shortSummary": "離開金圈後，非常值得一來的地方，裡面有停車場，請尋找 “Brúarfoss Parking” 是新建的停車場，曾經是「秘境」，是一個不容易前來的瀑布，而現在已經有了停車場, 路有點小，且這段路並不好開，路上有碎石要小心…",
+      "rating": 3,
+      "facilities": [
+        "付費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/Fhbw3n2dF3cRqGRq7",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-dettifoss",
+      "nameZh": "黛提瀑布",
+      "nameEn": "Dettifoss",
+      "aliases": [
+        "黛堤瀑布",
+        "魔鬼瀑布",
+        "Detti",
+        "歐洲最強瀑布",
+        "約克薩峽谷",
+        "Jökulsárgljúfur",
+        "862號公路",
+        "864號公路",
+        "東北冰島"
+      ],
+      "latitude": 65.81488556298419,
+      "longitude": -16.382687708591632,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-dettifoss/cover.webp?v=20260810-03",
+      "shortSummary": "前往這瀑布有兩條路線 - 862(西側) 與 864 (東側)，我會比較推薦 864 東側比較好，能步行到瀑布旁邊 (約20-30分)，景觀較好，電影「異形 - 普羅米修斯」場景，就在這瀑布的西側這頭取景。",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "免費廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/xJFQ3VTd5wuq1XHX6",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-diamond-beach",
+      "nameZh": "鑽石冰沙灘",
+      "nameEn": "Diamond Beach",
+      "aliases": [
+        "冰河鑽石沙灘",
+        "冰塊沙灘",
+        "Iceberg"
+      ],
+      "latitude": 64.04483131113989,
+      "longitude": -16.175087313664584,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-diamond-beach/cover.webp?v=20260810-02",
+      "shortSummary": "冰沙灘，這裡也有停車場，與冰河湖旁邊冰河湖的停車場是「同一個單位」一邊付錢後，兩邊都可以停，步行到冰河湖約 15 分鐘。 這裡有兩個出海口，不一定哪邊有碎冰，只能每次去看狀況，再開車、步行前往。",
+      "rating": 3,
+      "facilities": [
+        "付費停車",
+        "免費廁所",
+        "餐飲"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/tM7v93sD15RB1aC46",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-dimmuborgir-lava-formations",
+      "nameZh": "黑色城堡",
+      "nameEn": "Dimmuborgir",
+      "aliases": [
+        "Formations",
+        "Dark",
+        "Castles",
+        "Cities",
+        "熔岩城堡",
+        "熔岩地形",
+        "火山岩",
+        "天然拱門",
+        "Kirkjan",
+        "教堂熔岩洞",
+        "冰島精靈",
+        "冰島聖誕老人",
+        "Yule",
+        "Lads",
+        "Trolls"
+      ],
+      "latitude": 65.5913843426303,
+      "longitude": -16.911593350144976,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-dimmuborgir-lava-formations/cover.webp?v=20260812-01",
+      "shortSummary": "這是一個由火山噴發物，形成的奇怪岩石地質公園，裡面很大，團體最好一起行動，因為裡面的指示並不是很清楚，且四處長的景像都很像，如果不是團體行動，走失的朋友可能不容易找到出口。",
+      "rating": 2,
+      "facilities": [
+        "付費停車",
+        "付費廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/DtEKBFiApZ29RxLd7",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-djupalonssandur",
+      "nameZh": "久帕隆沙灘",
+      "nameEn": "Djupalonssandur",
+      "aliases": [
+        "久帕隆黑沙灘",
+        "迪尤帕隆沙灘",
+        "Pebble",
+        "黑色卵石灘",
+        "舉重石",
+        "Lifting",
+        "Stones",
+        "Aflraunasteinar",
+        "Epine",
+        "船骸",
+        "漁船殘骸",
+        "Dritvík"
+      ],
+      "latitude": 64.75375455178134,
+      "longitude": -23.88392796845706,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "久帕隆沙灘以黑色卵石、奇岩、古老舉重石及漁船殘骸聞名，這裡曾經有過漁港，如今只在沙灘上見當年沉船的殘骸，這沙灘沙石碎小的碎石，也有漂亮的海灘風景，有時間的話不妨規畫裡來。",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/H7EtAiApeazsQktVA",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-drangurinn-i-drangshlid",
+      "nameZh": "德朗斯坡地第2號的岩石",
+      "nameEn": "Drangurinn í Drangshlid 2",
+      "aliases": [
+        "德朗斯坡地岩石",
+        "Drangurinn",
+        "Drangshlíð",
+        "Drangshlid",
+        "凝灰岩",
+        "巨石",
+        "精靈岩",
+        "精靈傳說",
+        "Huldufólk",
+        "Grettir",
+        "Ásmundsson",
+        "Strong"
+      ],
+      "latitude": 63.52420925949527,
+      "longitude": -19.554676949197376,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-drangurinn-i-drangshlid/cover.webp?v=20260812-01",
+      "shortSummary": "離開史科嘉瀑布，他就在路口旁邊，可以臨停在路口，大概只能停 3 台車左右，空間不大，停好車後步行到這裡，這裡保留了冰島最古老的茅草屋的原形。",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/vhuqtod8KoGuG2CC9",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-dverghamrar",
+      "nameZh": "矮人岩壁",
+      "nameEn": "Dverghamrar",
+      "aliases": [
+        "矮人岩",
+        "矮人石",
+        "Dwarf",
+        "Rocks",
+        "天然紀念物",
+        "Natural"
+      ],
+      "latitude": 63.849284887038095,
+      "longitude": -17.8612650000001,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "矮人岩壁由排列整齊的柱狀玄武岩構成，其外形可能受到冰河時期末期海浪侵蝕影響，現為受保護的天然紀念物。 從一號公路旁即可進入步道，參觀時間不長；雨天岩面與草地容易濕滑，請留在既有路線並避免攀爬或破壞岩層。",
+      "rating": 1,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/vAtH9egB4M21iURS8",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-dynjandi",
+      "nameZh": "丁堅地瀑布",
+      "nameEn": "Dynjandi",
+      "aliases": [
+        "丁揚迪瀑布",
+        "戴恩瀑布",
+        "Fjallfoss",
+        "西峽灣瀑布",
+        "Dynjandisá",
+        "Arnarfjörður",
+        "阿納峽灣",
+        "Göngumannafoss",
+        "Sjóarfoss",
+        "60號公路",
+        "Vestfjarðavegur",
+        "丁堅地"
+      ],
+      "latitude": 65.73295831068383,
+      "longitude": -23.198102652403456,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-dynjandi/cover.webp?v=20260810-04",
+      "shortSummary": "這裡是西峽灣最大的瀑布，主瀑布沿階梯狀岩壁傾瀉約100公尺，停車場旁邊有休息區，廁所，這裡景觀非常的漂亮，建議是花點時間登上瀑布前，值得你花點時間登上來。",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "免費廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/FHzcJoCAopeYZY9g9",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-dyrholaey",
+      "nameZh": "迪霍拉里半島",
+      "nameEn": "Dyrholaey",
+      "aliases": [
+        "Kvernugljúfur",
+        "Global"
+      ],
+      "latitude": 63.4052606856595,
+      "longitude": -19.115523699699626,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-dyrholaey/cover.webp?v=20260810-01",
+      "shortSummary": "這裡有不同的入口，前往不同的地點，其中一個入口需要停車費，但廁所也在這裡，付了停車費，裡面的廁所就不用付錢，但如果去燈塔那頭就不用付費，但也沒廁所。 (2026.",
+      "rating": 3,
+      "facilities": [
+        "付費停車",
+        "免費廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/SavpT9SxufvKn9WF7",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-eldhraun",
+      "nameZh": "苔蘚熔岩原",
+      "nameEn": "Mossy Lava Fields",
+      "aliases": [
+        "苔原熔岩",
+        "艾爾德熔岩原",
+        "Eldhraun",
+        "Field",
+        "Mossy",
+        "熔岩原",
+        "苔蘚地景",
+        "拉基火山",
+        "Laki",
+        "Lakagígar",
+        "Skaftáreldar"
+      ],
+      "latitude": 63.73179354295328,
+      "longitude": -18.207645187434636,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-eldhraun/cover.webp?v=20260812-01",
+      "shortSummary": "這片苔蘚熔岩原屬於廣大的 Eldhraun，由1783至1784年的拉基火山噴發形成。可從一號公路旁的安全停靠處欣賞，但苔蘚極為脆弱，受損後可能需要數十年以上才能恢復；請留在既有步道與停車區，絕對不要踩踏、觸摸或駕車進…",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/xp4E7uxmmgA3jbMr6",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-fjadrargljufur",
+      "nameZh": "羽毛河峽谷",
+      "nameEn": "Fjadrargljufur",
+      "aliases": [
+        "羽毛峽谷",
+        "羽毛河大峽谷",
+        "Fjaðrárgljúfur",
+        "Fjaðrá",
+        "Fjardra",
+        "冰島峽谷",
+        "206號公路",
+        "Show",
+        "羽毛河"
+      ],
+      "latitude": 63.770342520038184,
+      "longitude": -18.171965998764314,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-fjadrargljufur/cover.webp?v=20260810-02",
+      "shortSummary": "羽毛河峽谷，非常漂亮，2024 年有新蓋的停車場，也有廁所，但廁所「經常不開放」，要留意一下。 走到最裡面的觀景台，慢慢走大概走 20-30 分鐘就可以抵達 另外，裡面的手機訊號非常差，很容易斷訊 (2026 年後有改…",
+      "rating": 3,
+      "facilities": [
+        "付費停車",
+        "免費廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/VysgWBukgHoBPva77",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-fossalar",
+      "nameZh": "福薩拉瀑布",
+      "nameEn": "Fossálar Waterfall",
+      "aliases": [
+        "福薩拉瀑布群",
+        "Fossálar",
+        "Fossálarfoss",
+        "福薩拉"
+      ],
+      "latitude": 63.85258169779963,
+      "longitude": -17.838534648994163,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-fossalar/cover.webp?v=20260812-01",
+      "shortSummary": "這個瀑布實在「太低調了」，不注意的話只會經過路過不會停下來，但他旁邊有特別的停車場，步行到瀑布只要 2 分鐘。 這瀑布很矮，要蹲低看，你會發現這瀑布別有意思，很多層次也很美，算是迷你小的瀑布，開車都會經過的景點。",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/sDft7gdpd5mwA9YS6",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-fosstorfufoss",
+      "nameZh": "福斯托爾夫瀑布",
+      "nameEn": "Fosstorfufoss",
+      "aliases": [
+        "馬蹄形瀑布",
+        "福斯托爾夫"
+      ],
+      "latitude": 63.535711808755025,
+      "longitude": -19.50228405772775,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-fosstorfufoss/cover.webp?v=20260812-01",
+      "shortSummary": "從史科嘉瀑布，旁邊的步道走上，當你走上步到起，步行 20-30 分鐘左右， 你會接連看到 3 個小瀑布，蠻值得一來的。",
+      "rating": 2,
+      "facilities": [
+        "付費停車",
+        "免費廁所",
+        "餐飲"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/j1LtVYL55YoDdKv19",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-gerduberg",
+      "nameZh": "蓋爾杜貝格斷崖",
+      "nameEn": "Gerduberg Cliffs",
+      "aliases": [
+        "蓋爾杜貝格玄武岩壁",
+        "Gerðuberg",
+        "Gerduberg",
+        "玄武岩斷崖",
+        "Hnappadalur"
+      ],
+      "latitude": 64.85784215672341,
+      "longitude": -22.36737165899886,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "蓋爾杜貝格是一道排列整齊的柱狀玄武岩壁，可從附近停車處短程步行觀賞, 這是一片玄武岩的岩壁，蠻寬廣的，視野非常漂亮，經過時不彷來一趟",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/PB451Ev3KK5hLKWb6",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-geysir",
+      "nameZh": "蓋錫爾間歇泉",
+      "nameEn": "Geysir",
+      "aliases": [
+        "蓋錫爾噴泉",
+        "大間歇泉",
+        "Great",
+        "間歇泉",
+        "Haukadalur",
+        "豪卡達魯爾",
+        "Strokkur",
+        "史托克間歇泉",
+        "Geyser",
+        "地熱噴泉",
+        "蓋錫爾"
+      ],
+      "latitude": 64.31042359353204,
+      "longitude": -20.302052035916265,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-geysir/cover.webp?v=20260810-01",
+      "shortSummary": "如果單純看噴泉，保留至少 30 分鐘，經驗上是「三大發，一小發」，每 10 分鐘噴發一次。 這裡有旅客中心，有餐廳、紀念品店，廁所免費，停車場要付費，旅客中心前有加油站。",
+      "rating": 3,
+      "facilities": [
+        "付費停車",
+        "免費廁所",
+        "餐飲",
+        "加油"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/FvgPdManEBGxJn3y9",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-glanni-waterfall",
+      "nameZh": "格拉尼瀑布",
+      "nameEn": "Glanni Waterfall",
+      "aliases": [
+        "格蘭尼瀑布",
+        "Glanni",
+        "Glannifoss",
+        "Norðurá",
+        "Nordura",
+        "北河",
+        "鮭魚河",
+        "Salmon",
+        "Bifröst",
+        "博爾加峽灣",
+        "Paradísarlaut",
+        "Paradise",
+        "Hollow",
+        "天堂水潭",
+        "Grábrók",
+        "精靈瀑布",
+        "格拉尼"
+      ],
+      "latitude": 64.75378150721,
+      "longitude": -21.54748319999704,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "格拉尼瀑布位於北河 Norðurá 上，從停車場沿步道短程步行即可抵達觀景台。雨後與冬季路面可能濕滑。",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/npDyVgpKM5UWa4bCA",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-gljufrabui",
+      "nameZh": "峽谷隱士瀑布",
+      "nameEn": "Gljúfrabúi",
+      "aliases": [
+        "峽谷居民瀑布",
+        "秘境瀑布",
+        "Gljúfrafoss",
+        "Gljúfurárfoss",
+        "Hidden",
+        "Dweller",
+        "峽谷瀑布",
+        "Hamragarðar",
+        "Hamragardar",
+        "Gljúfurá",
+        "峽谷隱士"
+      ],
+      "latitude": 63.620941753150476,
+      "longitude": -19.98591215670173,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-gljufrabui/cover.webp?v=20260809-02",
+      "shortSummary": "車停在塞里雅蘭瀑布，從停車場走過來約 15 分鐘 800 公尺，這裡洞口很小，裡面也很小，通常要排隊，且裡面瀑布太近，會淋的一身溼，要留意一下。",
+      "rating": 3,
+      "facilities": [
+        "付費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/Xd4iaJzykjSiFhY58",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-godafoss-waterfall",
+      "nameZh": "眾神瀑布",
+      "nameEn": "Godafoss Waterfall",
+      "aliases": [
+        "神之瀑布",
+        "諸神瀑布",
+        "Gods",
+        "Þorgeir",
+        "Ljósvetningagoði",
+        "Thorgeir",
+        "冰島基督教",
+        "冰島歷史",
+        "東岸觀景台",
+        "西岸觀景台",
+        "Fosshóll"
+      ],
+      "latitude": 65.68285755206834,
+      "longitude": -17.549791557407598,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-godafoss-waterfall/cover.webp?v=20260810-03",
+      "shortSummary": "這是北邊知名的瀑布，他有東、西兩側，皆可免費停車，建議可以先到西側，旁邊有休息中心，可以用餐，買東西，付費廁所。",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "付費廁所",
+        "觀景台",
+        "餐飲",
+        "加油"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/oku2azKEZ2DXCpA68",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-grjotagja-cave",
+      "nameZh": "溫泉洞穴",
+      "nameEn": "Grjotagja",
+      "aliases": [
+        "格約塔焦洞穴",
+        "地熱洞穴",
+        "溫泉洞",
+        "地熱泉",
+        "禁止泡湯",
+        "Bathing",
+        "Snow",
+        "Ygritte"
+      ],
+      "latitude": 65.62642955531008,
+      "longitude": -16.88255708760974,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-grjotagja-cave/cover.webp?v=20260812-01",
+      "shortSummary": "這個是蠻有趣的景點，洞穴內僅 1-2 人可下去，裡面是溫泉，由於入口只有 2 個，且非常不易進去，通常都需要在洞口前排隊才能進去。 上方有個大裂縫，建議是早上來，光線能照進洞口內。",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/iN32nqq9dXt7GPJ89",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-gufufoss-seydisfjordur",
+      "nameZh": "霧氣瀑布",
+      "nameEn": "Gufu waterfall",
+      "aliases": [
+        "蒸氣瀑布",
+        "Gufu",
+        "Steam",
+        "Mist"
+      ],
+      "latitude": 65.23996105378454,
+      "longitude": -14.056964954818548,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-gufufoss-seydisfjordur/cover.webp?v=20260810-02",
+      "shortSummary": "沿著 93 號公路，往前「冒險王小鎮」，這個瀑布是我非常推薦，值得您停留一會兒欣賞的瀑布。 電影「白日夢冒險王」Mitty 溜著滑板一路往下滑這片段，背後的瀑布就是這座，可以參考附圖的照片比對一下。",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/jRU3WsNnKCHPaAht8",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-gullfoss",
+      "nameZh": "黃金瀑布",
+      "nameEn": "Gullfoss",
+      "aliases": [
+        "古佛斯瀑布",
+        "雙層瀑布",
+        "Langjökull",
+        "蓋錫爾"
+      ],
+      "latitude": 64.32716558394668,
+      "longitude": -20.119383113949723,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-gullfoss/cover.webp?v=20260809-02",
+      "shortSummary": "前來金圈，建議先去「辛格維爾國家公園」，再到「間歇泉」，用完餐後，再來最後再到黃金瀑布，這樣比較順路。 建議可以下午來，比較能看得到黃金般瀑布的色彩。",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "免費廁所",
+        "觀景台",
+        "餐飲"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/HiDjcdcayP2PLiTR7",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-hamrafoss",
+      "nameZh": "哈姆拉瀑布",
+      "nameEn": "Hamrafoss",
+      "aliases": [
+        "Foss á Síðu",
+        "Foss a Sidu",
+        "Hamrafoss waterfall",
+        "福斯阿西杜瀑布",
+        "冰島東南部瀑布",
+        "南岸瀑布",
+        "哈姆拉"
+      ],
+      "latitude": 63.85531302995811,
+      "longitude": -17.869739661077997,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-hamrafoss/cover.webp?v=20260821-01",
+      "shortSummary": "這瀑布很有趣，非常亮處流洩下來，遠遠的就能看到它。 但是，這瀑布位置在「私人土地」內，觀光客是不能開車進去，在門口就有立下警告牌，切勿擅自闖入。 想看的朋友，只能遠遠停車，步行至近處看。",
+      "rating": 1,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/vxzMeurNV11WHhdT8",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-hengifoss-fljotsdalur",
+      "nameZh": "懸掛瀑布",
+      "nameEn": "Hengifoss",
+      "aliases": [
+        "Hanging",
+        "紅色岩層",
+        "Strata",
+        "Clay",
+        "Layers",
+        "玄武岩",
+        "933號公路"
+      ],
+      "latitude": 65.09528483662703,
+      "longitude": -14.889212499996459,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-hengifoss-fljotsdalur/cover.webp?v=20260810-02",
+      "shortSummary": "停好車，付好停車費，旁邊的廁所非常的新與高級。 從停車場開始，一路上行到瀑布，步行時間約 50 分鐘，這一路上並不難走，但稍徒一點，到後面就比較好走，請保留時間前往。",
+      "rating": 3,
+      "facilities": [
+        "付費停車",
+        "免費廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/18GhLXZCqtbaXo1h6",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-hestavadsfoss",
+      "nameZh": "馬渡瀑布",
+      "nameEn": "Hestavaðsfoss",
+      "aliases": [
+        "赫斯塔瓦斯瀑布",
+        "Hestavathsfoss",
+        "第一座上游瀑布"
+      ],
+      "latitude": 63.53342811343129,
+      "longitude": -19.50686118360104,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-hestavadsfoss/cover.webp?v=20260812-01",
+      "shortSummary": "從史科嘉瀑布，旁邊的步道走上，當你走上步到起，步行 20-30 分鐘左右， 你會接連看到 3 個小瀑布，蠻值得一來的。",
+      "rating": 2,
+      "facilities": [
+        "付費停車",
+        "免費廁所",
+        "觀景台",
+        "餐飲"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/aDyvo3jPkPTkyDor7",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-hraunfossar-waterfalls",
+      "nameZh": "赫倫瀑布群",
+      "nameEn": "Hraunfossar",
+      "aliases": [
+        "熔岩瀑布群",
+        "熔岩瀑布",
+        "地下泉水",
+        "Spring-fed",
+        "Hallmundarhraun",
+        "哈爾蒙達熔岩原",
+        "Children's",
+        "Húsafell",
+        "518號公路",
+        "Silver",
+        "銀圈"
+      ],
+      "latitude": 64.70590807226039,
+      "longitude": -20.977514960938766,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "瀑布從石頭層流出來，造型非常的漂亮，流出的瀑布如天空藍綠色非常漂亮，但有時來可能會遇上泥水漿，加上開進來單趟要近 50 分鐘，可以衡量旅程來規畫。",
+      "rating": 2,
+      "facilities": [
+        "付費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/V7ESF9xs2jaxbWSd9",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-hundafoss-skaftafell",
+      "nameZh": "小狗瀑布",
+      "nameEn": "Hundafoss",
+      "aliases": [
+        "狗瀑布",
+        "Stórilækur",
+        "Storilaekur",
+        "Bæjargil",
+        "जargil"
+      ],
+      "latitude": 64.02003004591967,
+      "longitude": -16.97993364084479,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-hundafoss-skaftafell/cover.webp?v=20260812-01",
+      "shortSummary": "這裡離遊客中心的停車場，約上山步行約 20 分鐘就可抵達，旁邊的旅客中心可以免費上廁所，記得在停車場付費，再往上走就可以走到玄武岩瀑布。 雖然是爬山，但還好，就這一小段而已。",
+      "rating": 2,
+      "facilities": [
+        "付費停車",
+        "免費廁所",
+        "觀景台",
+        "餐飲"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/KVwXgRJHNmzXCJkW9",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-hverfjall-crater",
+      "nameZh": "惠爾山",
+      "nameEn": "Hverfjall",
+      "aliases": [
+        "惠爾火山口",
+        "Hverfell",
+        "爆炸火山口",
+        "火山口步道",
+        "火山健行"
+      ],
+      "latitude": 65.60900944190368,
+      "longitude": -16.86934923560505,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-hverfjall-crater/cover.webp?v=20260810-03",
+      "shortSummary": "這也許是你這輩子，第一次登頂的火山，從停車場慢步走上去，約 20-25 分鐘，登頂後若要繞行一圈，約 40 分鐘，如果冬天來，一定要帶冰爪，建議是保留至少 60 分鐘，旅程才不會太趕。",
+      "rating": 3,
+      "facilities": [
+        "付費停車",
+        "免費廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/9N4ofHUNKKVJZNYL8",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-hverir",
+      "nameZh": "地熱谷",
+      "nameEn": "Hverir",
+      "aliases": [
+        "惠爾地熱區",
+        "Hverarönd",
+        "Námaskarð",
+        "Namaskard",
+        "高溫地熱區",
+        "硫磺地熱",
+        "噴氣孔",
+        "Fumaroles",
+        "泥漿池",
+        "Pots",
+        "克拉夫拉"
+      ],
+      "latitude": 65.6409697140542,
+      "longitude": -16.808989134230472,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-hverir/cover.webp?v=20260811-01",
+      "shortSummary": "Hverir 位於Námafjall山腳，可近距離觀看冒煙噴氣孔、沸騰泥漿池及多彩礦物地表。地殼可能薄弱且溫度極高, 這裡濃濃地熱散發出來的氣味，別有特色的地質公園。",
+      "rating": 3,
+      "facilities": [
+        "付費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/5qwnE8e2y2S4evGh7",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-hvitserkur",
+      "nameZh": "犀牛石",
+      "nameEn": "Hvitserkur",
+      "aliases": [
+        "象石",
+        "白衣岩",
+        "Stack",
+        "Rock",
+        "玄武岩奇岩",
+        "犀牛岩",
+        "象形岩",
+        "石化巨人",
+        "Vatnsnes",
+        "瓦斯內斯半島",
+        "Húnafjörður",
+        "Hunafjordur",
+        "713號公路"
+      ],
+      "latitude": 65.60647136740732,
+      "longitude": -20.635201184498523,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "一顆站在海上的犀牛，是Vatnsnes半島東岸約15公尺高的海蝕岩，停好車步行約 5 分鐘可到觀景台，旁邊有路可以下去，但要小心很滑，從主要道路開進來約 40-50 分鐘。",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "付費廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/oNBC95mbYD6gKD3m9",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-jokulsarlon",
+      "nameZh": "傑古沙龍冰河湖",
+      "nameEn": "Jokulsarlon",
+      "aliases": [
+        "傑古沙龍",
+        "冰河湖",
+        "冰川湖",
+        "浮冰",
+        "瓦特納冰川",
+        "布雷達梅爾克冰川",
+        "Breidamerkurjokull",
+        "東南冰島"
+      ],
+      "latitude": 64.04886597052376,
+      "longitude": -16.179057244445083,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-jokulsarlon/cover.webp?v=20260810-02",
+      "shortSummary": "冰河湖遊船，約 40 分鐘，可現場買票，停車場是一天的費用，停在冰沙灘也要繳費，藍冰洞集合點也在這裡，旁邊是冰沙灘，步行 15 分可到，這裡有簡餐廳可以用餐。",
+      "rating": 3,
+      "facilities": [
+        "付費停車",
+        "免費廁所",
+        "觀景台",
+        "餐飲"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/CwGxSbSHvdZoaDjVA",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-kerid",
+      "nameZh": "克雷里火山口湖",
+      "nameEn": "Kerid",
+      "aliases": [
+        "克里德火山口湖",
+        "凱瑞斯火山口",
+        "Kerið",
+        "火山口湖",
+        "紅色火山岩",
+        "金環景點",
+        "Grímsnes"
+      ],
+      "latitude": 64.04137007663356,
+      "longitude": -20.884760360632637,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-kerid/cover.webp?v=20260809-02",
+      "shortSummary": "這個火口湖，很漂亮，門票約 2-300 台幣，最輕鬆登頂的火山口，靠近金圈旁邊，免費的停車場。 克雷里以紅色火山岩壁與藍綠色湖水形成鮮明對比，可沿火山口邊緣環行，也能走步道下到湖畔。",
+      "rating": 3,
+      "facilities": [
+        "付費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/nBa35qvozoViprdE8",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-kirkjufell",
+      "nameZh": "教會山",
+      "nameEn": "Kirkjufell",
+      "aliases": [],
+      "latitude": 64.94195239690839,
+      "longitude": -23.305723915191876,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-kirkjufell/cover.webp?v=20260811-01",
+      "shortSummary": "這是斯奈山半島最重要的景點，山頂形狀就像草帽，也像教堂，因而稱作「教會山」或是「草帽山」 前方有個「教會山瀑布」 2025 年這裡新建了觀景步道，更方便行走。",
+      "rating": 3,
+      "facilities": [
+        "付費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/CvBZDysaz6aAK8v87",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-klifbrekkufossar",
+      "nameZh": "階梯坡瀑布",
+      "nameEn": "Klifbrekku Waterfall",
+      "aliases": [
+        "Klifbrekku",
+        "Klifbrekkufossar",
+        "Klifbrekkufoss",
+        "Tiered",
+        "Cascading",
+        "多層瀑布",
+        "Mjóifjörður",
+        "Mjoifjordur",
+        "米約伊峽灣",
+        "953號公路",
+        "Mjóafjarðarvegur",
+        "Mjoafjardarvegur",
+        "階梯坡"
+      ],
+      "latitude": 65.17951829438874,
+      "longitude": -14.080491335551327,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-klifbrekkufossar/cover.webp?v=20260812-01",
+      "shortSummary": "開車到這裡，除了這個瀑布外，我覺得這個角度是欣賞「東峽灣」非常漂亮的角度 (請見照片)，路途不算太遠，又能欣賞峽灣景色，也是東峽灣少數值得前來的景點。",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/hfxaBDeAxLWXgEV97",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-kolugljufur",
+      "nameZh": "巨人峽谷",
+      "nameEn": "Kolugljufur canyon",
+      "aliases": [
+        "科魯格峽谷",
+        "Kolugljúfur",
+        "Kolufossar",
+        "Kolu",
+        "巨人瀑布",
+        "Kola",
+        "女巨人",
+        "Víðidalsá",
+        "Vididalsa",
+        "Víðidalur",
+        "715號公路",
+        "Hvammstangi",
+        "華姆斯唐吉"
+      ],
+      "latitude": 65.33346453442937,
+      "longitude": -20.571049035995042,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-kolugljufur/cover.webp?v=20260810-04",
+      "shortSummary": "巨人峽谷由Víðidalsá河切割形成，河水在峽谷入口化為Kolufossar瀑布群，一邊是瀑布，一邊是峽谷，車到景到，是冰島難得同時有峽谷與瀑布的景點，小巧而美，而開過來的路上比較小一點，停車場也較小。",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/iSdPJsNTZbcHEJrZ8",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-krafla-volcano",
+      "nameZh": "克拉夫拉火山",
+      "nameEn": "Krafla",
+      "aliases": [
+        "克拉夫拉火山區",
+        "Caldera",
+        "Volcanic",
+        "System",
+        "活火山",
+        "破火山口",
+        "Víti",
+        "維蒂火山口",
+        "Leirhnjúkur",
+        "雷爾赫紐克熔岩原",
+        "Fires",
+        "863號公路"
+      ],
+      "latitude": 65.71741039774598,
+      "longitude": -16.753304188477287,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-krafla-volcano/cover.webp?v=20260810-03",
+      "shortSummary": "穿過克拉夫拉地熱發電廠，再往前開，你就會看到，這裡有點爬坡，秋冬季若飄雪，這裡就會封路 如果惠兒山你沒有力氣爬，這個克拉夫拉火山，我就蠻推薦的，完整的火山口景觀，非常漂亮，車到景到.",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/aV6B1AjAqx8mL1eq7",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-kvernufoss",
+      "nameZh": "磨坊瀑布",
+      "nameEn": "Kvernufoss",
+      "aliases": [
+        "Skógaf"
+      ],
+      "latitude": 63.52891146098981,
+      "longitude": -19.48099668785833,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-kvernufoss/cover.webp?v=20260810-01",
+      "shortSummary": "這個瀑布比較少人知道，但我個人蠻推薦的，這裡有點一點像塞里雅蘭瀑布，走到瀑布內側望出去非常漂亮，就在史科嘉瀑布旁邊，非常推薦大家前來。",
+      "rating": 3,
+      "facilities": [
+        "付費停車",
+        "無廁所",
+        "觀景台",
+        "餐飲"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/V4VRB5EHWW5rhhDn8",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-litlanesfoss",
+      "nameZh": "小角瀑布",
+      "nameEn": "Litlanesfoss",
+      "aliases": [
+        "Studlabergsfoss"
+      ],
+      "latitude": 65.08390497862996,
+      "longitude": -14.88355651441411,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-litlanesfoss/cover.webp?v=20260812-01",
+      "shortSummary": "前往上方的「懸掛瀑布」就會經過的小瀑布，大概自停車場，走上來約 15 分鐘就可以抵達。 這個瀑布本身沒特別的好看，主要是前往前方的「懸掛瀑布」時你會經過，所以不需要為這個瀑布花太多時間停留。",
+      "rating": 2,
+      "facilities": [
+        "付費停車",
+        "免費廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/dnjR7vX8Qez1ThtQ7",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-ljosavatn-mirror-lake",
+      "nameZh": "鏡湖",
+      "nameEn": "Ljosavatn Mirror Lake",
+      "aliases": [
+        "光明湖",
+        "Ljósavatn",
+        "Mirror",
+        "冰島鏡湖",
+        "湖泊",
+        "湖面倒影",
+        "Reflection",
+        "Ljósavatnsskarð",
+        "Ljosavatnsskard",
+        "Þingeyjarsveit",
+        "Thingeyjarsveit",
+        "Djúpá"
+      ],
+      "latitude": 65.71577100349124,
+      "longitude": -17.6619675272027,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "這裡有個觀景台，車停好步行到這裡，若天氣不錯可以拍到非常漂亮的湖面山景。",
+      "rating": 1,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/peEqvfsSx8YF4Dcb7",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-loftsalahellir",
+      "nameZh": "洛夫薩拉洞穴",
+      "nameEn": "Loftsalahellir Cave",
+      "aliases": [
+        "Loftsalahellir",
+        "Loftsalir",
+        "天然洞穴",
+        "草皮洞穴",
+        "岩洞",
+        "洞穴景觀",
+        "米達爾",
+        "洛夫薩拉"
+      ],
+      "latitude": 63.42201400253844,
+      "longitude": -19.15095970588994,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-loftsalahellir/cover.webp?v=20260812-01",
+      "shortSummary": "這個洞穴很特別，從裡頭望出去的景觀不錯，爬點小山丘就能走到，建議下午來，光線才漂亮。 這裡空曠處停車就好，免費。 洛夫薩拉洞穴是一座鄰近迪霍拉里、可眺望南岸景觀的小型天然洞穴。",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/sSc7bQGGLeuBTbcj7",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-lomagnupur",
+      "nameZh": "洛馬格努普爾山景觀點",
+      "nameEn": "Lomagnupur",
+      "aliases": [
+        "Lómagnúpur Scenic Spot",
+        "Lómagnúpur mountain",
+        "洛馬格努普爾山",
+        "冰島東南部山景",
+        "Skeidararsandur",
+        "Núpsstaður",
+        "Nupsstadur",
+        "Southeast Iceland mountain"
+      ],
+      "latitude": 63.9599243276971,
+      "longitude": -17.46008127439119,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-lomagnupur/cover.webp?v=20260821-01",
+      "shortSummary": "這顆像是帽子的大岩石，在南岸開車是很常看見的，這裡也是一個景點，若是有下雨的話，可以找到不錯的倒影拍攝的地方。 不用刻意前來，有經過的話，可以在這裡稍作停留、休息。",
+      "rating": 1,
+      "facilities": [
+        "免費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/a6dn3qaQ3FDwuuhB8",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-londrangar",
+      "nameZh": "隆德蘭加爾海蝕柱",
+      "nameEn": "Londrangar",
+      "aliases": [
+        "隆德蘭加爾雙塔",
+        "火山岩柱",
+        "雙岩塔",
+        "Svalþúfa",
+        "Svalthufa",
+        "Þúfubjarg",
+        "Thufubjarg",
+        "Malarrif",
+        "馬拉里夫"
+      ],
+      "latitude": 64.73323418311415,
+      "longitude": -23.781708559868722,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "隆德蘭加爾是矗立於斯奈山半島海岸的兩座火山岩，又稱作「朗格拉格岩石」，也稱作「怪物海岸」，這裡也是火山噴發冷卻凝結而成的石岸，下午來的景色非常的漂亮。",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/MNTUyEHZcCw1V8zk8",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-mulafoss-fjardarheidi",
+      "nameZh": "高地瀑布",
+      "nameEn": "Mulafoss",
+      "aliases": [
+        "Neðri",
+        "Stafur",
+        "Nedri"
+      ],
+      "latitude": 65.2348953146786,
+      "longitude": -14.059791179546814,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-mulafoss-fjardarheidi/cover.webp?v=20260812-01",
+      "shortSummary": "這個瀑布，本身我覺得「還好」，如果你是從下方「冒險王小鎮」步行上來，比較能取得好的位置，但如果你是停旁邊的停車場，位處高處，瀑布的角度比較不好。",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/AXRBWnBYXVVGouth8",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-myrdalsjokull",
+      "nameZh": "米達爾斯冰原",
+      "nameEn": "Myrdalsjokull",
+      "aliases": [
+        "米達爾斯冰川",
+        "冰川",
+        "冰原",
+        "冰帽",
+        "卡特拉火山",
+        "Sólheimajökull",
+        "索爾黑馬冰川"
+      ],
+      "latitude": 63.647081937889375,
+      "longitude": -19.12676519731613,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "如果你有參加「冰原摩托車」的話，會在這裡集合。 米達爾斯冰原覆蓋著卡特拉火山，周圍可從不同方向欣賞冰川地貌。冰面遍布裂隙，天氣也可能迅速惡化，禁止自行踏上冰川；如要健行、雪地摩托車或參觀冰洞，務必參加合格嚮導帶領的行程…",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/Qcg4s85iyVW7fBvR9",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-myvatn-viewpoint",
+      "nameZh": "米湖觀景台",
+      "nameEn": "Myvatn Viewpoint",
+      "aliases": [
+        "米湖瞭望台",
+        "Lookout",
+        "米湖全景",
+        "Panoramic",
+        "View",
+        "地熱景觀",
+        "Bjarnarflag"
+      ],
+      "latitude": 65.6422460006757,
+      "longitude": -16.83286559074162,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "這裡是「地熱谷」與「米湖」這座山必經的道路，當你翻過這麼山，靠近米湖這邊，有一個觀景台，別開太快，這裡可以眺望米湖區風。 如果你是從米湖出發，那這觀景台在你右手邊．如果是從地熱谷往米湖過來，他就在對向。",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/EqCvKhwbM8ToMQ3X9",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-nykurhylsfoss",
+      "nameZh": "尼庫希爾瀑布",
+      "nameEn": "Nykurhylsfoss",
+      "aliases": [
+        "Nykurhylsfoss waterfall",
+        "Sveinsstekksfoss",
+        "Sveinstekksfoss",
+        "Fossárfoss",
+        "斯維因斯泰克瀑布",
+        "Fossá 河瀑布",
+        "Djúpivogur",
+        "Berufjörður",
+        "Eastfjords waterfall",
+        "East Iceland waterfall",
+        "冰島東峽灣瀑布",
+        "尼庫希爾"
+      ],
+      "latitude": 64.76519604825906,
+      "longitude": -14.48454780665474,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-nykurhylsfoss/cover.webp?v=20260821-01",
+      "shortSummary": "這是東峽灣，開車會經過的小瀑布，有觀景台，路邊停車，如果想停車下來走走，可以開來這裡稍作休息。",
+      "rating": 1,
+      "facilities": [
+        "免費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/H3oDNbxRDqBQeWw47",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-olfusa-overlook",
+      "nameZh": "極光觀景台",
+      "nameEn": "olfusa Overlook",
+      "aliases": [
+        "厄爾夫薩河觀景台",
+        "Overlook",
+        "Northern",
+        "Lights",
+        "Aurora",
+        "河景",
+        "觀景台",
+        "低光害"
+      ],
+      "latitude": 63.99591181399991,
+      "longitude": -20.96340520530299,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "這是俯瞰厄爾夫薩河與周圍平原的簡易觀景點，冬季天氣晴朗、雲量低且極光活動良好時，可作為觀測地點。現場開闊且容易受到強風影響，夜間前往前請確認雲量、道路與停車狀況，並準備保暖防風衣物。",
+      "rating": 1,
+      "facilities": [
+        "免費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/ZZUCdrbht3vo4RAy8",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-olkelda",
+      "nameZh": "天然礦泉",
+      "nameEn": "Olkelda",
+      "aliases": [
+        "Ölkelda Mineral Spring",
+        "Ölkelduvatn Mineral Spring",
+        "天然礦泉 Ölkelda",
+        "Ölkelda 天然礦泉",
+        "冰島天然礦泉",
+        "mineral spring Iceland",
+        "carbonated spring Iceland",
+        "Staðarstaður",
+        "Stadarstadur",
+        "West Iceland mineral spring"
+      ],
+      "latitude": 64.8368033043971,
+      "longitude": -22.97659073578402,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-olkelda/cover.webp?v=20260821-01",
+      "shortSummary": "Ölkelda 農場附近，以天然含碳酸的礦泉水聞名，水中鐵質含量高，因此泉水流經的地面會呈現明顯紅褐色。 你可以用沾些礦泉水嚐看看，會有非常重的鐵銹的味道，聽說喝了能強身健體，但我不建議真的喝下去。",
+      "rating": 1,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/EJDNWNuh1WzP4mMZ8",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-oxararfoss",
+      "nameZh": "奧克薩瀑布",
+      "nameEn": "Oxararfoss",
+      "aliases": [
+        "歐克薩瀑布",
+        "Öxaráfoss",
+        "Öxará",
+        "阿爾曼裂谷",
+        "板塊裂谷",
+        "奧克薩"
+      ],
+      "latitude": 64.26585511237394,
+      "longitude": -21.117316370666526,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-oxararfoss/cover.webp?v=20260821-01",
+      "shortSummary": "奧克薩瀑布位於辛格維爾國家公園的 Almannagjá 裂谷內，這裡是辛格維爾國家公園裡面的瀑布，位於 P2 停車場，下來後步行約 10 分鐘就能看得到，你可以從 P1 主要停車場步行過來，或是開車繞過來。",
+      "rating": 3,
+      "facilities": [
+        "付費停車",
+        "免費廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/7J2hyb7bsQ5rHeBs8",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-oxnadalur",
+      "nameZh": "厄赫斯納谷地",
+      "nameEn": "Oxnadalur",
+      "aliases": [
+        "Öxnadalur valley",
+        "厄克斯納達勒山谷",
+        "Öxnadalur 山谷",
+        "冰島山谷",
+        "Hraun Öxnadalur",
+        "Hraunsvatn",
+        "Hraundrangi",
+        "Öxnadalsheiði",
+        "Oxnadalsheidi",
+        "Hörgársveit",
+        "Northeast Iceland",
+        "North Iceland valley"
+      ],
+      "latitude": 65.57661177589044,
+      "longitude": -18.509962825798095,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-oxnadalur/cover.webp?v=20260821-01",
+      "shortSummary": "這段路是我認為，冰島本島中，除了西峽灣外 「最美的一段公路」，只要你是環島旅行，你一定都會經過的公路段。 從阿克雷里向西，或是準備抵達阿克雷里，這段路是在山谷段裡面，這裡景觀真的，美到讓你會愛上冰島，而我也是因為這段路…",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/ukAtJbTxKQWMrYhh7",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-raudasandur",
+      "nameZh": "紅沙灘",
+      "nameEn": "Raudisandur",
+      "aliases": [
+        "紅砂海灘",
+        "勞迪桑杜爾",
+        "Rauðisandur",
+        "Raudasandur",
+        "Rauðasandur",
+        "拉特拉爾角",
+        "Látrabjarg",
+        "帕特雷克斯菲厄澤",
+        "614號公路",
+        "沙灘",
+        "海岸",
+        "峽灣",
+        "冰島紅沙灘"
+      ],
+      "latitude": 65.47598552057391,
+      "longitude": -24.002219037779287,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-raudasandur/cover.webp?v=20260810-04",
+      "shortSummary": "紅沙灘，在陽光下看起來，反射出淡淡的紅光而名，一般旅遊建議是 9 月後關閉，但實際上你要找找入口處，遠處停好車再走進來。 而不同入口處，看到的紅沙灘也不一樣，這裡的廁所不確定，所以先列「無廁所」。",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/25EVevPu6AwwC4ys6",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-reynisfjara",
+      "nameZh": "黑沙灘",
+      "nameEn": "Reynisfjara",
+      "aliases": [
+        "雷尼斯黑沙灘",
+        "雷尼斯沙灘",
+        "黑色沙灘",
+        "Hálsanefshellir",
+        "雷尼斯岩柱",
+        "海浪瘋狗浪",
+        "Sneaker",
+        "Waves"
+      ],
+      "latitude": 63.40347131620002,
+      "longitude": -19.03857863914031,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-reynisfjara/cover.webp?v=20260810-01",
+      "shortSummary": "這裡停車非常貴，不如其它景點，繳一次錢可停一天，請留意繳費費用，以及停留時間，以及不同停車場，價格時間也不同。 全冰島有非常多的黑沙灘，而維克旁邊這個黑沙灘，是最有名的，而這個黑沙灘沙石非常的特別，像小石子一下光滑。",
+      "rating": 3,
+      "facilities": [
+        "付費停車",
+        "免費廁所",
+        "餐飲"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/fuvzdewTXKDQrw367",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-route-93",
+      "nameZh": "93 號公路",
+      "nameEn": "road 93",
+      "aliases": [
+        "冰島93號公路",
+        "山口公路",
+        "景觀道路",
+        "東峽灣公路",
+        "古弗瀑布",
+        "Walter",
+        "Mitty",
+        "白日夢冒險王",
+        "Austurland"
+      ],
+      "latitude": 65.2712877625186,
+      "longitude": -14.365195373236036,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-route-93/cover.webp?v=20260810-02",
+      "shortSummary": "這是冰島「少數」在短時間「爬高」的公路，我覺得這段公路，是整個冰島，除了西峽灣之外，最美的一段山路，建議是規畫一個特別的行程，從「埃伊爾斯塔濟」開始出發到「塞濟斯菲厄澤」。",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/tgNg3VR44g7FDsF49",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-seljalandsfoss",
+      "nameZh": "塞里雅蘭瀑布",
+      "nameEn": "Seljalandsfoss",
+      "aliases": [
+        "塞爾福斯瀑布",
+        "水簾洞瀑布",
+        "Seljalandsá",
+        "艾雅法拉冰川",
+        "Þórsmörk",
+        "Thorsmork",
+        "塞里雅蘭"
+      ],
+      "latitude": 63.61570562311247,
+      "longitude": -19.987665397589854,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-seljalandsfoss/cover.webp?v=20260809-01",
+      "shortSummary": "塞里雅蘭瀑布，除了冬季外，可以步行到瀑布裡面，也稱作「水濂洞瀑布」，記得帶上雨衣。 每年的 10 月中到隔年的 3 月中，往往因為下雪，通往瀑布後方的步道會結冰、封路。",
+      "rating": 3,
+      "facilities": [
+        "付費停車",
+        "免費廁所",
+        "觀景台",
+        "餐飲"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/royr9tHPVrMB4Z4u6",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-selvallafoss",
+      "nameZh": "塞爾瓦拉瀑布",
+      "nameEn": "Selvallafoss",
+      "aliases": [
+        "Selvalafoss",
+        "Kárastaðafoss",
+        "Karastadafoss",
+        "Sheep's",
+        "Sheep",
+        "羊瀑布",
+        "貝爾塞克熔岩原",
+        "Vatnaleið",
+        "Vatnaleid",
+        "塞爾瓦拉"
+      ],
+      "latitude": 64.94175,
+      "longitude": -22.90772,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-selvallafoss/cover.webp?v=20260811-01",
+      "shortSummary": "可在路邊停好車，步行約 5 分鐘抵達。瀑布位於較低處，可從不同角度觀賞，景色特別，是一處遊客不多的隱藏景點 這瀑布位於低處，停了車要步行一會，才會看得到，而這瀑布可以繞到瀑布觀看，景別特別，是不多人知道的瀑布。",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/M2XrKsHg3tMbvfAM9",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-skogafoss",
+      "nameZh": "史科嘉瀑布",
+      "nameEn": "Skogafoss",
+      "aliases": [
+        "森林瀑布",
+        "彩虹瀑布",
+        "斯科加村",
+        "史科嘉"
+      ],
+      "latitude": 63.532153411669945,
+      "longitude": -19.510625327730516,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-skogafoss/cover.webp?v=20260809-02",
+      "shortSummary": "這裡建議至少停留 30 分鐘，如果想看到彩虹的話，建議中午過後來比較好。如果你時間更多的話，比如你有 1 小時以上，建議可以沿著旁邊的步道往上走，上方還有步行步道，再往前走 20 分鐘，可以看到 2-3 個小瀑布，如果…",
+      "rating": 3,
+      "facilities": [
+        "付費停車",
+        "免費廁所",
+        "觀景台",
+        "餐飲"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/z1oEEpjjMTdr3LQb9",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-skutafoss",
+      "nameZh": "史庫塔瀑布",
+      "nameEn": "Skutafoss",
+      "aliases": [
+        "斯庫塔瀑布",
+        "Þorgeirsstaðadalur",
+        "Thorgeirsstadadalur",
+        "Þorgeirsstaðaá",
+        "Thorgeirsstadaa",
+        "Fremstifoss",
+        "Innstifoss",
+        "Almannaskarð",
+        "史庫塔"
+      ],
+      "latitude": 64.34218688722306,
+      "longitude": -14.947113398675883,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-skutafoss/cover.webp?v=20260812-01",
+      "shortSummary": "史庫塔瀑布位於赫本東側的Þorgeirsstaðadalur山谷，從一號公路轉入碎石支路後需短程步行，停車場步行到洞穴，約 20 分鐘可以走到，算是小巧有趣的洞穴。",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/GqVBKLknZHojeiiA8",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-skutustadagigar-pseudocraters",
+      "nameZh": "偽火山口",
+      "nameEn": "Skutustadagigar",
+      "aliases": [
+        "斯庫圖斯塔迪爾偽火山口",
+        "Skútustaðagígar",
+        "Skútustaðir",
+        "Pseudocraters",
+        "Skutustadir",
+        "假火山口",
+        "偽火山口群",
+        "蒸氣爆炸火山口",
+        "Gígur",
+        "Visitor",
+        "Centre",
+        "Center",
+        "賞鳥",
+        "Bird",
+        "Watching"
+      ],
+      "latitude": 65.57096061069089,
+      "longitude": -17.034060568006524,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-skutustadagigar-pseudocraters/cover.webp?v=20260810-03",
+      "shortSummary": "這個看起來是火山，實際上並不是，大大小小地面上隆起的假火山，從停車場開始步行約 1 小時，可以欣賞完整個「假火山群」的景觀。 加油站就在入口對面旅館前方，而該旅館有餐廳可以入內享用，非住客也能進入。",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "無廁所",
+        "觀景台",
+        "加油"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/twedRMakcacSQfcz9",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-steinbogafoss",
+      "nameZh": "石拱瀑布",
+      "nameEn": "Steinbogafoss",
+      "aliases": [
+        "Arch"
+      ],
+      "latitude": 63.538095663396454,
+      "longitude": -19.50153577535453,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-steinbogafoss/cover.webp?v=20260812-01",
+      "shortSummary": "從史科嘉瀑布，旁邊的步道走上，當你走上步到起，步行 20-30 分鐘左右， 你會接連看到 3 個小瀑布，蠻值得一來的。",
+      "rating": 2,
+      "facilities": [
+        "付費停車",
+        "免費廁所",
+        "觀景台",
+        "餐飲"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/EHD6wKdX79LdXT2g9",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-stjornarfoss",
+      "nameZh": "史特約納瀑布",
+      "nameEn": "Stjórnarfoss",
+      "aliases": [
+        "斯特約納瀑布",
+        "Stjórn",
+        "Geirlandsvegur",
+        "203號公路",
+        "Kirkjugólf",
+        "教堂地板",
+        "史特約納"
+      ],
+      "latitude": 63.79983963070787,
+      "longitude": -18.060603923468335,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-stjornarfoss/cover.webp?v=20260812-01",
+      "shortSummary": "史特約納瀑布位於教堂鎮附近，是一座外形優美、容易抵達的小型瀑布，右側的停車場停好車，走過馬路到對面，再走約 3 分鐘就可以抵達這瀑布，就在路邊很方便。",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/tHRvWAH6dstG6mFc7",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-studlagil-canyon-main-access",
+      "nameZh": "玄武岩峽谷",
+      "nameEn": "Studagil Canyon Main Access",
+      "aliases": [
+        "柱狀玄武岩峽谷",
+        "Stuðlagil",
+        "Studlagil",
+        "Main",
+        "Access",
+        "Observation",
+        "Deck",
+        "Entrance",
+        "Side",
+        "Grund",
+        "Farm",
+        "Jökuldalur",
+        "Jökulsá",
+        "Jökla",
+        "923號公路",
+        "Klaustursel",
+        "玄武岩"
+      ],
+      "latitude": 65.1639,
+      "longitude": -15.3117,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-studlagil-canyon-main-access/cover.webp?v=20260812-01",
+      "shortSummary": "前往玄武岩峽谷，有兩個地方，這裡標示的地點是「西岸」，西岸這裡開車進來，有休息區，步行到峽谷約 5 分鐘，如果你是到「東岸」，則要步行約 1 小時才能抵達。",
+      "rating": 2,
+      "facilities": [
+        "付費停車",
+        "免費廁所",
+        "觀景台",
+        "餐飲"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/j19khva45oMAjW5F7",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-svartifoss",
+      "nameZh": "斯瓦蒂瀑布",
+      "nameEn": "Svartifoss",
+      "aliases": [
+        "黑瀑布",
+        "斯瓦蒂"
+      ],
+      "latitude": 64.02767786769971,
+      "longitude": -16.97400910685895,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-svartifoss/cover.webp?v=20260810-02",
+      "shortSummary": "這裡是「斯卡夫塔山」旅客中心，旁邊的步道，車停在「Skaftafell Parking」，旁邊有旅客服務中心，要上廁所，用餐，只有這裡才有。",
+      "rating": 3,
+      "facilities": [
+        "付費停車",
+        "免費廁所",
+        "觀景台",
+        "餐飲"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/pJq31PPYyfpUsa2C6",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-systrafoss",
+      "nameZh": "修道姊妹瀑布",
+      "nameEn": "Systrafoss",
+      "aliases": [
+        "姊妹瀑布",
+        "修女瀑布",
+        "Sisters",
+        "Sister",
+        "姊妹湖",
+        "Ástarbrautin",
+        "Love",
+        "Path",
+        "愛情步道",
+        "Fossasteinn",
+        "Systrastapi",
+        "修道姊妹"
+      ],
+      "latitude": 63.78772849108731,
+      "longitude": -18.05972929896317,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "這個是隱藏在鎮上的瀑布，在街上遠遠抬頭可以看得到，這裡是登上步道，可以有空的話…可以走上來，登頂後視野不錯，但，真的有空再來。",
+      "rating": 1,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/RofGoad5xpUD9fj38",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-thingvellir-national-park",
+      "nameZh": "辛格維爾國家公園",
+      "nameEn": "Thingvellir National Park",
+      "aliases": [
+        "辛格韋德利國家公園",
+        "辛格韋利爾國家公園",
+        "世界遺產",
+        "World",
+        "Heritage",
+        "阿爾曼納裂谷",
+        "歐亞板塊",
+        "北美板塊",
+        "Tectonic",
+        "Plates",
+        "絲浮拉裂縫",
+        "Silfra",
+        "冰島議會",
+        "Alþingi",
+        "Althing"
+      ],
+      "latitude": 64.28716619305706,
+      "longitude": -21.055686115495565,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-thingvellir-national-park/cover.webp?v=20260810-01",
+      "shortSummary": "這裡有許多停車場，建議一開始往「P1」停車場，這裡有休息中心，觀景台也在這裡，大裂縫也在這裡，繳費後，一天內可以往不同停車場前進，不同停車場，都是圍繞在這個公園。",
+      "rating": 3,
+      "facilities": [
+        "付費停車",
+        "免費廁所",
+        "觀景台",
+        "餐飲"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/HEXfjXKsKdNXHvVV8",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-vestrahorn",
+      "nameZh": "西角山",
+      "nameEn": "Vestrahorn",
+      "aliases": [
+        "蝙蝠山",
+        "Vesturhorn",
+        "Stokksnes",
+        "斯托克斯內斯",
+        "Horn",
+        "霍恩",
+        "倒影山",
+        "山岳",
+        "維京村",
+        "Café"
+      ],
+      "latitude": 64.25571759824813,
+      "longitude": -14.991847366413486,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-vestrahorn/cover.webp?v=20260810-02",
+      "shortSummary": "西角山，也叫「蝙輻山」，也有人稱作冰島「天空之鏡」，他有多個名稱，西角山以陡峭山峰、黑沙灘與潮濕沙面的倒影聞名，是冰島熱門攝影地點 他其實是「私人景點」，你可以括尋 「Viking Cafe & Guesthouse」…",
+      "rating": 3,
+      "facilities": [
+        "付費停車",
+        "免費廁所",
+        "觀景台",
+        "餐飲"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/eCbbq7mjHJLwKgoZ8",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-white-chair-parking-viewpoint",
+      "nameZh": "白椅停車場",
+      "nameEn": "White Chair parking",
+      "aliases": [
+        "白色椅子停車場",
+        "白椅觀景台",
+        "White",
+        "Chair",
+        "Carpark",
+        "chaise",
+        "blanche",
+        "Útsýnisstaður",
+        "Utsynisstadur",
+        "白色王座",
+        "月球地貌",
+        "火星地貌",
+        "火山荒原",
+        "Möðrudalsöræfi",
+        "Modrudalsoraefi",
+        "Jökuldalsheiði",
+        "Jokuldalsheidi",
+        "Herðubreið",
+        "Herdubreid",
+        "女王山"
+      ],
+      "latitude": 65.47491082038438,
+      "longitude": -15.683286159506165,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "這裡是個「停車場」，曾經有張白色椅子，這裡的景觀非常好，值得開車累時，中間停下來休息。 這是位於一號公路旁的小型停車觀景點，可欣賞荒涼的火山高地與遠方的赫聚布雷茲山。",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/xyMkhcQ5vnU4erB59",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-yoda-cave",
+      "nameZh": "尤達洞穴",
+      "nameEn": "Yoda Cave",
+      "aliases": [
+        "尤達洞",
+        "Yoda",
+        "Yoda's",
+        "Gígjagjá",
+        "Gýgjagjá",
+        "Hjörleifshöfði",
+        "Hjorleifshofdi",
+        "洞穴",
+        "尤達",
+        "星際大戰",
+        "Star",
+        "Wars",
+        "Rogue",
+        "俠盜一號",
+        "電影場景",
+        "Mýrdalssandur",
+        "黑沙原"
+      ],
+      "latitude": 63.416865546421455,
+      "longitude": -18.764537037098656,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-yoda-cave/cover.webp?v=20260812-01",
+      "shortSummary": "這個洞穴在維克鎮旁邊，開車約 10 分鐘可以到，需要付費才能停車，從洞穴內往外看，就像星際大戰中的 Yoda 大師一樣。",
+      "rating": 2,
+      "facilities": [
+        "付費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/YXNGkPnLVgZCKGXw7",
+      "appUrl": null
+    },
+    {
+      "id": "city-arnarstapi",
+      "nameZh": "阿爾納斯塔皮",
+      "nameEn": "Arnarstapi",
+      "aliases": [
+        "阿納斯塔皮",
+        "Stapi",
+        "海岸村落",
+        "漁村",
+        "Harbour",
+        "Gatklettur",
+        "海蝕拱門",
+        "Bárður",
+        "Snæfellsás",
+        "Bardur",
+        "Statue",
+        "Hellnar",
+        "海德納",
+        "海岸步道",
+        "玄武岩海崖"
+      ],
+      "latitude": 64.76573118117547,
+      "longitude": -23.629122651385977,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/city-arnarstapi/cover.webp?v=20260811-01",
+      "shortSummary": "這裡是冰島斯奈山半島重要的漁港，這裡有幾個重要的景觀。 【Músagjá】心型海蝕洞，以及漂亮的拱橋，從停車場往西走到「Arnarstapi Harbour」，單趟約 20-30 分鐘，很值得一來，可以欣賞海岸的美景。",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "付費廁所",
+        "觀景台",
+        "餐飲"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/9qcXum5HUVbippLN9",
+      "appUrl": null
+    },
+    {
+      "id": "city-selfoss",
+      "nameZh": "塞爾福士",
+      "nameEn": "Selfoss",
+      "aliases": [
+        "塞爾福斯",
+        "瑟爾福斯",
+        "Árborg",
+        "內陸城鎮",
+        "區域中心",
+        "補給城鎮"
+      ],
+      "latitude": 63.93199946105275,
+      "longitude": -20.999275823023616,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "介於「雷克雅維克」與「維克鎮」中間的大城，是非常大的城市。 如果你準備前往維克，想買任何旅途中需要的東西，塞爾福士是最後一個「最大的城市」，維克鎮很小，再往東的大城市，只有東峽灣的 埃伊爾斯塔濟，很遠，所以若有什麼缺的…",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "免費廁所",
+        "餐飲",
+        "加油",
+        "超商"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/cUxBBc9knxRVtWFF6",
+      "appUrl": null
+    },
+    {
+      "id": "city-seydisfjordur",
+      "nameZh": "冒險王小鎮",
+      "nameEn": "seydisfjordur",
+      "aliases": [
+        "塞濟斯峽灣",
+        "town",
+        "Eastfjords",
+        "彩虹街",
+        "Rainbow",
+        "Street",
+        "藍色教堂",
+        "Seyðisfjarðarkirkja",
+        "Seydisfjardarkirkja",
+        "Tvísöngur",
+        "冰島小鎮",
+        "峽灣小鎮"
+      ],
+      "latitude": 65.260428796636,
+      "longitude": -14.008580593021408,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/city-seydisfjordur/cover.webp?v=20260810-02",
+      "shortSummary": "這裡又稱作「童話小鎮」，也是電影「白日夢冒險王」經典的場景，非常漂亮的漁港小鎮，有通往教堂的「彩虹步道」是亮點。 這裡有廁所，免費的，在 googl map 搜尋「Public toilets」。",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "免費廁所",
+        "餐飲",
+        "加油",
+        "超商"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/748CcEtsSnpwuxUK9",
+      "appUrl": null
+    },
+    {
+      "id": "city-vik",
+      "nameZh": "維克",
+      "nameEn": "Vik",
+      "aliases": [
+        "維克鎮",
+        "維克小鎮",
+        "Mýrdal",
+        "雷尼斯德蘭加"
+      ],
+      "latitude": 63.42081581667552,
+      "longitude": -19.00528349511358,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "維克鎮對於觀光客的重要性，遠大過於雷克雅維克，維克鎮雖然小，但行經南部景點，他都是非常舉足輕重的重要性，加油、採買、住宿，這裡都非常的方便。",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "免費廁所",
+        "餐飲",
+        "加油",
+        "超商"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/EWb63AhZ4hPKVESn7",
+      "appUrl": null
+    },
+    {
+      "id": "experience-earth-lagoon-myvatn",
+      "nameZh": "大地溫泉(原米湖溫泉)",
+      "nameEn": "Earth Lagoon Mývatn",
+      "aliases": [
+        "大地溫泉",
+        "米湖溫泉",
+        "米湖自然溫泉",
+        "Earth",
+        "Nature",
+        "Jarðböðin",
+        "við",
+        "Jardbodin",
+        "Jarðbaðshólar",
+        "Jardbadsholar",
+        "地熱浴場",
+        "露天溫泉"
+      ],
+      "latitude": 65.63100502759919,
+      "longitude": -16.847258425916483,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "2026 年，休業整修後重新開幕，現名為「大地溫泉 Earth Lagoon)，原名稱為 米湖溫泉 (Myvatn Lagoon).",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "免費廁所",
+        "餐飲"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/4A8ubfg1sKUc1caE8",
+      "appUrl": null
+    },
+    {
+      "id": "experience-skalakot-horseback-riding",
+      "nameZh": "冰島馬體驗行程",
+      "nameEn": "Skalakot horseback riding tours",
+      "aliases": [
+        "冰島騎馬",
+        "斯卡拉科特騎馬",
+        "Skálakot",
+        "horseback",
+        "riding",
+        "tours",
+        "horse",
+        "Manor",
+        "Hestaleigan",
+        "Skálakoti",
+        "íslenski",
+        "hesturinn",
+        "hestaferðir",
+        "tölt",
+        "騎馬體驗",
+        "戶外活動"
+      ],
+      "latitude": 63.571031114656925,
+      "longitude": -19.797026413819633,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "這個行程位於冰島的Skálakot，提供冰島馬的騎乘體驗，適合所有喜好者。地點屬於西南岸，並且設有免費的停車場及廁所，提供便捷的現場設施。 推薦指數為★★，建議遊客停留約120分鐘以充分享受騎馬活動，並拍攝美麗的風景。",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "免費廁所",
+        "餐飲"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/B4ry5U5KwfzkfmHj6",
+      "appUrl": null
+    },
+    {
+      "id": "experience-vok-baths",
+      "nameZh": "沃克溫泉",
+      "nameEn": "vok Bath",
+      "aliases": [
+        "沃克浴場",
+        "Vök",
+        "沃克地熱溫泉",
+        "冰島溫泉",
+        "天然溫泉",
+        "Floating",
+        "Pools",
+        "漂浮溫泉",
+        "湖上溫泉",
+        "Urriðavatn",
+        "Urridavatn",
+        "烏里扎湖",
+        "Fellabær",
+        "Fellabaer",
+        "Bistro"
+      ],
+      "latitude": 65.3031467601456,
+      "longitude": -14.446622387255909,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "這個溫泉我覺得很棒，有很好的視野，同時還有特殊的「冷泉」，是別的溫泉沒有的。 泡溫泉，建議保留 2hr 比較不趕，這是新開的溫泉，設備蠻新的，也是東峽灣、東北部一帶的溫泉可以規畫在旅程裡。",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "免費廁所",
+        "餐飲"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/jCU8pqHzWYJDPN9K7",
+      "appUrl": null
+    },
+    {
+      "id": "landmark-akureyrarkirkja",
+      "nameZh": "阿克雷里大教堂",
+      "nameEn": "Akureyri Church",
+      "aliases": [
+        "Akureyrarkirkja",
+        "Akureyrarkirkja church",
+        "阿克雷里教堂",
+        "阿庫雷里教堂",
+        "Akureyri 地標",
+        "Akureyri landmark",
+        "Lutheran church Iceland",
+        "Guðjón Samúelsson",
+        "Gudjon Samuelsson",
+        "North Iceland church",
+        "Northeast Iceland church",
+        "冰島北部教堂",
+        "阿克雷里大"
+      ],
+      "latitude": 65.67999380604233,
+      "longitude": -18.090030048087236,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-akureyrarkirkja/cover.webp?v=20260821-01",
+      "shortSummary": "阿克雷利最知名的教標，全市任何角落都能看得到，長年在維修，直至 2026.02 再次前往終於完工了。 前面的 Hafnarstræti 這條大街，就是阿克雷利主要的消費大待，你可以停在 Hof Cultural and…",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/gVitMhFhNicKMXUd9",
+      "appUrl": null
+    },
+    {
+      "id": "landmark-arctic-henge",
+      "nameZh": "巨石陣",
+      "nameEn": "Arctic henge",
+      "aliases": [
+        "北極巨石陣",
+        "冰島巨石陣",
+        "Henge",
+        "Heimskautsgerðið",
+        "Heimskautsgerdid",
+        "Stonehenge",
+        "北極圈",
+        "北歐神話",
+        "Norse",
+        "Mythology",
+        "北歐矮人",
+        "Völuspá",
+        "巨型日晷",
+        "Sundial",
+        "午夜太陽",
+        "Midnight",
+        "戶外藝術",
+        "公共藝術",
+        "Raufarhöfn",
+        "勞法赫本",
+        "Melrakkaás"
+      ],
+      "latitude": 66.46217595234569,
+      "longitude": -15.96222396384717,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-arctic-henge/cover.webp?v=20260812-01",
+      "shortSummary": "這裡是冰島四大極點的極北點，有特色的巨石陣，拍攝極光當作前景十分漂亮，但考慮距離有些遠，除非旅途行程天數夠，不然並非十分推薦前來。 北極巨石陣結合北歐神話、天文與冰島季節光線，如同大型日晷。",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/gtHkZWjkUmAoWHtC8",
+      "appUrl": null
+    },
+    {
+      "id": "landmark-blonduoskirkja-church",
+      "nameZh": "鯨魚教堂",
+      "nameEn": "Blonduoskirkja",
+      "aliases": [
+        "布倫迪歐斯教堂",
+        "Blönduós",
+        "Whale",
+        "冰島鯨魚教堂",
+        "現代建築",
+        "Modern",
+        "Architecture",
+        "1993",
+        "教堂建築",
+        "Blanda",
+        "HúnBay",
+        "Húnaflói"
+      ],
+      "latitude": 65.65981620299151,
+      "longitude": -20.27960355939476,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-blonduoskirkja-church/cover.webp?v=20260810-04",
+      "shortSummary": "教堂免費停車，旁邊有加油站，可以休息、加油、用餐、上廁所。",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "無廁所",
+        "餐飲",
+        "加油"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/vean7n3M5xYzYd9Y6",
+      "appUrl": null
+    },
+    {
+      "id": "landmark-bra-fence",
+      "nameZh": "胸罩圍籬",
+      "nameEn": "Bra Fence",
+      "aliases": [
+        "胸罩柵欄",
+        "Fence",
+        "Brekkukot",
+        "胸罩牆",
+        "奇特景點",
+        "特色地標",
+        "路邊景點",
+        "拍照景點"
+      ],
+      "latitude": 63.546187228822454,
+      "longitude": -19.733122847194615,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "冰島南岸的胸罩圍欄（Bra Fence）位於霍爾茨湖（Lake Holtsós）附近，介於塞里雅蘭瀑布（Seljalandsfoss）和斯科加瀑布（Skógafoss）之間，靠近Steinahellir洞穴。",
+      "rating": 1,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/X5uXZmBu5wBb6foPA",
+      "appUrl": null
+    },
+    {
+      "id": "landmark-budakirkja",
+      "nameZh": "黑教堂",
+      "nameEn": "Budakirkja",
+      "aliases": [],
+      "latitude": 64.82175834961556,
+      "longitude": -23.383897670140467,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-budakirkja/cover.webp?v=20260811-01",
+      "shortSummary": "這是冰島唯一，全黑色的教堂，往返斯奈山半島的路徑一定會經過它。 開過來的路比較小一點，天色暗時要留意一下。",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/heQejub1dZj379qr6",
+      "appUrl": null
+    },
+    {
+      "id": "landmark-eyvindarholt-dc-3-plane-wreck",
+      "nameZh": "艾文達霍特 DC-3 飛機殘骸",
+      "nameEn": "Eyvindarholt DC-3 Plane Wreck",
+      "aliases": [
+        "艾文達霍特飛機殘骸",
+        "埃文達霍特",
+        "Eyvindarholt",
+        "Airplane",
+        "C-47J",
+        "R4D-6",
+        "Sauðanes",
+        "冰島飛機殘骸",
+        "軍用飛機",
+        "一号公路"
+      ],
+      "latitude": 63.65000807380504,
+      "longitude": -19.93205577961394,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-eyvindarholt-dc-3-plane-wreck/cover.webp?v=20260810-01",
+      "shortSummary": "這是比較少人知道的飛機殘骸，只要便宜的停車費用就好，也不用像索馬非沙灘上那飛機來的辛苦，車到景就到，我覺得是可以來這裡就好，不用刻意去索馬爾沙灘上的。 從賽里雅蘭開車進來約 10-15 分鐘，路有點小，有碎石需留意。",
+      "rating": 2,
+      "facilities": [
+        "付費停車",
+        "免費廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/qghjpn7WeNh414ea6",
+      "appUrl": null
+    },
+    {
+      "id": "landmark-gardar-ba-64",
+      "nameZh": "加爾扎爾 BA 64 廢船",
+      "nameEn": "Gardar BA 64",
+      "aliases": [
+        "斯卡帕山谷",
+        "Skápadalur",
+        "Valley",
+        "西峽灣山谷",
+        "海岸山谷",
+        "帕特雷克斯峽灣",
+        "Garðar",
+        "Gardar",
+        "廢船",
+        "沉船",
+        "老捕鯨船",
+        "舊鋼船",
+        "Örlygshafnarvegur",
+        "612號公路",
+        "Vesturbyggð"
+      ],
+      "latitude": 65.516837563548,
+      "longitude": -23.836719907076848,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-gardar-ba-64/cover.webp?v=20260810-04",
+      "shortSummary": "這是一個報廢的漁船，停在這兒形成特別的人造藝術，可以登上船看看，但留意危險。",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/T6Sfa2SpKsMzmttcA",
+      "appUrl": null
+    },
+    {
+      "id": "landmark-heavier-mountain",
+      "nameZh": "沉重的山",
+      "nameEn": "Heavier Mountain",
+      "aliases": [
+        "heavier mountain iceland",
+        "Sæki þetta Seinna",
+        "Saeki thetta Seinna",
+        "Davíð frá Davíðsstöðum",
+        "David fra Davidsstodum",
+        "Heavier Mountain art installation",
+        "Heavier Mountain Seyðisfjörður",
+        "海維爾山",
+        "Heavier Mountain 裝置藝術",
+        "冰島公共藝術",
+        "Eastfjords public art"
+      ],
+      "latitude": 65.26671492501238,
+      "longitude": -14.225478942579116,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-heavier-mountain/cover.webp?v=20260821-01",
+      "shortSummary": "座落在 93 號公路的裝置藝術，建議從冒險王小鎮離開，他會在你右手邊，比較順路。",
+      "rating": 1,
+      "facilities": [
+        "免費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/fbvf8JhC98dmx6qY7",
+      "appUrl": null
+    },
+    {
+      "id": "landmark-ingjaldsholskirkja",
+      "nameZh": "視力檢查教堂",
+      "nameEn": "Ingjaldsholskirkja",
+      "aliases": [
+        "英加爾德斯侯德教堂",
+        "Ingjaldshóll",
+        "教堂",
+        "水泥教堂",
+        "混凝土教堂",
+        "1903",
+        "Hellissandur",
+        "海德利桑德",
+        "里夫",
+        "視力檢查"
+      ],
+      "latitude": 64.91166673489201,
+      "longitude": -23.85699687389691,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-ingjaldsholskirkja/cover.webp?v=20260811-01",
+      "shortSummary": "這座建於1903年的白色教堂位於小山丘上，筆直引道與對稱外觀形成「視力檢查表」般的經典構圖",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/fs7KnUtvbW84wpNj8",
+      "appUrl": null
+    },
+    {
+      "id": "landmark-kalfshamarsviti",
+      "nameZh": "卡爾夫斯燈塔",
+      "nameEn": "kalfshamarsvit",
+      "aliases": [
+        "Kálfshamarsviti",
+        "Kálfshamar",
+        "Kálfshamarsvík",
+        "玄武岩海岸",
+        "廢棄漁村",
+        "Skagi",
+        "斯卡吉半島",
+        "Skagaströnd",
+        "斯卡加斯特倫",
+        "745號公路",
+        "卡爾夫斯"
+      ],
+      "latitude": 66.04395010974396,
+      "longitude": -20.414102888159583,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "卡爾夫斯燈塔位於偏遠的Kálfshamarsvík海灣，周圍可欣賞柱狀玄武岩海岸與昔日漁村遺跡。前往途中包含較偏僻的745號道路。 這裡有玄武岩海岩的燈塔，下午的時候來光線最好。",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/bwPShCkhviEiKNe16",
+      "appUrl": null
+    },
+    {
+      "id": "landmark-monument-to-thorbjorn-arnoddsson",
+      "nameZh": "索爾比約恩・阿諾德松紀念碑",
+      "nameEn": "Monument to Thorbjorn Arnoddsson",
+      "aliases": [
+        "Monument to Þorbjörn Arnoddsson",
+        "Þorbjörn Arnoddsson",
+        "Thorbjorn Arnoddsson",
+        "Þorbjörn Arnoddsson 紀念碑",
+        "Eastfjords monument",
+        "East Iceland monument",
+        "冰島東峽灣紀念碑"
+      ],
+      "latitude": 65.23091476801096,
+      "longitude": -14.079020944156564,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-monument-to-thorbjorn-arnoddsson/cover.webp?v=20260821-01",
+      "shortSummary": "這個紀念碑旁邊有個觀景台，可以看到冒險王小鎮，非常漂亮的峽灣景觀，不多人知道，但非常值得一來。 觀景台的景觀，是我覺得整個冰島最棒的視野之一，天氣若好，你會看到非常漂亮的冰島峽灣景色。",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/L9U1SZRCvMEb8faW6",
+      "appUrl": null
+    },
+    {
+      "id": "landmark-n1-vegamot",
+      "nameZh": "最美 N1 加油站",
+      "nameEn": "n1 gas-station",
+      "aliases": [
+        "N1 Vegamót",
+        "Vegamót N1",
+        "N1 gas station Snæfellsnes",
+        "N1 gas station Snaefellsnes",
+        "冰島最美加油站",
+        "斯奈山半島加油站",
+        "冰島 N1 加油站",
+        "Vegamót",
+        "Snæfellsnesvegur",
+        "Snaefellsnesvegur",
+        "West Iceland gas station"
+      ],
+      "latitude": 64.84890728091443,
+      "longitude": -22.651120269810598,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-n1-vegamot/cover.webp?v=20260821-01",
+      "shortSummary": "這加油站本身造型特別，同時透過巧妙的構圖，可以拍到非常獨特的照片，我認為這是全冰島最美的 N1 加油店風景。 旁邊是斯奈山半島旅客中心，裡面有廁所，可休息。",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "付費廁所",
+        "加油"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/1PgV1Po8Lig9esaq7",
+      "appUrl": null
+    },
+    {
+      "id": "landmark-olafsvikurkirkja",
+      "nameZh": "奧拉夫斯維克教堂",
+      "nameEn": "olafsvikurkirkja",
+      "aliases": [
+        "Ólafsvík Church",
+        "Ólafsvík 教堂",
+        "Olafsvik church Iceland",
+        "Snæfellsnes church",
+        "Snaefellsnes church",
+        "Ólafsvík",
+        "斯奈山半島教堂",
+        "奧拉夫斯維克"
+      ],
+      "latitude": 64.89550512171579,
+      "longitude": -23.71248171976834,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-olafsvikurkirkja/cover.webp?v=20260821-01",
+      "shortSummary": "現代幾何造型教堂，以尖銳三角形屋頂與獨立鐘塔為特色，非常明顯，前方有個彩虹步道非常漂亮。",
+      "rating": 1,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/doCxdQBTPM9XmoML8",
+      "appUrl": null
+    },
+    {
+      "id": "landmark-skeidara-bridge-monument",
+      "nameZh": "橋紀念碑",
+      "nameEn": "Skeidara Bridge Monument",
+      "aliases": [
+        "斯凱扎勞大橋紀念碑",
+        "Skeiðará",
+        "Skeidara",
+        "Skeiðarárbrú",
+        "Skeidararbru",
+        "舊橋遺跡",
+        "大橋遺跡",
+        "鋼樑紀念碑",
+        "冰河洪水",
+        "冰川洪水",
+        "jökulhlaup",
+        "1996",
+        "Grímsvötn",
+        "格里姆火山",
+        "斯凱扎勞沖積平原"
+      ],
+      "latitude": 63.98471378748029,
+      "longitude": -16.959388332590397,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "這座紀念碑的殘骸原屬於冰島最長的橋樑——斯凱達拉橋（Skeiðará Bridge）。1996 年，格里姆火山（Grímsvötn）爆發，融化了冰蓋下的大量冰塊，引發了史上極其罕見的「冰川洪水」（Jökulhlaup）。",
+      "rating": 1,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/VBvYqc5gDnFfV4pA9",
+      "appUrl": null
+    },
+    {
+      "id": "landmark-solheimasandur-plane-wreck",
+      "nameZh": "索馬爾沙灘飛機殘骸",
+      "nameEn": "Solheimasandur Plane Wreck",
+      "aliases": [
+        "索爾黑馬桑德飛機殘骸",
+        "索爾黑馬沙灘",
+        "Sólheimasandur",
+        "Sólheimasandi",
+        "Super",
+        "Douglas",
+        "C-117D",
+        "飛機殘骸",
+        "接駁車"
+      ],
+      "latitude": 63.45917082311856,
+      "longitude": -19.363894662350646,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-solheimasandur-plane-wreck/cover.webp?v=20260809-02",
+      "shortSummary": "從停車場停好車，這裡停車場要付費. 停好車後你有二種方式進入，其一是步行進，單趟約 50 分鐘，約 4-5 公里，來回就要快 2HR，評估自身行程。",
+      "rating": 3,
+      "facilities": [
+        "付費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/Pp1JMbFSrwSWCAve9",
+      "appUrl": null
+    },
+    {
+      "id": "landmark-stephan-g-stephansson-memorial",
+      "nameZh": "史蒂芬·G·史蒂芬森紀念碑",
+      "nameEn": "Stephan G. Stephansson",
+      "aliases": [
+        "史蒂芬史蒂芬森紀念碑",
+        "史蒂芬森紀念碑",
+        "Stephan",
+        "Stephansson",
+        "Guðmundur",
+        "Gudmundur",
+        "Minnisvarði",
+        "Minnisvardi",
+        "冰島詩人",
+        "冰島裔加拿大詩人",
+        "poet",
+        "Canadian",
+        "Memorial",
+        "西北冰島"
+      ],
+      "latitude": 65.53116876130953,
+      "longitude": -19.507480294515755,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "史蒂芬·G·史蒂芬森紀念碑 是為紀念冰島最受愛戴的詩人之一——Stephan G. Stephansson（1853-1927）而建立的一座雄偉且具有影響力的藝術作品。",
+      "rating": 1,
+      "facilities": [
+        "免費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/9R9gnZqPDcwScVLw9",
+      "appUrl": null
+    },
+    {
+      "id": "landmark-stykkisholmskirkja-church",
+      "nameZh": "斯蒂基斯霍爾米教堂",
+      "nameEn": "Stykkishólmskirkja Church",
+      "aliases": [
+        "Stykkishólmskirkja",
+        "管風琴",
+        "Klais",
+        "Organ",
+        "Haraldsson",
+        "斯蒂基斯霍爾米",
+        "Breiðafjörður",
+        "Breidafjordur"
+      ],
+      "latitude": 65.07401008975036,
+      "longitude": -22.72103443540447,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "別具造型的教堂，是一座融合了現代主義美學與地景意象的傑出建築。它不僅是當地居民的信仰中心，更是眾多攝影師與建築愛好者造訪冰島時必去的朝聖地。",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/bDBC3TFAmGpWT85i9",
+      "appUrl": null
+    },
+    {
+      "id": "landmark-svortuloft-lighthouse",
+      "nameZh": "斯沃圖洛夫特黑崖燈塔",
+      "nameEn": "Svortuloft Lighthouse",
+      "aliases": [
+        "斯沃圖洛夫特燈塔",
+        "黑崖燈塔",
+        "Svörtuloft",
+        "Svörtuloftaviti",
+        "橘色燈塔",
+        "黑色海崖",
+        "Saxhólsbjarg",
+        "Skálasnagi",
+        "Öndverðarnes",
+        "斯沃圖洛夫特黑崖"
+      ],
+      "latitude": 64.86386211976912,
+      "longitude": -24.039170897374373,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "如果你要蒐集冰島「四大極點」的話，這就是極西角燈塔，開過來的路，有些不好開，路小且顛，但這裡觀看的視野不錯，如果行程有限，又想觀海的話，這個點不錯。",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/iYhsRgvqifPyPLbC7",
+      "appUrl": null
+    },
+    {
+      "id": "landmark-vidimyri-turf-church",
+      "nameZh": "維濟米里草皮教堂",
+      "nameEn": "Vídimyri Turf Church",
+      "aliases": [
+        "維迪米里教堂",
+        "Víðimýri",
+        "Turf",
+        "Vidimyri",
+        "Víðimýrarkirkja",
+        "Vidimyrarkirkja",
+        "草皮教堂",
+        "草頂教堂",
+        "歷史建築",
+        "文化遺產",
+        "Skagafjörður",
+        "斯卡加峽灣",
+        "Varmahlíð",
+        "瓦爾馬赫利德",
+        "維濟米里草皮",
+        "Vídimyri Turf"
+      ],
+      "latitude": 65.53892238081538,
+      "longitude": -19.46976894228423,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-vidimyri-turf-church/cover.webp?v=20260810-04",
+      "shortSummary": "維濟米里教堂建於1834年，是冰島少數保存至今的草皮教堂，目前仍具有教區教堂功能。內部通常只在夏季特定時段開放，出發前請確認最新時間；參觀時請保持安靜、尊重禮拜活動與建築規範，非開放期間可在外部欣賞。",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/9KiQ75CQdYHPYo6a7",
+      "appUrl": null
+    },
+    {
+      "id": "landmark-vigdalaug",
+      "nameZh": "聖泉",
+      "nameEn": "Vigdalaug",
+      "aliases": [
+        "Vígðalaug",
+        "Vígðalaug Laugarvatn",
+        "Vigdalaug Laugarvatn",
+        "Blessed Pool Iceland",
+        "聖泉 Vígðalaug",
+        "維格達勞格聖泉",
+        "冰島聖泉",
+        "冰島歷史遺跡",
+        "historic pool Iceland",
+        "baptism pool Iceland",
+        "Laugarvatn Fontana",
+        "Líkasteinar",
+        "Golden Circle historic site"
+      ],
+      "latitude": 64.2203381797065,
+      "longitude": -20.691134425366393,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-vigdalaug/cover.webp?v=20260821-01",
+      "shortSummary": "池水約 35–40°C，石砌、橢圓形，深約 60 公分，傳說 1550 年冰島最後一位天主教主教 Jón Arason 與兩名兒子遭處決後，遺體曾在此清洗。現在這裡主要屬歷史景點，不是一般可下水泡湯的溫泉。",
+      "rating": 1,
+      "facilities": [
+        "免費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/BD3xf5nVA7dA7eeN6",
+      "appUrl": null
+    },
+    {
+      "id": "landmark-vikurkirkja",
+      "nameZh": "維克教堂",
+      "nameEn": "Vík i Myrdal Church",
+      "aliases": [
+        "Vík Church",
+        "維克鎮教堂",
+        "Vík í Mýrdal",
+        "South Iceland church"
+      ],
+      "latitude": 63.4210531536086,
+      "longitude": -18.999548601604214,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-vikurkirkja/cover.webp?v=20260821-01",
+      "shortSummary": "冰島非常知名的紅頂教堂，網路上常看到的就是這個教堂。 可以開車到教堂旁，最多人停車在這裡，再步行上一階到上方的墓園，視野最好，可以眺黑沙灘。",
+      "rating": 3,
+      "facilities": [
+        "免費停車",
+        "無廁所",
+        "觀景台"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/Lt2Fr6gvB4B1y2Y37",
+      "appUrl": null
+    },
+    {
+      "id": "landmark-walter-mitty-bar",
+      "nameZh": "白日夢冒險王靴子酒吧",
+      "nameEn": "Walter Mitty Bar (Movie Location)",
+      "aliases": [
+        "Walter Mitty Bar",
+        "Walter Mitty bar Iceland",
+        "The Secret Life of Walter Mitty",
+        "Walter Mitty filming location",
+        "白日夢冒險王酒吧",
+        "白日夢冒險王拍攝地",
+        "華特米提酒吧",
+        "Hafnargata",
+        "Nuuk movie location",
+        "冰島電影取景地",
+        "斯奈山半島電影景點"
+      ],
+      "latitude": 65.07738460868967,
+      "longitude": -22.726347113485403,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-walter-mitty-bar/cover.webp?v=20260821-01",
+      "shortSummary": "這裡是電影「白日夢冒險王」電影場景，過去曾經營業過，為一間文具店，但已經休業，且已上鎖無法進入參觀，經過時也請安靜，勿打擾他人。",
+      "rating": 2,
+      "facilities": [
+        "免費停車",
+        "無廁所",
+        "觀景台",
+        "餐飲",
+        "加油"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/k3knaecU7dZbPTov7",
+      "appUrl": null
+    }
+  ]
+}

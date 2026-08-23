@@ -31,6 +31,18 @@ python -m unittest -v test_generate_chrome_announcement.py
 python generate_chrome_announcement.py --output chrome-config.json
 ```
 
+## Chrome free place index
+
+`generate_chrome_places.py` converts every published App place into the smaller public
+`chrome-places.json` index. It reuses the App name, coordinates, search keywords, first photo,
+summary, rating, facilities and Google Maps URL; it never reads Notion or changes App data.
+The workflow regenerates the Chrome index whenever committed place data changes.
+
+```powershell
+python -m unittest -v test_generate_chrome_places.py
+python generate_chrome_places.py --output chrome-places.json
+```
+
 Attribution: Based on information provided by the Icelandic Road and Coastal Administration (IRCA).
 
 ## Local ECMWF backup and health check

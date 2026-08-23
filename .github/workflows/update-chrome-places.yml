@@ -1,0 +1,38 @@
+name: Update Chrome places
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "places-manifest.json"
+      - "places-index.json"
+      - "places/**"
+      - "generate_chrome_places.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-chrome-places
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Test Chrome place generator
+        run: python -m unittest -v test_generate_chrome_places.py
+      - name: Generate Chrome place index
+        run: python generate_chrome_places.py --output chrome-places.json
+      - name: Publish updated Chrome place index
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add chrome-places.json
+          git diff --cached --quiet || git commit -m "Update Chrome place index"
+          git push
