@@ -34,9 +34,9 @@ class BuildConfigTest(unittest.TestCase):
         self.assertEqual(announcement["startsAt"], "2026-08-23T00:00:00+08:00")
         self.assertEqual(announcement["endsAt"], "2026-08-24T23:59:59+08:00")
 
-    def test_future_scheduled_announcement_is_not_published_yet(self):
+    def test_ended_announcement_is_not_published(self):
         config = build_config(
-            [page(status="排程中", starts_at="2026-08-25", ends_at="2026-08-26")],
+            [page(status="已結束")],
             datetime(2026, 8, 24, 12, tzinfo=TAIPEI),
         )
         self.assertEqual(config["announcement"], {"enabled": False})

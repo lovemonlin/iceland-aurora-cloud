@@ -17,7 +17,7 @@ from typing import Any
 DATA_SOURCE_ID = "3c536b38-6fd9-80e3-99d9-000b960b86a8"
 NOTION_API_VERSION = "2026-03-11"
 TAIPEI = timezone(timedelta(hours=8))
-PUBLISHABLE_STATUSES = {"啟用中", "排程中"}
+PUBLISHABLE_STATUS = "啟用中"
 
 
 class AnnouncementError(ValueError):
@@ -56,7 +56,7 @@ def build_config(pages: list[dict[str, Any]], now: datetime) -> dict[str, Any]:
     for page in pages:
         properties = page.get("properties", {})
         status = properties.get("狀態", {}).get("status", {}).get("name", "")
-        if status not in PUBLISHABLE_STATUSES:
+        if status != PUBLISHABLE_STATUS:
             continue
 
         start_date = properties.get("開始時間", {}).get("date") or {}
@@ -64,8 +64,6 @@ def build_config(pages: list[dict[str, Any]], now: datetime) -> dict[str, Any]:
         starts_at = _parse_notion_date(start_date.get("start"), is_end=False)
         ends_at = _parse_notion_date(end_date.get("start"), is_end=True)
 
-        if status == "排程中" and starts_at is None:
-            raise AnnouncementError("排程中的公告必須填寫開始時間。")
         if starts_at and ends_at and ends_at < starts_at:
             raise AnnouncementError("公告的結束時間不可早於開始時間。")
         if starts_at and now < starts_at:
@@ -111,12 +109,7 @@ def query_notion(token: str) -> list[dict[str, Any]]:
     cursor: str | None = None
     while True:
         body: dict[str, Any] = {
-            "filter": {
-                "or": [
-                    {"property": "狀態", "status": {"equals": "啟用中"}},
-                    {"property": "狀態", "status": {"equals": "排程中"}},
-                ]
-            },
+            "filter": {"property": "狀態", "status": {"equals": PUBLISHABLE_STATUS}},
             "page_size": 100,
         }
         if cursor:
