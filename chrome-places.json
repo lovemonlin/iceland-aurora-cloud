@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-20T16:18:29Z",
+  "generatedAt": "2026-08-25T23:20:01Z",
   "places": [
     {
       "id": "attraction-aldeyjarfoss-waterfall",
@@ -2504,6 +2504,43 @@
         "No restroom"
       ],
       "googleMapsUrl": "https://maps.app.goo.gl/RofGoad5xpUD9fj38",
+      "appUrl": null
+    },
+    {
+      "id": "attraction-taipei-101-test",
+      "nameZh": "台北101",
+      "nameEn": "taipei101",
+      "aliases": [
+        "台北最高大樓"
+      ],
+      "latitude": 25.034214472563118,
+      "longitude": 121.56414434235498,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": null,
+      "shortSummary": "這是台北最高大樓101，超炫超酷超好玩",
+      "shortSummaryEn": "Visit Taipei 101, the tallest building in Taipei, and allocate about 30 minutes for a quick stop. Free parking is available nearby, but there are no restrooms on site. The venue offers an observation deck, convenience store, and dining options, so you can enjoy the view and grab a snack. Use the provided Google Maps link for directions.",
+      "rating": 2,
+      "lastVerified": "2026-08-26",
+      "regionLabel": "西南冰島",
+      "regionLabelEn": "Southwest Iceland",
+      "recommendedStayMinutes": 30,
+      "facilities": [
+        "免費停車",
+        "免費廁所",
+        "觀景台",
+        "餐飲",
+        "加油",
+        "超商"
+      ],
+      "facilitiesEn": [
+        "Free parking",
+        "Free restroom",
+        "Viewpoint",
+        "Food",
+        "Fuel",
+        "Convenience store"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/is5R4g6hvfmT4CTX7",
       "appUrl": null
     },
     {

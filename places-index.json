@@ -2801,6 +2801,26 @@
       "detail_url": "https://lovemonlin.github.io/iceland-aurora-cloud/places/attraction-systrafoss.json"
     },
     {
+      "id": "attraction-taipei-101-test",
+      "status": "published",
+      "primary_type": "attraction",
+      "category": "cultural_history",
+      "subcategory": "national_park",
+      "region": "southwest",
+      "latitude": 25.034214472563118,
+      "longitude": 121.56414434235498,
+      "name_zh": "台北101",
+      "name_en": "taipei101",
+      "summary_zh": "這是台北最高大樓101，超炫超酷超好玩",
+      "summary_en": "Visit Taipei 101, the tallest building in Taipei, and allocate about 30 minutes for a quick stop. Free parking is available nearby, but there are no restrooms on site. The venue offers an observation deck, convenience store, and dining options, so you can enjoy the view and grab a snack. Use the provided Google Maps link for directions.",
+      "recommendation": 2,
+      "search_keywords": [
+        "台北 101",
+        "台北最高大樓"
+      ],
+      "detail_url": "https://lovemonlin.github.io/iceland-aurora-cloud/places/attraction-taipei-101-test.json"
+    },
+    {
       "id": "attraction-thingvellir-national-park",
       "status": "published",
       "primary_type": "attraction",

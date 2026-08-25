@@ -1,0 +1,35 @@
+{
+  "id": "attraction-taipei-101-test",
+  "status": "published",
+  "primary_type": "attraction",
+  "category": "cultural_history",
+  "subcategory": "national_park",
+  "region": "southwest",
+  "latitude": 25.034214472563118,
+  "longitude": 121.56414434235498,
+  "name_zh": "台北101",
+  "name_en": "taipei101",
+  "summary_zh": "這是台北最高大樓101，超炫超酷超好玩",
+  "summary_en": "Visit Taipei 101, the tallest building in Taipei, and allocate about 30 minutes for a quick stop. Free parking is available nearby, but there are no restrooms on site. The venue offers an observation deck, convenience store, and dining options, so you can enjoy the view and grab a snack. Use the provided Google Maps link for directions.",
+  "google_maps_url": "https://maps.app.goo.gl/is5R4g6hvfmT4CTX7",
+  "photo_album_url": "",
+  "detailed_info_url": "",
+  "facilities": [
+    "parking",
+    "viewpoint",
+    "toilet",
+    "food",
+    "fuel",
+    "convenience_store"
+  ],
+  "parking": "free",
+  "toilet": "free",
+  "recommended_stay_minutes": 30,
+  "recommendation": 2,
+  "last_verified": "2026-08-26",
+  "photographer": "賀禎禎",
+  "search_keywords": [
+    "台北 101",
+    "台北最高大樓"
+  ]
+}
