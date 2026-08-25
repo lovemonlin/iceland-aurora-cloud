@@ -6,7 +6,7 @@
     "message": "冰島旅遊助手，程式開發上線，陸續新增功能與資料，若該景點無資料，我會盡力補充。",
     "buttonText": null,
     "url": null,
-    "startsAt": null,
-    "endsAt": null
+    "startsAt": "2026-08-26T00:00:00+08:00",
+    "endsAt": "2026-08-27T23:59:59+08:00"
   }
 }
