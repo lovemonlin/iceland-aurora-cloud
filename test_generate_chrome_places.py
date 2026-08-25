@@ -35,8 +35,8 @@ class ChromePlaceGeneratorTest(unittest.TestCase):
             self.assertEqual("西南冰島", result["places"][0]["regionLabel"])
             self.assertEqual("Southwest Iceland", result["places"][0]["regionLabelEn"])
             self.assertEqual(60, result["places"][0]["recommendedStayMinutes"])
-            self.assertLessEqual(len(result["places"][0]["shortSummary"]), 110)
-            self.assertLessEqual(len(result["places"][0]["shortSummaryEn"]), 110)
+            self.assertEqual(" ".join(places[0]["summary_zh"].split()), result["places"][0]["shortSummary"])
+            self.assertEqual(" ".join(places[0]["summary_en"].split()), result["places"][0]["shortSummaryEn"])
 
     @staticmethod
     def place(place_id, name_zh, name_en, keywords):

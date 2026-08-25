@@ -86,15 +86,8 @@ def derived_name_aliases(place):
     return aliases
 
 
-def short_summary(value, limit=110):
-    text = " ".join(str(value).split())
-    if len(text) <= limit:
-        return text
-    shortened = text[:limit]
-    punctuation = max(shortened.rfind(mark) for mark in "。！？.!?")
-    if punctuation >= limit // 2:
-        return shortened[:punctuation + 1]
-    return shortened[:limit - 1].rstrip("，,；;：: ") + "…"
+def short_summary(value):
+    return " ".join(str(value).split())
 
 
 def facility_labels(place, english=False):
