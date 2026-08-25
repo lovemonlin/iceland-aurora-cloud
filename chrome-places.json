@@ -1387,7 +1387,7 @@
       "lastVerified": "2026-08-06",
       "regionLabel": "東峽灣",
       "regionLabelEn": "Eastfjords",
-      "recommendedStayMinutes": null,
+      "recommendedStayMinutes": 30,
       "facilities": [
         "免費停車",
         "無廁所"
