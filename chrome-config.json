@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "announcement": {
     "enabled": true,
-    "title": "測試公告",
+    "title": "歡迎大家安裝本程式",
     "message": "冰島旅遊助手，程式開發上線，陸續新增功能與資料，若該景點無資料，我會盡力補充。",
     "buttonText": null,
     "url": null,
