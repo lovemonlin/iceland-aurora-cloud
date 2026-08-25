@@ -55,5 +55,11 @@
     "Ring",
     "Road",
     "西南"
-  ]
+  ],
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-glanni-waterfall/cover.webp?v=20260825-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-glanni-waterfall/gallery-01.webp?v=20260825-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-glanni-waterfall/gallery-02.webp?v=20260825-01"
+  ],
+  "photographer": "賀禎禎"
 }

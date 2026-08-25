@@ -51,5 +51,12 @@
     "Snæfellsnes",
     "斯奈山半島",
     "574號公路"
-  ]
+  ],
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-djupalonssandur/cover.webp?v=20260825-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-djupalonssandur/gallery-01.webp?v=20260825-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-djupalonssandur/gallery-02.webp?v=20260825-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/attraction-djupalonssandur/gallery-03.webp?v=20260825-01"
+  ],
+  "photographer": "賀禎禎"
 }
