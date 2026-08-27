@@ -1,12 +1,6 @@
 {
   "schemaVersion": 1,
   "announcement": {
-    "enabled": true,
-    "title": "歡迎大家安裝本程式",
-    "message": "冰島旅遊助手，程式開發上線，陸續新增功能與資料，若該景點無資料，我會盡力補充。",
-    "buttonText": "我的「冰島景點地圖」",
-    "url": "https://www.google.com/maps/d/u/0/edit?hl=zh-TW&mid=1N0jY5xch6TFVmDH2YiEDXlnFIyvFngtm&ll=64.8457084904976%2C-20.720017014716227&z=7",
-    "startsAt": "2026-08-26T00:00:00+08:00",
-    "endsAt": "2026-08-27T23:59:59+08:00"
+    "enabled": false
   }
 }
