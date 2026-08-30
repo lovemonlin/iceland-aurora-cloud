@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-30T11:34:06Z",
+  "generatedAt": "2026-08-30T13:32:31Z",
   "places": [
     {
       "id": "attraction-aldeyjarfoss-waterfall",
@@ -2139,7 +2139,7 @@
       "lastVerified": "2026-08-04",
       "regionLabel": "西南冰島",
       "regionLabelEn": "Southwest Iceland",
-      "recommendedStayMinutes": 90,
+      "recommendedStayMinutes": 60,
       "facilities": [
         "付費停車",
         "免費廁所",
@@ -3199,6 +3199,7 @@
       "nameEn": "Eyvindarholt DC-3 Plane Wreck",
       "aliases": [
         "艾文達霍特飛機殘骸",
+        "艾文達霍特",
         "埃文達霍特",
         "Eyvindarholt",
         "Airplane",
@@ -3561,7 +3562,6 @@
         "Super",
         "Douglas",
         "C-117D",
-        "飛機殘骸",
         "接駁車"
       ],
       "latitude": 63.45917082311856,
