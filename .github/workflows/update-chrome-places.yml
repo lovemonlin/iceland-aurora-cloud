@@ -25,6 +25,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Validate production place data
+        shell: pwsh
+        run: ./validate-places.ps1
       - name: Test Chrome place generator
         run: python -m unittest -v test_generate_chrome_places.py
       - name: Generate Chrome place index

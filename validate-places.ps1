@@ -10,14 +10,24 @@ $ImagesDirectory = Join-Path $Root 'images\places'
 
 $manifest = Get-Content -LiteralPath $ManifestPath -Raw -Encoding UTF8 | ConvertFrom-Json
 $index = Get-Content -LiteralPath $IndexPath -Raw -Encoding UTF8 | ConvertFrom-Json
-$detailFiles = @(Get-ChildItem -LiteralPath $DetailsDirectory -Filter '*.json')
 $ids = @{}
+$detailsById = @{}
 
 if ($manifest.place_count -ne $index.places.Count) {
     throw "Manifest count $($manifest.place_count) does not match index count $($index.places.Count)."
 }
-if ($detailFiles.Count -ne $index.places.Count) {
-    throw "Detail count $($detailFiles.Count) does not match index count $($index.places.Count)."
+foreach ($detailFile in @(Get-ChildItem -LiteralPath $DetailsDirectory -Filter '*.json')) {
+    $detail = Get-Content -LiteralPath $detailFile.FullName -Raw -Encoding UTF8 | ConvertFrom-Json
+    if ([string]::IsNullOrWhiteSpace($detail.id)) {
+        throw "Detail contains a blank App ID: $($detailFile.FullName)"
+    }
+    if ($detail.id -cne $detailFile.BaseName) {
+        throw "Detail App ID does not match its filename: $($detailFile.FullName)"
+    }
+    if ($detailsById.ContainsKey($detail.id)) {
+        throw "Duplicate detail App ID: $($detail.id)"
+    }
+    $detailsById[$detail.id] = $detail
 }
 
 foreach ($place in $index.places) {
@@ -28,6 +38,12 @@ foreach ($place in $index.places) {
         throw "Duplicate App ID: $($place.id)"
     }
     $ids[$place.id] = $true
+    if ($place.status -cne 'published') {
+        throw "Index may only contain published places: $($place.id)"
+    }
+    if ($place.id -match '(^|-)test($|-)') {
+        throw "Test place must not appear in the production index: $($place.id)"
+    }
     if ($null -eq $place.recommendation -or $place.recommendation -lt 1 -or $place.recommendation -gt 3) {
         throw "Missing or invalid recommendation in index: $($place.id)"
     }
@@ -35,13 +51,12 @@ foreach ($place in $index.places) {
         throw "Coordinate outside Iceland bounds: $($place.id)"
     }
 
-    $detailPath = Join-Path $DetailsDirectory ($place.id + '.json')
-    if (-not (Test-Path -LiteralPath $detailPath)) {
-        throw "Missing detail file: $detailPath"
+    if (-not $detailsById.ContainsKey($place.id)) {
+        throw "Missing detail file: $($place.id).json"
     }
-    $detail = Get-Content -LiteralPath $detailPath -Raw -Encoding UTF8 | ConvertFrom-Json
-    if ($detail.id -cne $place.id) {
-        throw "Detail App ID mismatch: $detailPath"
+    $detail = $detailsById[$place.id]
+    if ($detail.status -cne 'published') {
+        throw "Indexed detail must be published: $($place.id)"
     }
     if ($detail.recommendation -ne $place.recommendation) {
         throw "Recommendation mismatch for $($place.id): index=$($place.recommendation), detail=$($detail.recommendation)"
@@ -73,6 +88,13 @@ foreach ($place in $index.places) {
         }
     } elseif ($galleryUrls.Count -gt 0) {
         throw "Gallery images require a cover image: $($place.id)"
+    }
+}
+
+foreach ($detailId in $detailsById.Keys) {
+    $detail = $detailsById[$detailId]
+    if ($detail.status -ceq 'published' -and -not $ids.ContainsKey($detailId)) {
+        throw "Published detail is missing from the production index: $detailId"
     }
 }
 

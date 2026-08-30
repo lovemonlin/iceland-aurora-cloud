@@ -1,0 +1,29 @@
+name: Validate places
+
+on:
+  pull_request:
+    paths:
+      - "places-manifest.json"
+      - "places-index.json"
+      - "places/**"
+      - "validate-places.ps1"
+  push:
+    branches: [main]
+    paths:
+      - "places-manifest.json"
+      - "places-index.json"
+      - "places/**"
+      - "validate-places.ps1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate production place data
+        shell: pwsh
+        run: ./validate-places.ps1
