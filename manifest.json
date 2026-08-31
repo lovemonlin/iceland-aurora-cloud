@@ -1,7 +1,7 @@
 {
   "model": "ECMWF IFS Open Data (0.25 degree)",
   "run_at": "2026-08-30T12:00:00Z",
-  "generated_at": "2026-08-30T23:35:17.145516Z",
+  "generated_at": "2026-08-31T05:45:51.797523Z",
   "source_url": "https://www.ecmwf.int/en/forecasts/datasets/open-data",
   "attribution": "European Centre for Medium-Range Weather Forecasts (ECMWF), CC BY 4.0. Modified by Iceland Aurora.",
   "frames": [
