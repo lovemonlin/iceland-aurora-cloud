@@ -1,0 +1,51 @@
+{
+  "id": "experience-bru-horse-farm",
+  "status": "published",
+  "primary_type": "experience",
+  "category": "animal_experience",
+  "subcategory": "icelandic_horse_interaction",
+  "region": "southwest",
+  "latitude": 64.31384283133556,
+  "longitude": -20.262418607041973,
+  "name_zh": "冰島馬路邊農場",
+  "name_en": "Bru Horse Farm",
+  "summary_zh": "這裡是一個農場，馬就在圍欄旁邊，這裡可以近距離觀賞冰島馬，跟互動，可以買 1000isk 買馬吃的糖果，千萬別餵他其它任何東西、食物。\n\n旁邊有一個停車空間，還蠻大的，如果想要與冰島馬近距離互動，那這裡是最好的地點。",
+  "summary_en": "This farm features Icelandic horses fenced nearby, allowing close-up viewing and interaction. You can purchase horse treats for 1000 ISK, but only feed them these candies and nothing else. There is a fairly large free parking area adjacent to the farm, making it an ideal spot for intimate horse encounters.",
+  "google_maps_url": "https://maps.app.goo.gl/BrWS8pZ1xAivog5W7",
+  "photo_album_url": "",
+  "detailed_info_url": "https://app.notion.com/p/31b36b386fd9800c9dd1ef255c964e67?v=2d536b386fd980a09d5e000ce135dcac&source=copy_link",
+  "facilities": [
+    "parking"
+  ],
+  "parking": "free",
+  "toilet": "none",
+  "recommended_stay_minutes": 30,
+  "recommendation": 3,
+  "last_verified": "2026-08-05",
+  "search_keywords": [
+    "Brú Horse Farm",
+    "Bru Horse Farm",
+    "Brú Horsefarm",
+    "Bru Horsefarm",
+    "Brú Icelandic Horse Farm",
+    "Icelandic horse petting",
+    "Icelandic horse feeding",
+    "冰島馬路邊農場",
+    "冰島馬農場",
+    "冰島馬餵食",
+    "冰島馬互動",
+    "黃金圈冰島馬",
+    "Geysir horse farm",
+    "Gullfoss horse farm",
+    "Route 35 horse farm",
+    "Haukadalur",
+    "Golden Circle horse farm"
+  ],
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-bru-horse-farm/cover.webp?v=20260831-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-bru-horse-farm/gallery-01.webp?v=20260831-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-bru-horse-farm/gallery-02.webp?v=20260831-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-bru-horse-farm/gallery-03.webp?v=20260831-01"
+  ],
+  "photographer": "賀禎禎"
+}

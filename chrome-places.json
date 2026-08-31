@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-30T13:32:31Z",
+  "generatedAt": "2026-08-31T03:24:16Z",
   "places": [
     {
       "id": "attraction-aldeyjarfoss-waterfall",
@@ -48,7 +48,6 @@
         "巴納瀑布",
         "巴納佛斯瀑布",
         "Hraunfossar Barnafoss",
-        "Hvita river",
         "West Iceland waterfall",
         "冰島西部瀑布"
       ],
@@ -681,7 +680,6 @@
         "大間歇泉",
         "Great",
         "間歇泉",
-        "Haukadalur",
         "豪卡達魯爾",
         "Strokkur",
         "史托克間歇泉",
@@ -2522,7 +2520,6 @@
         "Tectonic",
         "Plates",
         "絲浮拉裂縫",
-        "Silfra",
         "冰島議會",
         "Alþingi",
         "Althing"
@@ -3870,6 +3867,429 @@
         "Fuel"
       ],
       "googleMapsUrl": "https://maps.app.goo.gl/k3knaecU7dZbPTov7",
+      "appUrl": null
+    },
+    {
+      "id": "experience-bru-horse-farm",
+      "nameZh": "冰島馬路邊農場",
+      "nameEn": "Bru Horse Farm",
+      "aliases": [
+        "Brú Icelandic Horse Farm",
+        "Icelandic horse petting",
+        "Icelandic horse feeding",
+        "冰島馬農場",
+        "冰島馬餵食",
+        "冰島馬互動",
+        "黃金圈冰島馬",
+        "Geysir horse farm",
+        "Gullfoss horse farm",
+        "Route 35 horse farm",
+        "Golden Circle horse farm"
+      ],
+      "latitude": 64.31384283133556,
+      "longitude": -20.262418607041973,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-bru-horse-farm/cover.webp?v=20260831-01",
+      "shortSummary": "這裡是一個農場，馬就在圍欄旁邊，這裡可以近距離觀賞冰島馬，跟互動，可以買 1000isk 買馬吃的糖果，千萬別餵他其它任何東西、食物。 旁邊有一個停車空間，還蠻大的，如果想要與冰島馬近距離互動，那這裡是最好的地點。",
+      "shortSummaryEn": "This farm features Icelandic horses fenced nearby, allowing close-up viewing and interaction. You can purchase horse treats for 1000 ISK, but only feed them these candies and nothing else. There is a fairly large free parking area adjacent to the farm, making it an ideal spot for intimate horse encounters.",
+      "rating": 3,
+      "lastVerified": "2026-08-05",
+      "regionLabel": "西南冰島",
+      "regionLabelEn": "Southwest Iceland",
+      "recommendedStayMinutes": 30,
+      "facilities": [
+        "免費停車",
+        "無廁所"
+      ],
+      "facilitiesEn": [
+        "Free parking",
+        "No restroom"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/BrWS8pZ1xAivog5W7",
+      "appUrl": null
+    },
+    {
+      "id": "experience-laugaras-lagoon",
+      "nameZh": "勞加勞斯溫泉",
+      "nameEn": "Laugaras Geothermal Lagoon",
+      "aliases": [
+        "Laugarás Lagoon",
+        "Laugarás hot spring",
+        "Laugarás 溫泉",
+        "冰島地熱潟湖",
+        "黃金圈溫泉",
+        "geothermal lagoon Iceland",
+        "hot spring South Iceland",
+        "Laugarás",
+        "Golden Circle spa",
+        "South Iceland lagoon",
+        "勞加勞斯"
+      ],
+      "latitude": 64.1159,
+      "longitude": -20.4976,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-laugaras-lagoon/cover.webp?v=20260831-01",
+      "shortSummary": "這是一個 2025-10 新開的溫泉，設備非常新，景觀也不錯，又在金圈裡面一個非常好的位置。 特色包括雙層溫泉池、瀑布、洞穴區、森林池、無邊際池、冷水池、桑拿與池中酒吧。水溫約 38–40°C。 想泡溫泉，你的旅程又有空檔，可以來這裡體驗，建議保留 2 小時比較充足的體驗。",
+      "shortSummaryEn": "This newly opened geothermal lagoon (2025‑10) offers modern facilities and great scenery in a prime location within the Golden Circle. It features a double‑level hot‑water pool, waterfall, cave area, forest pool, infinity pool, cold‑water pool, sauna, and a poolside bar, with water temperatures around 38–40 °C. Free parking and restrooms are available on site. We recommend allowing about 2 hours (120 minutes) to fully enjoy the experience.",
+      "rating": 3,
+      "lastVerified": "2026-08-31",
+      "regionLabel": "西南冰島",
+      "regionLabelEn": "Southwest Iceland",
+      "recommendedStayMinutes": 120,
+      "facilities": [
+        "免費停車",
+        "免費廁所",
+        "餐飲"
+      ],
+      "facilitiesEn": [
+        "Free parking",
+        "Free restroom",
+        "Food"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/VobovhcpaF3sUVdx7",
+      "appUrl": null
+    },
+    {
+      "id": "experience-froken-selfoss",
+      "nameZh": "塞爾福斯冰島料理餐廳",
+      "nameEn": "Icelandic Dining Experience",
+      "aliases": [
+        "Fröken Selfoss",
+        "Fröken Selfoss Icelandic Food & Drinks",
+        "Froken Selfoss Icelandic Food and Drinks",
+        "Fröken Selfoss 餐廳",
+        "冰島料理 Selfoss",
+        "Icelandic restaurant Selfoss",
+        "Icelandic food Selfoss",
+        "Selfoss restaurant",
+        "Brúartorg",
+        "South Iceland restaurant",
+        "冰島南部餐廳"
+      ],
+      "latitude": 63.933481,
+      "longitude": -20.999853,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-froken-selfoss/cover.webp?v=20260831-01",
+      "shortSummary": "Fröken Selfoss 位於 Selfoss 市中心 Brúartorg 一帶，這裡是一個有三層樓的美飲餐廳集合，裡面有非常多不同種類飲食的餐廳平價、高價都有，也有免費的廁所。 在旁邊的停車場付費。",
+      "shortSummaryEn": "Fröken Selfoss is located in the center of Selfoss at Brúartorg, spanning three floors with a variety of restaurants ranging from budget to upscale. Free restrooms are available on-site. Parking is nearby and requires a fee. Visitors are advised to allocate about 120 minutes for a visit.",
+      "rating": 2,
+      "lastVerified": "2026-08-31",
+      "regionLabel": "西南冰島",
+      "regionLabelEn": "Southwest Iceland",
+      "recommendedStayMinutes": 120,
+      "facilities": [
+        "付費停車",
+        "免費廁所",
+        "餐飲"
+      ],
+      "facilitiesEn": [
+        "Paid parking",
+        "Free restroom",
+        "Food"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/EJgwR7ESHmz7Nhmu7",
+      "appUrl": null
+    },
+    {
+      "id": "experience-fjorubordid",
+      "nameZh": "海岸龍蝦餐廳",
+      "nameEn": "Langoustine Dining Experience",
+      "aliases": [
+        "Fjöruborðið",
+        "Fjorubordid",
+        "Fjöruborðið Restaurant",
+        "Fjorubordid Restaurant",
+        "langoustine restaurant Iceland",
+        "lobster restaurant Iceland",
+        "Fjöruborðið 龍蝦餐廳",
+        "冰島龍蝦餐廳",
+        "冰島海螯蝦",
+        "langoustine soup Iceland",
+        "Stokkseyri restaurant",
+        "Stokkseyri",
+        "Eyrarbakki",
+        "South Iceland food experience"
+      ],
+      "latitude": 63.837553,
+      "longitude": -21.066923,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-fjorubordid/cover.webp?v=20260831-01",
+      "shortSummary": "Fjöruborðið 位於冰島南岸 Stokkseyri，是當地最具代表性的海螯蝦餐廳之一，招牌料理包括 langoustine soup 與奶油蒜香海螯蝦。從 Reykjavík 開車約 1 小時左右 這間龍蝦餐廳，是提供「小龍蝦」，動手吃起來比較簡單，同時份量也算蠻足夠了，口味也讓人滿意，會讓人二訪的餐廳。",
+      "shortSummaryEn": "Fjöruborðið, located on Iceland’s south coast in Stokkseyri, is one of the most iconic langoustine restaurants in the area. Signature dishes include langoustine soup and butter‑garlic langoustine. It’s about a one‑hour drive from Reykjavík. The restaurant serves small lobsters that are easy to eat by hand, with generous portions and satisfying flavors, making it worth a second visit. Parking is free, and restrooms are also free on site. Expect to spend around 90 minutes enjoying the meal.",
+      "rating": 2,
+      "lastVerified": "2026-08-31",
+      "regionLabel": "西南冰島",
+      "regionLabelEn": "Southwest Iceland",
+      "recommendedStayMinutes": 90,
+      "facilities": [
+        "免費停車",
+        "免費廁所",
+        "餐飲"
+      ],
+      "facilitiesEn": [
+        "Free parking",
+        "Free restroom",
+        "Food"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/FEogzNnFxai6qqJm8",
+      "appUrl": null
+    },
+    {
+      "id": "experience-silfra-snorkeling-tour",
+      "nameZh": "絲費拉裂縫浮潛",
+      "nameEn": "Silfra Snorkeling Tour",
+      "aliases": [
+        "Silfra snorkeling",
+        "Silfra fissure snorkeling",
+        "Silfra Fissure",
+        "絲費拉浮潛",
+        "西爾弗拉裂縫浮潛",
+        "冰島浮潛",
+        "冰島乾式衣浮潛",
+        "Thingvellir snorkeling",
+        "Þingvellir snorkeling",
+        "Thingvellir National Park",
+        "tectonic plate snorkeling",
+        "Golden Circle snorkeling",
+        "Iceland snorkeling tour"
+      ],
+      "latitude": 64.255922,
+      "longitude": -21.122475,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-silfra-snorkeling-tour/cover.webp?v=20260831-01",
+      "shortSummary": "如果你有參加 絲費拉裂縫浮潛，這裡就是集合地，同時也是在這裡出發。 一般 Silfra 浮潛行程約需 2～3 小時，實際下水時間通常較短，其餘時間包含報到、穿著乾式防寒衣、裝備說明與安全講解。活動通常需要事先預約，同時也需先看活動重要需知。 開車在這裡停好車，也在這裡換裝，這裡無更衣室需留意。",
+      "shortSummaryEn": "Silfra Snorkeling Tour is the meeting point and departure location. Parking is free on site, and there are restrooms and a viewpoint available. The recommended stay is about 180 minutes. Expect a 2–3 hour overall experience, including check‑in, putting on a dry suit, equipment briefing and safety instructions, with the actual snorkeling time being shorter. No changing rooms are provided, so plan accordingly. Reservations are required in advance, and be sure to review any important notes about the activity beforehand.",
+      "rating": 2,
+      "lastVerified": "2026-08-31",
+      "regionLabel": "西南冰島",
+      "regionLabelEn": "Southwest Iceland",
+      "recommendedStayMinutes": 180,
+      "facilities": [
+        "免費停車",
+        "免費廁所",
+        "觀景台"
+      ],
+      "facilitiesEn": [
+        "Free parking",
+        "Free restroom",
+        "Viewpoint"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/MkGijhteYWzRgPi2A",
+      "appUrl": null
+    },
+    {
+      "id": "experience-raufarholshellir",
+      "nameZh": "火山熔岩隧道探險",
+      "nameEn": "Lava Tunnel Adventure",
+      "aliases": [
+        "Raufarhólshellir",
+        "The Lava Tunnel",
+        "Raufarhólshellir Lava Tunnel",
+        "Raufarholshellir lava cave",
+        "火山隧道探險",
+        "冰島熔岩隧道",
+        "冰島火山洞穴",
+        "熔岩洞穴探險",
+        "lava tunnel Iceland",
+        "lava tube Iceland",
+        "lava cave Iceland",
+        "Leitahraun",
+        "Route 39 Iceland",
+        "Reykjavík lava tunnel",
+        "Southwest Iceland cave"
+      ],
+      "latitude": 63.93991176098731,
+      "longitude": -21.39529188882286,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-raufarholshellir/cover.webp?v=20260831-01",
+      "shortSummary": "Raufarhólshellir 是位於 Reykjavík 東南方約 30 公里的大型熔岩隧道，官方英文品牌名稱為 The Lava Tunnel，約 30 分鐘車程可以抵達。 想深度了解冰島的「岩漿 LAVA」如何形影響這片大地，這行程是非常推薦。 全程非常輕鬆沒有難度，也不用換裝、上冰爪等等(但實際情況要視季節、現場狀況)，僅需一頂安全帽就好，裡面會有點冷，防寒衣物不能少。",
+      "shortSummaryEn": "Raufarhólshellir is a large lava tunnel located about 30 km southeast of Reykjavík, reachable in roughly a 30‑minute drive. The tour is easy with no technical difficulty; you only need a safety helmet, and while it can be chilly inside, bring warm clothing. Parking and restroom facilities are available on site for free. The recommended visit duration is 120 minutes. This experience is highly recommended for those who want to learn how volcanic lava has shaped the Icelandic landscape.",
+      "rating": 3,
+      "lastVerified": "2026-08-31",
+      "regionLabel": "西南冰島",
+      "regionLabelEn": "Southwest Iceland",
+      "recommendedStayMinutes": 120,
+      "facilities": [
+        "免費停車",
+        "免費廁所"
+      ],
+      "facilitiesEn": [
+        "Free parking",
+        "Free restroom"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/17UmWQtSdQvmFxav6",
+      "appUrl": null
+    },
+    {
+      "id": "landmark-sunnumork",
+      "nameZh": "地殼裂縫購物中心",
+      "nameEn": "Sunnumörk Shopping Centre",
+      "aliases": [
+        "Sunnumörk",
+        "Sunnumork Shopping Center",
+        "Hveragerði Sunnumörk",
+        "Hveragerdi Sunnumork",
+        "Sunnumörk 購物中心",
+        "冰島地殼裂縫商場",
+        "Quake 2008",
+        "Skjálftinn 2008",
+        "Hveragerði fissure",
+        "Hveragerdi fissure",
+        "tectonic fissure shopping center",
+        "Hveragerði",
+        "Hveragerdi",
+        "Southwest Iceland landmark"
+      ],
+      "latitude": 63.995433,
+      "longitude": -21.191833,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/landmark-sunnumork/cover.webp?v=20260831-01",
+      "shortSummary": "想看「歐洲 &美洲」板塊交界處，除了辛格韋爾國家公園的大裂縫外，這裡也能看得到。 這個商場沒有特別的特色，但這裡可以看得到「美洲 & 歐洲」板塊交界處的「裂縫」，就在商場裡面，值得特別來繞路來看看。 2003 年興建時發現裂縫穿過基地，後來建築設計將它保留下來，現在可以在商場內看到相關展示；館內也有關於 2008 年冰島南部地震的展示",
+      "shortSummaryEn": "Visit the Sunnumörk Shopping Centre to see the visible tectonic rift marking the boundary between the European and American plates, which runs through the mall. Parking and restrooms are free on site. Plan to spend about 30 minutes exploring the exhibition, which also includes displays about the 2008 southern Iceland earthquake.",
+      "rating": 2,
+      "lastVerified": "2026-08-31",
+      "regionLabel": "西南冰島",
+      "regionLabelEn": "Southwest Iceland",
+      "recommendedStayMinutes": 30,
+      "facilities": [
+        "免費停車",
+        "免費廁所",
+        "餐飲",
+        "加油",
+        "超商"
+      ],
+      "facilitiesEn": [
+        "Free parking",
+        "Free restroom",
+        "Food",
+        "Fuel",
+        "Convenience store"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/hjgS3FfPnnc4VPBW9",
+      "appUrl": null
+    },
+    {
+      "id": "experience-huppu-selfoss",
+      "nameZh": "Huppu 冰淇淋店",
+      "nameEn": "Huppu",
+      "aliases": [
+        "Ísbúð Huppu",
+        "Isbud Huppu",
+        "Huppa",
+        "Huppu Selfoss",
+        "Huppu Ice Cream Shop",
+        "Huppu ice cream",
+        "Selfoss 冰淇淋",
+        "冰島冰淇淋店",
+        "Iceland ice cream",
+        "ice cream Selfoss",
+        "Eyravegur 2",
+        "South Iceland ice cream"
+      ],
+      "latitude": 63.93733,
+      "longitude": -21.0052,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-huppu-selfoss/cover.webp?v=20260831-01",
+      "shortSummary": "店內以冰淇淋、奶昔及可自行搭配糖果等配料的冰品為主，可與 Selfoss 市中心、Fröken Selfoss、Old Dairy Food Hall 一起安排，冰島的冰淇淋蠻好吃的，而想找個地方休息，吃個冰，可以來這裡品嚐看看。",
+      "shortSummaryEn": "The shop mainly offers ice cream, milkshakes, and self‑serve toppings; you can combine a visit with Selfoss town centre, Fröken Selfoss, or Old Dairy Food Hall. Icelandic ice cream here is quite good, and the place is suitable for a short rest and a snack. Free parking and free restroom facilities are available on‑site, and a stay of about 60 minutes is recommended.",
+      "rating": 2,
+      "lastVerified": "2026-08-31",
+      "regionLabel": "西南冰島",
+      "regionLabelEn": "Southwest Iceland",
+      "recommendedStayMinutes": 60,
+      "facilities": [
+        "免費停車",
+        "免費廁所",
+        "餐飲"
+      ],
+      "facilitiesEn": [
+        "Free parking",
+        "Free restroom",
+        "Food"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/BkHYQexG5ATtdcz7A",
+      "appUrl": null
+    },
+    {
+      "id": "experience-lava-show-reykjavik",
+      "nameZh": "火山岩漿秀",
+      "nameEn": "Lava Show",
+      "aliases": [
+        "Lava Show Reykjavík",
+        "Reykjavík Lava Show",
+        "雷克雅維克火山熔岩秀",
+        "火山岩漿 Show",
+        "冰島 Lava Show",
+        "冰島熔岩秀",
+        "冰島火山體驗",
+        "real lava show Iceland",
+        "molten lava experience",
+        "volcano show Reykjavik",
+        "Reykjavik indoor attraction",
+        "Iceland lava experience"
+      ],
+      "latitude": 64.130224,
+      "longitude": -21.874421,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-lava-show-reykjavik/cover.webp?v=20260831-01",
+      "shortSummary": "沒能看火山爆發，又想看真實的火山岩漿 Lava，那麼雷克雅維克的 Lava Show 就是一個不錯的選擇。 是以「真實熔岩」為核心的室內火山體驗。現場會將火山岩重新熔化成高溫熔岩，讓觀眾近距離觀察熔岩流動、冷卻、結晶與產生火山玻璃的過程，同時搭配冰島火山活動與熔岩形成的解說 有 2 種票 - 基本與進階，進階票位置在 2 樓，含有一杯飲料與紀念品，如果想近距離接近 Lava 的話，可以買一般的票價即可。",
+      "shortSummaryEn": "Visit the indoor Lava Show in Reykjavík for a real‑lava experience. The show melts volcanic rock into high‑temperature lava, letting you watch the flow, cooling, crystallisation and volcanic glass formation up close, with commentary on Icelandic volcanic activity. Two ticket options are available: a basic ticket that lets you get close to the lava, and an advanced ticket on the second floor that includes a drink and a souvenir. Free parking and restrooms are on site. Plan to spend about 2 hours here. The venue is located at 64.130224 N, 21.874421 W; you can find it on Google Maps via the provided link.",
+      "rating": 2,
+      "lastVerified": "2026-08-31",
+      "regionLabel": "西南冰島",
+      "regionLabelEn": "Southwest Iceland",
+      "recommendedStayMinutes": 120,
+      "facilities": [
+        "免費停車",
+        "免費廁所",
+        "餐飲"
+      ],
+      "facilitiesEn": [
+        "Free parking",
+        "Free restroom",
+        "Food"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/LbumLZ9oKpzTS2cKA",
+      "appUrl": null
+    },
+    {
+      "id": "experience-lava-centre",
+      "nameZh": "冰島火山熔岩中心",
+      "nameEn": "Iceland Volcano & Earthquake Centre",
+      "aliases": [
+        "LAVA Centre",
+        "Iceland Volcano and Earthquake Center",
+        "LAVA Centre Hvolsvöllur",
+        "冰島火山中心",
+        "冰島地震中心",
+        "冰島火山博物館",
+        "火山互動展覽",
+        "volcano exhibition Iceland",
+        "volcano museum Iceland",
+        "South Iceland volcano centre"
+      ],
+      "latitude": 63.753238,
+      "longitude": -20.236428,
+      "matchRadiusMeters": 800,
+      "coverImageUrl": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-lava-centre/cover.webp?v=20260831-01",
+      "shortSummary": "館內是以冰島火山、地震、裂谷、冰川洪水與地質活動為主題的互動式展覽，也有火山影片放映與觀景平台，如果想上廁所，這裡有免費的廁所，裡面也有餐廳，還有一間 N66 的商店。",
+      "shortSummaryEn": "The exhibition focuses on Icelandic volcanoes, earthquakes, rift zones, glacial floods, and geological activity, offering interactive displays, volcanic film screenings, and a viewing platform. Free parking and restrooms are available on site. A recommended visit duration is about two hours.",
+      "rating": 2,
+      "lastVerified": "2026-08-31",
+      "regionLabel": "西南冰島",
+      "regionLabelEn": "Southwest Iceland",
+      "recommendedStayMinutes": 120,
+      "facilities": [
+        "免費停車",
+        "免費廁所",
+        "餐飲"
+      ],
+      "facilitiesEn": [
+        "Free parking",
+        "Free restroom",
+        "Food"
+      ],
+      "googleMapsUrl": "https://maps.app.goo.gl/eozLRrf4xfd8RLPw8",
       "appUrl": null
     }
   ]

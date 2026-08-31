@@ -1,0 +1,51 @@
+{
+  "id": "experience-huppu-selfoss",
+  "status": "published",
+  "primary_type": "experience",
+  "category": "food_experience",
+  "subcategory": "ice_cream_shop",
+  "region": "southwest",
+  "latitude": 63.93733,
+  "longitude": -21.0052,
+  "name_zh": "Huppu 冰淇淋店",
+  "name_en": "Huppu",
+  "summary_zh": "店內以冰淇淋、奶昔及可自行搭配糖果等配料的冰品為主，可與 Selfoss 市中心、Fröken Selfoss、Old Dairy Food Hall 一起安排，冰島的冰淇淋蠻好吃的，而想找個地方休息，吃個冰，可以來這裡品嚐看看。",
+  "summary_en": "The shop mainly offers ice cream, milkshakes, and self‑serve toppings; you can combine a visit with Selfoss town centre, Fröken Selfoss, or Old Dairy Food Hall. Icelandic ice cream here is quite good, and the place is suitable for a short rest and a snack. Free parking and free restroom facilities are available on‑site, and a stay of about 60 minutes is recommended.",
+  "google_maps_url": "https://maps.app.goo.gl/BkHYQexG5ATtdcz7A",
+  "photo_album_url": "",
+  "detailed_info_url": "https://branched-ranunculus-3e4.notion.site/Huppu-Huppu-3bd36b386fd980f89269fefb0b464399?source=copy_link",
+  "facilities": [
+    "parking",
+    "toilet",
+    "food"
+  ],
+  "parking": "free",
+  "toilet": "free",
+  "recommended_stay_minutes": 60,
+  "recommendation": 2,
+  "last_verified": "2026-08-31",
+  "search_keywords": [
+    "Ísbúð Huppu",
+    "Isbud Huppu",
+    "Huppu",
+    "Huppa",
+    "Huppu Selfoss",
+    "Huppu Ice Cream Shop",
+    "Huppu ice cream",
+    "Huppu 冰淇淋店",
+    "Selfoss 冰淇淋",
+    "冰島冰淇淋店",
+    "Iceland ice cream",
+    "ice cream Selfoss",
+    "Eyravegur 2",
+    "Selfoss",
+    "South Iceland ice cream"
+  ],
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-huppu-selfoss/cover.webp?v=20260831-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-huppu-selfoss/gallery-01.webp?v=20260831-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-huppu-selfoss/gallery-02.webp?v=20260831-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-huppu-selfoss/gallery-03.webp?v=20260831-01"
+  ],
+  "photographer": "賀禎禎"
+}

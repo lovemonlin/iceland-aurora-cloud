@@ -1,0 +1,51 @@
+{
+  "id": "experience-lava-show-reykjavik",
+  "status": "published",
+  "primary_type": "experience",
+  "category": "museum_exhibition",
+  "subcategory": "volcanic_lava_experience",
+  "region": "southwest",
+  "latitude": 64.130224,
+  "longitude": -21.874421,
+  "name_zh": "火山岩漿秀",
+  "name_en": "Lava Show",
+  "summary_zh": "沒能看火山爆發，又想看真實的火山岩漿 Lava，那麼雷克雅維克的 Lava Show 就是一個不錯的選擇。\n\n是以「真實熔岩」為核心的室內火山體驗。現場會將火山岩重新熔化成高溫熔岩，讓觀眾近距離觀察熔岩流動、冷卻、結晶與產生火山玻璃的過程，同時搭配冰島火山活動與熔岩形成的解說\n\n有 2 種票 - 基本與進階，進階票位置在 2 樓，含有一杯飲料與紀念品，如果想近距離接近 Lava 的話，可以買一般的票價即可。",
+  "summary_en": "Visit the indoor Lava Show in Reykjavík for a real‑lava experience. The show melts volcanic rock into high‑temperature lava, letting you watch the flow, cooling, crystallisation and volcanic glass formation up close, with commentary on Icelandic volcanic activity. Two ticket options are available: a basic ticket that lets you get close to the lava, and an advanced ticket on the second floor that includes a drink and a souvenir. Free parking and restrooms are on site. Plan to spend about 2 hours here. The venue is located at 64.130224 N, 21.874421 W; you can find it on Google Maps via the provided link.",
+  "google_maps_url": "https://maps.app.goo.gl/LbumLZ9oKpzTS2cKA",
+  "photo_album_url": "",
+  "detailed_info_url": "https://branched-ranunculus-3e4.notion.site/Show-Lava-Show-3cb36b386fd9802aac6bfca09ff4cb0b?source=copy_link",
+  "facilities": [
+    "parking",
+    "toilet",
+    "food"
+  ],
+  "parking": "free",
+  "toilet": "free",
+  "recommended_stay_minutes": 120,
+  "recommendation": 2,
+  "last_verified": "2026-08-31",
+  "search_keywords": [
+    "Lava Show",
+    "Lava Show Reykjavík",
+    "Lava Show Reykjavik",
+    "Reykjavík Lava Show",
+    "Reykjavik Lava Show",
+    "雷克雅維克火山熔岩秀",
+    "火山岩漿 Show",
+    "冰島 Lava Show",
+    "冰島熔岩秀",
+    "冰島火山體驗",
+    "real lava show Iceland",
+    "molten lava experience",
+    "volcano show Reykjavik",
+    "Reykjavik indoor attraction",
+    "Iceland lava experience"
+  ],
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-lava-show-reykjavik/cover.webp?v=20260831-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-lava-show-reykjavik/gallery-01.webp?v=20260831-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-lava-show-reykjavik/gallery-02.webp?v=20260831-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-lava-show-reykjavik/gallery-03.webp?v=20260831-01"
+  ],
+  "photographer": "賀禎禎"
+}

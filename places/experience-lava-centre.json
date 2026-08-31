@@ -1,0 +1,53 @@
+{
+  "id": "experience-lava-centre",
+  "status": "published",
+  "primary_type": "experience",
+  "category": "museum_exhibition",
+  "subcategory": "interactive_exhibition",
+  "region": "southwest",
+  "latitude": 63.753238,
+  "longitude": -20.236428,
+  "name_zh": "冰島火山熔岩中心",
+  "name_en": "Iceland Volcano & Earthquake Centre",
+  "summary_zh": "館內是以冰島火山、地震、裂谷、冰川洪水與地質活動為主題的互動式展覽，也有火山影片放映與觀景平台，如果想上廁所，這裡有免費的廁所，裡面也有餐廳，還有一間 N66 的商店。",
+  "summary_en": "The exhibition focuses on Icelandic volcanoes, earthquakes, rift zones, glacial floods, and geological activity, offering interactive displays, volcanic film screenings, and a viewing platform. Free parking and restrooms are available on site. A recommended visit duration is about two hours.",
+  "google_maps_url": "https://maps.app.goo.gl/eozLRrf4xfd8RLPw8",
+  "photo_album_url": "",
+  "detailed_info_url": "https://branched-ranunculus-3e4.notion.site/LAVA-Centre-3cb36b386fd98063a561db7963df9145?source=copy_link",
+  "facilities": [
+    "parking",
+    "toilet",
+    "food"
+  ],
+  "parking": "free",
+  "toilet": "free",
+  "recommended_stay_minutes": 120,
+  "recommendation": 2,
+  "last_verified": "2026-08-31",
+  "search_keywords": [
+    "LAVA Centre",
+    "Lava Centre",
+    "Iceland Volcano & Earthquake Centre",
+    "Iceland Volcano and Earthquake Center",
+    "LAVA Centre Hvolsvöllur",
+    "Lava Centre Hvolsvollur",
+    "冰島火山熔岩中心",
+    "冰島火山中心",
+    "冰島地震中心",
+    "冰島火山博物館",
+    "火山互動展覽",
+    "volcano exhibition Iceland",
+    "volcano museum Iceland",
+    "earthquake exhibition Iceland",
+    "Hvolsvöllur",
+    "Hvolsvollur",
+    "South Iceland volcano centre"
+  ],
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-lava-centre/cover.webp?v=20260831-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-lava-centre/gallery-01.webp?v=20260831-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-lava-centre/gallery-02.webp?v=20260831-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-lava-centre/gallery-03.webp?v=20260831-01"
+  ],
+  "photographer": "賀禎禎"
+}

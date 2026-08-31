@@ -1,0 +1,51 @@
+{
+  "id": "experience-froken-selfoss",
+  "status": "published",
+  "primary_type": "experience",
+  "category": "food_experience",
+  "subcategory": "special_restaurant",
+  "region": "southwest",
+  "latitude": 63.933481,
+  "longitude": -20.999853,
+  "name_zh": "塞爾福斯冰島料理餐廳",
+  "name_en": "Icelandic Dining Experience",
+  "summary_zh": "Fröken Selfoss 位於 Selfoss 市中心 Brúartorg 一帶，這裡是一個有三層樓的美飲餐廳集合，裡面有非常多不同種類飲食的餐廳平價、高價都有，也有免費的廁所。\n\n在旁邊的停車場付費。",
+  "summary_en": "Fröken Selfoss is located in the center of Selfoss at Brúartorg, spanning three floors with a variety of restaurants ranging from budget to upscale. Free restrooms are available on-site. Parking is nearby and requires a fee. Visitors are advised to allocate about 120 minutes for a visit.",
+  "google_maps_url": "https://maps.app.goo.gl/EJgwR7ESHmz7Nhmu7",
+  "photo_album_url": "",
+  "detailed_info_url": "https://branched-ranunculus-3e4.notion.site/Fr-ken-Selfoss-3ba36b386fd9804db343e0ccbafa18aa?source=copy_link",
+  "facilities": [
+    "parking",
+    "toilet",
+    "food"
+  ],
+  "parking": "paid",
+  "toilet": "free",
+  "recommended_stay_minutes": 120,
+  "recommendation": 2,
+  "last_verified": "2026-08-31",
+  "search_keywords": [
+    "Fröken Selfoss",
+    "Froken Selfoss",
+    "Fröken Selfoss Icelandic Food & Drinks",
+    "Froken Selfoss Icelandic Food and Drinks",
+    "塞爾福斯冰島料理餐廳",
+    "Fröken Selfoss 餐廳",
+    "冰島料理 Selfoss",
+    "Icelandic restaurant Selfoss",
+    "Icelandic dining experience",
+    "Icelandic food Selfoss",
+    "Selfoss restaurant",
+    "Brúartorg",
+    "Bruartorg",
+    "South Iceland restaurant",
+    "冰島南部餐廳"
+  ],
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-froken-selfoss/cover.webp?v=20260831-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-froken-selfoss/gallery-01.webp?v=20260831-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-froken-selfoss/gallery-02.webp?v=20260831-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-froken-selfoss/gallery-03.webp?v=20260831-01"
+  ],
+  "photographer": "賀禎禎"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "experience-fjorubordid",
+  "status": "published",
+  "primary_type": "experience",
+  "category": "food_experience",
+  "subcategory": "special_restaurant",
+  "region": "southwest",
+  "latitude": 63.837553,
+  "longitude": -21.066923,
+  "name_zh": "海岸龍蝦餐廳",
+  "name_en": "Langoustine Dining Experience",
+  "summary_zh": "Fjöruborðið 位於冰島南岸 Stokkseyri，是當地最具代表性的海螯蝦餐廳之一，招牌料理包括 langoustine soup 與奶油蒜香海螯蝦。從 Reykjavík 開車約 1 小時左右\n\n這間龍蝦餐廳，是提供「小龍蝦」，動手吃起來比較簡單，同時份量也算蠻足夠了，口味也讓人滿意，會讓人二訪的餐廳。",
+  "summary_en": "Fjöruborðið, located on Iceland’s south coast in Stokkseyri, is one of the most iconic langoustine restaurants in the area. Signature dishes include langoustine soup and butter‑garlic langoustine. It’s about a one‑hour drive from Reykjavík. The restaurant serves small lobsters that are easy to eat by hand, with generous portions and satisfying flavors, making it worth a second visit. Parking is free, and restrooms are also free on site. Expect to spend around 90 minutes enjoying the meal.",
+  "google_maps_url": "https://maps.app.goo.gl/FEogzNnFxai6qqJm8",
+  "photo_album_url": "",
+  "detailed_info_url": "https://branched-ranunculus-3e4.notion.site/Fj-rubor-i-3bd36b386fd980daaa39d481a38debfc?source=copy_link",
+  "facilities": [
+    "toilet",
+    "food",
+    "parking"
+  ],
+  "parking": "free",
+  "toilet": "free",
+  "recommended_stay_minutes": 90,
+  "recommendation": 2,
+  "last_verified": "2026-08-31",
+  "search_keywords": [
+    "Fjöruborðið",
+    "Fjorubordid",
+    "Fjöruborðið Restaurant",
+    "Fjorubordid Restaurant",
+    "langoustine restaurant Iceland",
+    "lobster restaurant Iceland",
+    "海岸龍蝦餐廳",
+    "Fjöruborðið 龍蝦餐廳",
+    "冰島龍蝦餐廳",
+    "冰島海螯蝦",
+    "langoustine soup Iceland",
+    "Stokkseyri restaurant",
+    "Stokkseyri",
+    "Eyrarbakki",
+    "Selfoss",
+    "South Iceland food experience"
+  ],
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-fjorubordid/cover.webp?v=20260831-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-fjorubordid/gallery-01.webp?v=20260831-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-fjorubordid/gallery-02.webp?v=20260831-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-fjorubordid/gallery-03.webp?v=20260831-01"
+  ],
+  "photographer": "賀禎禎"
+}

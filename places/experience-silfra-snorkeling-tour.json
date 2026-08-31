@@ -1,0 +1,52 @@
+{
+  "id": "experience-silfra-snorkeling-tour",
+  "status": "published",
+  "primary_type": "experience",
+  "category": "outdoor_activity",
+  "subcategory": "snorkeling_experience",
+  "region": "southwest",
+  "latitude": 64.255922,
+  "longitude": -21.122475,
+  "name_zh": "絲費拉裂縫浮潛",
+  "name_en": "Silfra Snorkeling Tour",
+  "summary_zh": "如果你有參加 絲費拉裂縫浮潛，這裡就是集合地，同時也是在這裡出發。\n\n一般 Silfra 浮潛行程約需 2～3 小時，實際下水時間通常較短，其餘時間包含報到、穿著乾式防寒衣、裝備說明與安全講解。活動通常需要事先預約，同時也需先看活動重要需知。\n\n開車在這裡停好車，也在這裡換裝，這裡無更衣室需留意。",
+  "summary_en": "Silfra Snorkeling Tour is the meeting point and departure location. Parking is free on site, and there are restrooms and a viewpoint available. The recommended stay is about 180 minutes. Expect a 2–3 hour overall experience, including check‑in, putting on a dry suit, equipment briefing and safety instructions, with the actual snorkeling time being shorter. No changing rooms are provided, so plan accordingly. Reservations are required in advance, and be sure to review any important notes about the activity beforehand.",
+  "google_maps_url": "https://maps.app.goo.gl/MkGijhteYWzRgPi2A",
+  "photo_album_url": "",
+  "detailed_info_url": "https://branched-ranunculus-3e4.notion.site/Silfra-Snorkeling-Tour-3ba36b386fd9806faaf4e91f7a035a54?source=copy_link",
+  "facilities": [
+    "parking",
+    "viewpoint",
+    "toilet"
+  ],
+  "parking": "free",
+  "toilet": "free",
+  "recommended_stay_minutes": 180,
+  "recommendation": 2,
+  "last_verified": "2026-08-31",
+  "search_keywords": [
+    "Silfra",
+    "Silfra Snorkeling Tour",
+    "Silfra snorkeling",
+    "Silfra fissure snorkeling",
+    "Silfra Fissure",
+    "絲費拉裂縫浮潛",
+    "絲費拉浮潛",
+    "西爾弗拉裂縫浮潛",
+    "冰島浮潛",
+    "冰島乾式衣浮潛",
+    "Thingvellir snorkeling",
+    "Þingvellir snorkeling",
+    "Thingvellir National Park",
+    "tectonic plate snorkeling",
+    "Golden Circle snorkeling",
+    "Iceland snorkeling tour"
+  ],
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-silfra-snorkeling-tour/cover.webp?v=20260831-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-silfra-snorkeling-tour/gallery-01.webp?v=20260831-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-silfra-snorkeling-tour/gallery-02.webp?v=20260831-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-silfra-snorkeling-tour/gallery-03.webp?v=20260831-01"
+  ],
+  "photographer": "賀禎禎"
+}

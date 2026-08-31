@@ -1,0 +1,53 @@
+{
+  "id": "experience-laugaras-lagoon",
+  "status": "published",
+  "primary_type": "experience",
+  "category": "wellness",
+  "subcategory": "geothermal_spa",
+  "region": "southwest",
+  "latitude": 64.1159,
+  "longitude": -20.4976,
+  "name_zh": "勞加勞斯溫泉",
+  "name_en": "Laugaras Geothermal Lagoon",
+  "summary_zh": "這是一個 2025-10 新開的溫泉，設備非常新，景觀也不錯，又在金圈裡面一個非常好的位置。\n\n特色包括雙層溫泉池、瀑布、洞穴區、森林池、無邊際池、冷水池、桑拿與池中酒吧。水溫約 38–40°C。\n\n想泡溫泉，你的旅程又有空檔，可以來這裡體驗，建議保留 2 小時比較充足的體驗。",
+  "summary_en": "This newly opened geothermal lagoon (2025‑10) offers modern facilities and great scenery in a prime location within the Golden Circle. It features a double‑level hot‑water pool, waterfall, cave area, forest pool, infinity pool, cold‑water pool, sauna, and a poolside bar, with water temperatures around 38–40 °C. Free parking and restrooms are available on site. We recommend allowing about 2 hours (120 minutes) to fully enjoy the experience.",
+  "google_maps_url": "https://maps.app.goo.gl/VobovhcpaF3sUVdx7",
+  "photo_album_url": "",
+  "detailed_info_url": "https://branched-ranunculus-3e4.notion.site/Laugar-s-Lagoon-3ba36b386fd98091bbc2c27ceef23a82?source=copy_link",
+  "facilities": [
+    "parking",
+    "toilet",
+    "food"
+  ],
+  "parking": "free",
+  "toilet": "free",
+  "recommended_stay_minutes": 120,
+  "recommendation": 3,
+  "last_verified": "2026-08-31",
+  "search_keywords": [
+    "Laugarás Lagoon",
+    "Laugaras Lagoon",
+    "Laugaras Geothermal Lagoon",
+    "Laugarás hot spring",
+    "Laugaras hot spring",
+    "勞加勞斯溫泉",
+    "Laugarás 溫泉",
+    "冰島地熱潟湖",
+    "黃金圈溫泉",
+    "geothermal lagoon Iceland",
+    "hot spring South Iceland",
+    "Hvítá River",
+    "Hvita River",
+    "Laugarás",
+    "Laugaras",
+    "Golden Circle spa",
+    "South Iceland lagoon"
+  ],
+  "cover_image_url": "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-laugaras-lagoon/cover.webp?v=20260831-01",
+  "gallery_image_urls": [
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-laugaras-lagoon/gallery-01.webp?v=20260831-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-laugaras-lagoon/gallery-02.webp?v=20260831-01",
+    "https://lovemonlin.github.io/iceland-aurora-cloud/images/places/experience-laugaras-lagoon/gallery-03.webp?v=20260831-01"
+  ],
+  "photographer": "賀禎禎"
+}
