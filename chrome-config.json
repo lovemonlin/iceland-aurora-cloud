@@ -1,6 +1,12 @@
 {
   "schemaVersion": 1,
   "announcement": {
-    "enabled": false
+    "enabled": true,
+    "title": "手機 APP 正式上架",
+    "message": "「冰島旅遊神器」 Android 正式上架，早鳥價 $99 。",
+    "buttonText": "點我下載",
+    "url": "https://play.google.com/store/apps/details?id=com.iceland.travel",
+    "startsAt": "2026-09-03T00:00:00+08:00",
+    "endsAt": "2026-10-31T23:59:59+08:00"
   }
 }
