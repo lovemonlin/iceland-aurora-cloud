@@ -35,6 +35,10 @@ class ChromePlaceGeneratorTest(unittest.TestCase):
             self.assertEqual("西南冰島", result["places"][0]["regionLabel"])
             self.assertEqual("Southwest Iceland", result["places"][0]["regionLabelEn"])
             self.assertEqual(60, result["places"][0]["recommendedStayMinutes"])
+            self.assertEqual(
+                "https://play.google.com/store/apps/details?id=com.iceland.travel",
+                result["places"][0]["appUrl"],
+            )
             self.assertEqual(" ".join(places[0]["summary_zh"].split()), result["places"][0]["shortSummary"])
             self.assertEqual(" ".join(places[0]["summary_en"].split()), result["places"][0]["shortSummaryEn"])
 

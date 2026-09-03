@@ -49,6 +49,7 @@ REGION_LABELS_EN = {
 GOOGLE_MAPS_ALIASES = {
     "attraction-skogafoss": ["史可加瀑布", "斯科加爾瀑布"],
 }
+ANDROID_APP_URL = "https://play.google.com/store/apps/details?id=com.iceland.travel"
 
 
 def load_json(path):
@@ -181,7 +182,7 @@ def generate(root):
             "facilities": facility_labels(place),
             "facilitiesEn": facility_labels(place, english=True),
             "googleMapsUrl": place["google_maps_url"],
-            "appUrl": None,
+            "appUrl": ANDROID_APP_URL,
         })
 
     return {
