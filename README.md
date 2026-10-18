@@ -6,8 +6,21 @@ GitHub Actions generates Iceland-only PNG overlays for 0–24 hours at 3-hour in
 Data: ECMWF IFS Open Data, CC BY 4.0. These are modified regional visualisations, not official ECMWF products.
 
 The repository also publishes compact road-condition and incident GeoJSON generated from IRCA's
-official DATEX II 3.1 snapshot services. The road workflow runs every five minutes and preserves
-the official English description for the app.
+official DATEX II 3.1 snapshot services and preserves the official English description for the app.
+
+## IRCA Road production clock
+
+- Cloudflare Worker: `irca-road-scheduler`
+- Cadence: every 10 minutes (`*/10 * * * *`)
+- Execution entry point: GitHub Actions `workflow_dispatch` → `update-road-info.yml`
+- Legacy GitHub schedule: retired
+
+### Scheduler history
+
+2026-10-19: The previous GitHub cron (`*/5 * * * *`, every five minutes) was retired after
+confirmation of three successful Cloudflare-triggered dispatches about ten minutes apart.
+Cloudflare is now the sole IRCA Road production clock. The publisher job and its existing
+`update-road-info` concurrency group with `cancel-in-progress: true` remain unchanged.
 
 It also contains the published travel-place catalogue used by the app. The first static pilot is
 Thingvellir National Park. Future releases will generate the catalogue from the owner's Notion

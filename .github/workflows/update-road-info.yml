@@ -1,8 +1,6 @@
 name: Update IRCA road information
 
 on:
-  schedule:
-    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
